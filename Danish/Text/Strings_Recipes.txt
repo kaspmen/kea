@@ -1,0 +1,1082 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+
+// Note: The description texts is displayed on the popups that appear when the user touches/clicks a step icon in the recipe. Below it, the component icons are drawn.
+// Note: The completion texts is displayed on the as Max or Lily pops up to comment on completing a step in the recipe.
+
+
+//BRICK 1
+//BRICK 1
+//BRICK 1
+
+//Description texts
+
+Brick_1_Desc1: Ler er et af de ældste byggematerialer på Jorden.\n\nFor at tage det første trin til at lave en mursten af ler, har man brug for at fremstille tørt ler med nedenstående komponenter.
+
+Brick_1_Desc2: Vådt ler har den plasticitet der er nødvendig for at kunne forme leret som en mursten. \n\nDu skal have tørt ler og en komponent der har form som den herunder.
+
+Brick_1_Desc3: Når det tørre ler bliver hårdt igen, kan du lave hårde mursten af ler formet i en våd form.\n\nFor at lave en hård mursten af ler, har du brug for tidsredskabet og vådt ler.
+
+Brick_1_Desc4: Når leret brændes, sker der permanente fysiske og kemiske forandringer som gør det egnet som en byggesten.\n\nFor at afslutte dette niveau har du brug for en hård mursten af ler og et særligt redskab der har form som den herunder.
+
+
+//Step completion texts
+
+Brick_1_Lily_Step1: Godt gået! Det andet trin skal udføres på samme måde som det første du lige lavede.
+
+Brick_1_Max_Step2: Fantastisk! Du har lavet en våd mursten af ler.\n\nVælg det næste trin for at fortsætte.
+
+Brick_1_Lily_Step3: Du er der næsten!\n\nDen HÅRDE MURSTEN AF LER udviser egenskaber der næsten gør den anvendelig til at bygge med, men vi er der ikke helt endnu.\n\nDu har brug for et sidste trin for at klare niveauet.
+
+
+
+
+
+//BRICK 2
+//BRICK 2
+//BRICK 2
+
+//Description texts
+
+Brick_2_Desc1: Ler er et af de ældste byggematerialer på Jorden.\n\nFor at tage det første skridt til at lave en mursten af ler, har du brug for at lave tørt ler ved hjælp af nedenstående komponenter.
+
+Brick_2_Desc2: Ler kan antage en rødlig farve hvis det behandles på en særlig måde.\n\nFor at lave denne komponent, har du brug for tingene herunder.
+
+Brick_2_Desc3: Vådt ler har den plasticitet der er nødvendig for at kunne forme leret som en mursten.
+
+Brick_2_Desc4: Når det tørre ler bliver hårdt igen, kan man lave hårde mursten af ler som formes i en våd form.\n\nFor at lave det, har du brug for den hårde røde mursten af vådt ler og et andet ukendt redskab eller materiale.
+
+Brick_2_Desc5: Når leret brændes, sker der permanente fysiske og kemiske forandringer. Denne særlige mursten har en mørkere farve end sin forgænger, og den er mere holdbar. \n\nDu har brug for det tidligere trin og et redskab.
+
+
+//Step completion texts
+
+Brick_2_Max_Step1: Du har fundet ud af hvad formerne betyder, godt arbejde.\n\nLad os nu hurtig lave det tørre ler rødt. 
+
+Brick_2_Max_Step2: Nu da vi har ændret dets egenskaber, så lad os fortsætte med et fremstillingstrin der ligner det for den hvide mursten.
+
+Brick_2_Max_Step3: Udmærket. Nu kan du forme murstenen, hvis du har lyst.
+
+Brick_2_Max_Step4: Ved at vente fordamper vandet fra murstenen og gør den hård.
+
+
+
+
+
+//PAPER 1
+//PAPER 1
+//PAPER 1
+
+//Description texts
+
+Paper_1_Desc1: For at lave træflis har du brug for … jah … træ.\n\nOg et eller andet slags redskab.
+
+Paper_1_Desc2: Træflisen skal knuses og opløses således at fibrene kommer frem.
+
+Paper_1_Desc3: Vask fjerner og skyller uønskede fortyndere og urenheder ud.
+
+Paper_1_Desc4: Fibrene skal tørres for at eliminere vandet. 
+
+Paper_1_Desc5: Fortynding sker med en faktor på 100. Desuden skal fibrene bleges for at gøre dem hvidere.
+
+Paper_1_Desc6: Det færdige papir tørres ved en temperatur på 100 °C. Det skal være tæt presset og udspændt.
+
+
+//Step completion texts
+
+Paper_1_Max_Step1: Fantastisk. Jeg kunne godt lide den del hvor træet blev smadret til træflis. Der er … helt sejt.\n\nJeg går ud fra at træflisen nu skal opløses.
+
+Paper_1_Max_Step2: Nej! Den stamme vi havde, er nu nærmest bare en klæbrig masse.\n\nDen mekaniske knusning brugte desværre en hel masse energi. Men hvor var den store maskine sej!
+
+Paper_1_Lily_Step3: Max troede måske at knusemaskinen var sej. Men se på alt det klamme stof der er tilbage i træmassen. Jeg er glad for at I vaskede det.
+
+Paper_1_Max_Step4: Fedt! Nu er det tørret fibermasse.\n\nSå … det er nok ikke så fedt, men nu skal fibermassen fortyndes og bleges.
+
+
+
+//PAPER 2
+//PAPER 2
+//PAPER 2
+
+//Description texts
+
+Paper_2_Desc1: For at lave træflis har du brug for … jah, træ.\n\nOg et eller andet slags redskab.
+
+Paper_2_Desc2: Træflisen knuses under stort tryk og koges med et kraftigt alkalisk opløsningsmiddel.
+
+Paper_2_Desc3: Vask fjerner og skyller uønskede fortyndere og urenheder ud.
+
+Paper_2_Desc4: Fibrene skal tørres for at eliminere vandet. 
+
+Paper_2_Desc5: Fortynding sker med en faktor på 100.
+
+Paper_2_Desc6: Det færdige papir tørres ved en temperatur på 100 °C. Det skal være tæt presset og udspændt.
+
+
+//Step completion texts
+
+Paper_2_Lily_Step1: Sikke et roderi det lavede.\n\nMen det er vel den mest effektive måde vi har at lave træflis på.
+
+Paper_2_Lily_Step4: Nu hvor du har tørret fibermassen, skal den fortyndes.
+
+Paper_2_Lily_Step5: Smukt! Nu varer det ikke længe inden vi har noget papir at skrive på.
+
+
+
+
+//PAPER 3
+//PAPER 3
+//PAPER 3
+
+//Description texts
+
+Paper_3_Desc1: Papir opløses til papirmasse under stort tryk og koges med et kraftigt alkalisk opløsningsmiddel.
+
+Paper_3_Desc2: Vask fjerner og skyller uønskede fortyndere ud.
+
+Paper_3_Desc3: Fibrene skal tørres for at eliminere vandet. 
+
+Paper_3_Desc4: Fortynding sker med en faktor på 100.
+
+Paper_3_Desc5: Det færdige papir tørres ved en temperatur på 100 °C. Det skal være tæt presset og udspændt.\n\nDesuden skal papiret behandles med et materiale for at give det opacitet og glans.
+
+
+//Step completion texts
+
+
+
+//GLASS 1
+//GLASS 1
+//GLASS 1
+
+//Description texts
+
+Glass_1_Desc1: Glas dannes når sand og to andre komponenter varmes op.
+
+Glass_1_Desc2: Glas i flydende form er ekstremt varmt.\n\nFor varmt?
+
+Glass_1_Desc3: Udglødningsprocessen fjerner interne spændinger som kan være opstået i afkølingsfasen. Det gør glasset stærkere.
+
+Glass_1_Desc4: Udglødet glas i dets nuværende form er for varmt til at håndtere.
+
+
+//Step completion texts
+
+Glass_1_Max_Step1: Udmærket.\n\nMen forsigtig, det er et meget varmt emne!
+
+Glass_1_Max_Step3: Godt klaret!\n\nVed at varme glasset op igen bliver det mere holdbart. 
+
+
+
+//GLASS 2
+//GLASS 2
+//GLASS 2
+
+//Description texts
+
+Glass_2_Desc1: Glas dannes når sand og to andre komponenter varmes op.
+
+Glass_2_Desc2:	Der er brug for yderligere materiale for at skabe holdbart glas.\n\nDer er også brug for et eller andet redskab.
+
+Glass_2_Desc3: Udglødningsprocessen fjerner interne spændinger som kan være opstået i afkølingsfasen. Det gør glasset stærkere.
+
+Glass_2_Desc4:  Udglødet glas i dets nuværende form er for varmt til at håndtere.
+
+
+//Step completion texts
+
+Glass_2_Max_Step1: Du er ved at få fod på det.\n\nNu kommer den drilagtige del: Hvilke komponenter kan gøre glas mere holdbart?
+
+Glass_2_Max_Step2: Vi kan tilføre endnu flere elementer til glasset som vi har lyst til. Fx kan boroxid gøre glasset varmebestandigt, og blyoxid kan lave det om til en god skærm mod stråling.
+
+
+
+//GLASS 3
+//GLASS 3
+//GLASS 3
+
+//Description texts
+
+Glass_3_Desc1: Glas dannes når disse tre komponenter varmes op.
+
+Glass_3_Desc2: Miljøvenligt glas involverer genbrug af gammelt glas.
+
+Glass_3_Desc3: : Udglødningsprocessen fjerner interne spændinger som kan være opstået i afkølingsfasen. Det gør glasset stærkere.
+
+Glass_3_Desc4:  Udglødet glas i dets nuværende form er for varmt til at håndtere.
+
+
+//Step completion texts
+
+Glass_3_Max_Step1: Du ser ud til at klare dig perfekt.\n\nJeg tror at jeg springe den her over.
+
+
+//DISPLAY 1 
+//DISPLAY 1
+//DISPLAY 1
+
+//Description texts
+
+Display_1_Desc1_1: Tynd-film-transistorer er normalt indlagt i selve panelet, hvilket reducerer crosstalk mellem pixels og forbedrer billedstabiliteten.
+
+Display_1_Desc1_2: En gennemsigtig ledende elektrode skal sættes på det gennemsigtige substrat.
+
+Display_1_Desc2_1: Der skal bruges et uorganisk substrat som kan manipulere lys til at frembringe billeder i bevægelse.
+
+Display_1_Desc3: En simpel kombination.
+
+Display_1_Desc4: Panelet skal polariseres på bunden og forsiden.
+
+Display_1_Desc5: Man behøver en lyskilde for at få lys og farver på det der allerede er fremstillet. Glaspakningen af displayet er også meget vigtig. 
+
+//Step completion texts
+
+Display_1_Max_Step2_1: Syret! Flydende krystaller.\n\nDu ved nok … når der sættes en spænding på disse flydende krystaller, så fungerer de ligesom kontakter der blokerer forskellige farver hver gang.\n\nDet er den måde fjernsynet viser billeder!
+
+Display_1_Max_Step4: Det er sejt! Lyset kommer først igennem polariseringsfiltrene for at rette alle lysbølgerne i en retning.\n\nUden det ville dit fjernsyn vel bare være en elektrisk pære.
+
+
+//DISPLAY 2 
+//DISPLAY 2
+//DISPLAY 2
+
+//Description texts
+
+Display_2_Desc1: Tynd-film-transistorer er normalt indlagt i selve panelet, hvilket reducerer crosstalk mellem pixels og forbedrer billedstabiliteten.
+
+Display_2_Desc2_2: Tynd-film-transistorerne styrer hvilket pixel på displayet der skal fungere for hver gang, og dermed frembringes billeder.\n\nDer skal afsættes en ledende elektrode for at indsamle den elektriske strøm.
+
+Display_2_Desc3: Organiske, udsendende polymerer leder elektricitet og udsender lys pga. den elektriske strøm.
+
+Display_2_Desc4: Der skal bruges metalelektroder for at kunne lede den elektriske strøm.
+
+Display_2_Desc5: Endelig sættes den polariserende film på, og der er brug for glasindpakning.
+
+
+//Step completion texts
+
+Display_2_Max_Step2_2: Nu sættes der STRØM på siliciumpanelet. Det er fordi du lige har afsat indium-tinoxid (ITO) på det. ITO er en glimrende leder, og den er gennemsigtig, hvilket er rigtig godt for displays!
+
+Display_2_Max_Step4: Nu er panelet ladet, og du er klar til at starte. Jah … altså næsten. Det skal stadig polariseres og pakkes.
+
+
+
+//DISPLAY 3 
+//DISPLAY 3
+//DISPLAY 3
+
+//Description texts
+
+Display_3_Desc1: Afsætning er en proces hvor der lægges et tyndt lag eller en film på en overflade.\n\nIGZO er det grundlæggende materiale i en tynd-film-transistor som styrer hvilke pixels på displayet der skal virke hvornår.
+
+Display_3_Desc2: Der skal afsættes en ledende elektrode som er gennemsigtig for at indsamle den elektriske strøm.
+
+Display_3_Desc3: Organiske, udsendende polymerer leder elektricitet og udsender lys pga. den elektriske strøm.
+
+Display_3_Desc4: Der skal bruges metalelektroder for at kunne lede den elektriske strøm.
+
+Display_3_Desc5: Endelig sættes den polariserende film på, og der er brug for glasindpakning.
+
+
+//Step completion texts
+
+Display_3_Lily_Step1: Sejt! Indium-gallium-zinkoxid bruges i en tynd-film-transistor i stedet for silicium. Ved at bruge dette materiale i displays SÆNKER man faktisk strømforbruget.
+
+
+
+//SEMICONDUCTOR 1
+//SEMICONDUCTOR 1
+//SEMICONDUCTOR 1
+
+//Description texts
+
+SemiConductor_1_Desc1_1: Et lille podekrystal sættes på enden af et skaft.
+
+SemiConductor_1_Desc1_2: Smeltning af meget rent silicium i halvleder kvalitet ved 1690 °C.
+
+SemiConductor_1_Desc2: De fremstillede materialer skal samles.
+
+SemiConductor_1_Desc3: Der er brug for en eller anden konstant kraft for at fremstille ingoten.
+
+SemiConductor_1_Desc4: Ingoten skal skæres i tynde skiver.
+
+SemiConductor_1_Desc5: Waferne skal poleres.
+
+
+//Step completion texts
+
+SemiConductor_1_Max_Step1_1: Storartet! Det er klar til at blive sat ned i boget smeltet noget, og et ENORMT krystal vil forme sig omkring det.
+
+SemiConductor_1_Max_Step2: Kunne svare til en kop brændende varm chili. Men med et smeltepunkt på 1414 grader skal vi nok ikke røre ved det.
+
+SemiConductor_1_Lily_Step3: Jeg elsker krystaller! Det er så interessant en proces. Siliciummet gik fra at være et fast stof til flydende til fast igen!
+
+
+
+//SEMICONDUCTOR 2
+//SEMICONDUCTOR 2
+//SEMICONDUCTOR 2
+
+//Description texts
+
+SemiConductor_2_Desc1: Siliciumwafers er tynde skiver af behandlede siliciumingoter.
+
+SemiConductor_2_Desc2: For at kunne gå videre, skal du arbejde i vakuum.
+
+SemiConductor_2_Desc3: Doping er når atomer fra et materiale blandes ind i et andet materiale.\n\nResultatet er at det dopede materiale har elektriske egenskaber som er anderledes end dets oprindelige ikke-dopede tilstand (fx at det kan lede en elektrisk strøm bedre).
+
+SemiConductor_2_Desc4: Du behøver ikke meget, bare en.
+
+SemiConductor_2_Desc5: Nu har du brug for at materialet også kan lede elektricitet med en strøm af negative ladninger. N-doping.
+
+SemiConductor_2_Desc6: 
+
+
+//Step completion texts
+
+SemiConductor_2_Max_Step2: Lufttomme siliciumwafers. Eller er det siliciumwafers i lufttomt rum? Jeg bliver forvirret.
+
+SemiConductor_2_Lily_Step3: Fantastisk! Ion-implantering er en proces hvori ioner fra et materiale accelereres af et elektrisk felt for at ryge ind i et fast stof.\n\nHele processen skal ske i vakuum.
+
+SemiConductor_2_Lily_Step5: Enormt. Bor og fosfor har nu forbedret deres egenskaber som halvledere!\n\nSå nu kan du lave en pn-overgang hvilket er grænsefladen mellem halvledere af p-typen og n-typen.
+
+
+
+//WORLD BATTERY 1
+//WORLD BATTERY 1
+//WORLD BATTERY 1
+
+//Description texts
+
+WorldBattery_1_Desc1: Substratet skal være bøjeligt.
+
+WorldBattery_1_Desc2: Piezoelektricitet er den effekt at der kan dannes spændinger i kanterne af visse materiale når de påvirkes af mekaniske kræfter.
+
+WorldBattery_1_Desc3: Elektroder er lavet af ledende materialer for at kunne lede den elektriske strøm
+
+
+//Step completion texts
+
+WorldBattery_1_Max_Step2: Er der næsten.\n\nVi har brug for en anden forbindelse til batteriet, så den elektriske strøm kan flyde.
+
+
+
+//WORLD BATTERY 2
+//WORLD BATTERY 2
+//WORLD BATTERY 2
+
+//Description texts
+
+WorldBattery_2_Desc1_1: Substratet skal være modstandsdygtigt over for høje temperaturer, og der skal være sat ledende metaller på.
+
+WorldBattery_2_Desc1_2: Substratet skal være modstandsdygtigt over for høje temperaturer, og der skal være sat ledende metaller på.
+
+WorldBattery_2_Desc2_1: Der sættes et materiale med termoelektriske egenskaber på for at kunne omdanne varmen til elektrisk energi.
+
+WorldBattery_2_Desc2_2: Der sættes et materiale med termoelektriske egenskaber på for at kunne omdanne varmen til elektrisk energi.
+
+WorldBattery_2_Desc3_1: Der skal laves mønstre på overfladen.
+
+WorldBattery_2_Desc3_2: Der skal laves mønstre på overfladen.
+
+WorldBattery_2_Desc4_1: Uønskede materialer dannet ved det tidligere trin skal fjernes.
+
+WorldBattery_2_Desc4_2: Substratet skal være modstandsdygtigt over for høje temperaturer, og der skal være sat ledende metaller på.
+
+WorldBattery_2_Desc4_3: Uønskede materialer dannet ved det tidligere trin skal fjernes.
+
+WorldBattery_2_Desc5: Sæt stykkerne sammen for at lave en generator som producerer elektricitet af konversionen fra termisk energi.
+
+
+//Step completion texts
+
+
+
+//STEEL 1
+//STEEL 1
+//STEEL 1
+
+//Description texts
+
+Steel_1_Desc1: Jernoxid er en kemisk forbindelse af jern og ilt. Ilt forbindes let med kulstof.
+
+Steel_1_Desc2: Der er stadig mange urenheder til stede. Der skal tilsættes yderligere komponenter til blandingen for at slippe af med dem.
+
+Steel_1_Desc3: Jernmalm er ikke særligt brugbart i den form, så det skal raffineres yderligere.\n\nJern smelter ved 1530 °C.
+
+Steel_1_Desc4: Der er mange uønskede urenheder i dette smeltede jern.\n\nIlt hjælper med at fjerne dem.
+
+Steel_1_Desc5: Slagger er uønskede og skal fjernes for at blive brugt andre steder fx ved vejanlæg.
+
+Steel_1_Desc6: Jern i sin flydende form kan ikke bearbejdes af byggearbejdere. 
+
+
+//Step completion texts
+
+Steel_1_Max_Step1: Godt gået. Jernoxid er den primære komponent i stålfremstilling.
+
+Steel_1_Max_Step4: Nu vil vi fjerne de slagger der stadig er tilbage i det smeltede jern.
+
+Steel_1_Max_Step5: Sidste trin. Lad os køle de her varme ting ned, så de blive hårde til et fast stof.
+
+
+
+//STEEL 2
+//STEEL 2
+//STEEL 2
+
+//Description texts
+
+Steel_2_Desc1: Jernoxid er en kemisk forbindelse af jern og ilt. Ilt forbindes let med kulstof.
+
+Steel_2_Desc2: Der er stadig mange urenheder til stede. Der skal tilsættes yderligere komponenter til blandingen for at slippe af med dem.
+
+Steel_2_Desc3: Jernmalm er ikke særligt brugbart i den form, så det skal raffineres yderligere.\n\nJern smelter ved 1530 °C.
+
+Steel_2_Desc4: Der er mange uønskede urenheder i dette smeltede jern.\n\nIlt hjælper med at fjerne dem.
+
+Steel_2_Desc5: Slagger er uønskede og skal fjernes for at blive brugt andre steder fx ved vejanlæg.
+
+Steel_2_Desc6: Kabelstål er kendt for dets evne til at bøje og modstå træk uden at gå i stykker.\n\nMaterialerne skal kombineres.
+
+
+//Step completion texts
+
+Steel_2_Max_Step1: Du er på det rigtige spor her.
+
+Steel_2_Max_Step5: Det sidste trin her er noget anderledes end fremstilling af normalt stål.\n\nVi må tilføje noget der ændre dets egenskaber for at gøre det mere holdbart og brugbart som stålwire og kabler.
+
+
+//STEEL 3
+//STEEL 3
+//STEEL 3
+
+//Description texts
+
+Steel_3_Desc1: Jernoxid er en kemisk forbindelse af jern og ilt. Ilt forbindes let med kulstof.
+
+Steel_3_Desc2: Der er stadig mange urenheder til stede. Der skal tilsættes yderligere komponenter til blandingen for at slippe af med dem.
+
+Steel_3_Desc3: Jernmalm er ikke særligt brugbart i den form, så det skal raffineres yderligere.\n\nJern smelter ved 1530 °C.
+
+Steel_3_Desc4: Der er mange uønskede urenheder i dette smeltede jern.\n\nIlt hjælper med at fjerne dem.
+
+Steel_3_Desc5: Slagger er uønskede og skal fjernes for at blive brugt andre steder fx ved vejanlæg.
+
+Steel_3_Desc6: Rustfrit stål er meget modstandsdygtigt over for korrosion. Det fungerer også godt under trækpåvirkning.\n\nMaterialerne skal kombineres.
+
+
+//Step completion texts
+
+Steel_3_Max_Step1: Ja. Denne gang laver vi rustfrit stål der skal bruges til skæreredskaber.
+
+Steel_3_Lily_Step5: Storartet! På det sidste trin skal du tilføje det element som gør stål rustfrit.
+
+
+//ARTIFICIAL PHOTOSYNTHESIS 1
+//ARTIFICIAL PHOTOSYNTHESIS 1
+//ARTIFICIAL PHOTOSYNTHESIS 1
+
+//Description texts
+
+ArtificialPhotoSynthesis_1_Desc1: Fotosyntese finder sted i vand.
+
+ArtificialPhotoSynthesis_1_Desc2_1: Adskillelsen af fotoanoder og fotokatoder er nødvendig for at holde de fremkomne luftarter væk fra hinanden for at nedsætte risikoen for en eksplosiv reaktion.
+
+ArtificialPhotoSynthesis_1_Desc3: Sæt det grundlæggende anlæg sammen for et kunstigt blad, hvortil der skal bruges en ilt-frembringende enhed og en brint-frembringende enhed.
+
+ArtificialPhotoSynthesis_1_Desc4: Fotokatoderne skal belægges med et ædelmetal der fungerer som katalysator, og som vil starte processen. 
+
+ArtificialPhotoSynthesis_1_Desc5: Der er brug for en vigtig faktor fotosynteseprocessen, den frembragte brint skal opbevares.
+
+
+//Step completion texts
+
+ArtificialPhotoSynthesis_1_Max_Step1: Er denne beholder halvt fuld eller halvt tom?
+
+ArtificialPhotoSynthesis_1_Lily_Step2_1: Det er rigtigt! Membranen adskiller luftarterne fra hinanden da de ellers kunne reagere og eksplodere.
+
+ArtificialPhotoSynthesis_1_Max_Step3: Den grundlæggende opstilling.\n\nLad os håbe at det ikke eksploder i ansigtet på os.\n\nDet næste trin bliver rigtig dyrt.
+
+
+
+//ARTIFICIAL PHOTOSYNTHESIS 2
+//ARTIFICIAL PHOTOSYNTHESIS 2
+//ARTIFICIAL PHOTOSYNTHESIS 2
+
+//Description texts
+
+ArtificialPhotoSynthesis_2_Desc1: Vand er grundlaget for fotosyntesen.
+
+ArtificialPhotoSynthesis_2_Desc2_1: Adskillelsen af fotoanoder og fotokatoder er nødvendig for at holde de fremkomne luftarter væk fra hinanden for at nedsætte risikoen for en eksplosiv reaktion.
+
+ArtificialPhotoSynthesis_2_Desc3: Sæt det grundlæggende anlæg sammen for et kunstigt blad, hvortil der skal bruges en ilt-frembringende enhed og en brint-frembringende enhed.
+
+ArtificialPhotoSynthesis_2_Desc4: Fotoanoderne er belagt med en katalysator der sætter den ilt-frembringende proces i gang.,
+
+ArtificialPhotoSynthesis_2_Desc5: De brint-frembringende fotokatoder skal belægges med en katalysator.
+
+ArtificialPhotoSynthesis_2_Desc6: En vigtig faktor fotosynteseprocessen, den frembragte brint skal opbevares.
+
+
+//Step completion texts
+
+ArtificialPhotoSynthesis_2_Max_Step3: Nu kommer den drilagtige del. Det er anderledes end det du gjorde på sidste niveau.
+
+
+//LAB ON A CHIP 1
+//LAB ON A CHIP 1
+//LAB ON A CHIP 1
+
+//Description texts
+
+LabOnAChip_1_Desc1: Overfør det nødvendige mikrofluidik eller andre mønstre til substratet.
+LabOnAChip_1_Desc2: Indgraver de  frembragte mønstre fra det tidligere trin ved at ætse substratet.
+LabOnAChip_1_Desc3: Et laboratorium på en chip er et mikroskopisk laboratorium hvor elektriske signaler skal transmitteres eller modtages.\n\nDer skal bruges metalkontakter (dvs. elektroder) til det.
+LabOnAChip_1_Desc4: Disse komponenter hjælper med at finde en bestemt sygdom og cirkulerer væsker rund i laboratoriet på chippen.
+LabOnAChip_1_Desc5: Dette laboratorium på en chip skal være forseglet med et tilsvarende substrat for at beskytte de elektroniske anordninger i det og forsegle mikrofluidik-kanalerne.
+
+
+//Step completion texts
+
+LabOnAChip_1_Max_Step1: [Tilføj bemærkning]
+
+
+//LAB ON A CHIP 2
+//LAB ON A CHIP 2
+//LAB ON A CHIP 2
+
+//Description texts
+
+LabOnAChip_2_Desc1: Varmeprægning er en metode til at overføre mønstre på et substrat.
+LabOnAChip_2_Desc2: Et laboratorium på en chip er en mikroelektronisk anordning hvori elektriske signaler skal transmitteres eller modtages.\n\nDer skal bruges metalkontakter (dvs. elektroder) til det.
+LabOnAChip_2_Desc3: Disse komponenter hjælper med at finde en bestemt sygdom og cirkulerer væsker rund i laboratoriet på chippen.
+LabOnAChip_2_Desc4: Dette laboratorium på en chip skal være forseglet med et tilsvarende substrat for at beskytte de elektroniske anordninger i det og forsegle mikrofluidik-kanalerne.
+
+
+//Step completion texts
+
+
+
+
+//LAB ON A CHIP 3
+//LAB ON A CHIP 3
+//LAB ON A CHIP 3
+
+//Description texts
+
+LabOnAChip_3_Desc1: Papirsubstrater skal imprægneres med en hydrofobisk og lysfølsom substans.
+LabOnAChip_3_Desc2: Hydrofile kanalmønstre skal formes, derfor skal fotomodstanden selektivt fjernes fra papirsubstratet.
+LabOnAChip_3_Desc3: De materialer det opdager protein og glukose, skal afsættes oven på de hydrofile kanaler.
+
+
+//Step completion texts
+
+LabOnAChip_3_Max_Step1: [Tilføj bemærkning]
+
+
+
+//BATTERY 1
+//BATTERY 1
+//BATTERY 1
+
+//Description texts
+
+Battery_1_Desc1: En katode er den elektrode hvor elektronerne kommer ind i batteriet. Katodematerialet skal have sin ledeevne forøget.
+Battery_1_Desc2_1: Tryk katoden ind i en beholder.
+Battery_1_Desc2_2: Separatoren nedsænkes i en elektrolytopløsning, og det lader de elektriske ladninger strømme frit gennem den.
+Battery_1_Desc3_1: Anoden og katoden skal være adskilt fra hinanden, eller kommer der ikke nogen elektriske ladninger.
+Battery_1_Desc3_2:  En anode er den elektrode hvor elektronerne kommer ud af batteriet
+Battery_1_Desc4: Strømmen af ioner mellem batteriets katode og anode skaber den elektriske strøm.
+
+
+//Step completion texts
+
+Battery_1_Max_Step1: [Tilføj bemærkning]
+
+
+
+//BATTERY 2
+//BATTERY 2
+//BATTERY 2
+
+//Description texts
+
+Battery_2_Desc1_1: Anodematerialet presses til plader.
+Battery_2_Desc1_2: Katodematerialet presses til plader.\n\nBatteriet får til dels sit navn fra katodematerialet.
+Battery_2_Desc2_1: For at forøge den elektriske ledeevne, belægges pladerne med metal.
+Battery_2_Desc2_2: For at forøge den elektriske ledeevne, belægges pladerne med metal.
+Battery_2_Desc3_1: Anoden skal varmetørres.
+Battery_2_Desc3_2: Katoden skal varmetørres.
+Battery_2_Desc4: Opstabling af anoder og katoder kræver en adskillelse.
+Battery_2_Desc5: Det er tilføjelsen af elektrolyt som omdanner den kemiske energi til elektrisk energi.\n\nElektrolytten er en flydende eller geleagtig substans.
+Battery_2_Desc6: Batteriet lufttørres, indkapsles og aktiveres ved skiftevis at lade det og aflade det.
+
+
+//Step completion texts
+
+Battery_2_Max_Step1_1: [Tilføj bemærkning]
+
+
+
+//BATTERY 3
+//BATTERY 3
+//BATTERY 3
+
+//Description texts
+
+Battery_3_Desc1_1: Anodematerialet presses til plader.
+Battery_3_Desc1_2: Katodematerialet presses til plader.\n\nBatteriet får til dels sit navn fra katodematerialet.\n\nSelve katodematerialet har ikke nogen stor ledeevne, og det skal derfor kombineres med et ekstra materiale.
+Battery_3_Desc2_1: For at forøge den elektriske ledeevne, belægges pladerne med metal.
+Battery_3_Desc2_2: For at forøge den elektriske ledeevne, belægges pladerne med metal.
+Battery_3_Desc3_1: Anoden skal varmetørres.
+Battery_3_Desc3_2: Katoden skal varmetørres.
+Battery_3_Desc4: Opstabling af anoder og katoder kræver en adskillelse som kan tåle utroligt høje temperaturer.
+Battery_3_Desc5: Det er tilføjelsen af elektrolyt som omdanner den kemiske energi til elektrisk energi.\n\nElektrolytten er en flydende eller geleagtig substans.
+Battery_3_Desc6: Batteriet lufttørres, indkapsles og aktiveres ved skiftevis at lade det og aflade det.
+
+
+//Step completion texts
+
+Battery_3_Max_Step1_1: [Tilføj bemærkning]
+
+
+//INTERNET OF THINGS 1
+//INTERNET OF THINGS 1
+//INTERNET OF THINGS 1
+
+//Description texts
+
+InternetOfThings_1_Desc1:  	Sæt elektroder, som er i stand til at modstå meget kraftig varme (over 1500 °C), på bagsiden og forsiden af det dielektriske substrat. 
+InternetOfThings_1_Desc2_1: Sæt bagside- og forsideelektroder på substratet.
+InternetOfThings_1_Desc2_2: Lav mønster i elektrodelaget.
+InternetOfThings_1_Desc3_1: Lav mønster i elektrodelaget for at bygge metalkontakten på forsiden som vil udsende det elektriske signal. 
+InternetOfThings_1_Desc3_2: Fjern overskydende lag for at se the påtrykte mønster på substratet, og som skal bruges til elektriske målinger.
+InternetOfThings_1_Desc4_1: Fjern overskydende lag for at se the påtrykte mønster på substratet.
+InternetOfThings_1_Desc4_2: Tryk den substans som skal opdage luftarter på substratet.
+InternetOfThings_1_Desc5: Internet af ting er et elektronisk system som opfanger ændringer fra sensorer og transmitterer disse informationer trådløst.\n\nMen det er ubrugeligt hvis det ikke strømforsynet.
+
+
+//Step completion texts
+
+InternetOfThings_1_Max_Step1: [Tilføj bemærkning]
+
+
+//TRANSIENT ELECTRONICS 1
+//TRANSIENT ELECTRONICS 1
+//TRANSIENT ELECTRONICS 1
+
+//Description texts
+
+TransientElectronics_1_Desc1: Substratet skal være tilberedt for at kunne kombinere med andre materialer.
+TransientElectronics_1_Desc2: Et elektrodemateriale skal rulles ud til en tynd folie på substratet.\n\nElektroden skal oxideres senere i processen.
+TransientElectronics_1_Desc3_1: Oxideringen forgår som et tab af elektroner over en tidsperiode.
+TransientElectronics_1_Desc3_2: En biokompatibel pn-overgangsblanding.
+TransientElectronics_1_Desc4: Pn-overgangen trykkes på substratet.
+TransientElectronics_1_Desc5: En biokompatibel top-elektrode trykkes oven på substratet.
+
+
+//Step completion texts
+
+TransientElectronics_1_Max_Step1: [Tilføj bemærkning]
+
+
+//TRANSIENT ELECTRONICS 2
+//TRANSIENT ELECTRONICS 2
+//TRANSIENT ELECTRONICS 2
+
+//Description texts
+
+TransientElectronics_2_Desc1: Parvise anoder og katoder.\n\nDisse elektroder skal være biokompatible fordi et midlertidigt batteri implanteres i kroppen på et menneske.
+TransientElectronics_2_Desc2: Metalfolierne skal være forbundne uden at komme i kontakt med hinanden.
+TransientElectronics_2_Desc3: Forsegl folierne med en ikke-toksisk film som en menneskekrop ikke vil udstøde.
+TransientElectronics_2_Desc4: En flydende elektrolyt skal fylde batteriet.
+TransientElectronics_2_Desc5: Forsegl det midlertidige batteri.
+
+
+//Step completion texts
+
+TransientElectronics_2_Max_Step1: [Tilføj bemærkning]
+
+
+//SOLAR PANEL 1
+//SOLAR PANEL 1
+//SOLAR PANEL 1
+
+//Description texts
+
+SolarPanel_1_Desc1: Anti-reflekterende belægninger opfanger sollys og reducerer skæret fra solen.\n\nDette trin er nødvendigt både for at opfange solenergi og for ikke at blænde forbipasserende.
+SolarPanel_1_Desc2: Der skal bruges metalelektroder for at kunne lede den elektriske strøm.
+SolarPanel_1_Desc3: Solcellen indkapsles.
+
+
+//Step completion texts
+
+SolarPanel_1_Max_Step1: [Tilføj bemærkning]
+
+
+//SOLAR PANEL 2
+//SOLAR PANEL 2
+//SOLAR PANEL 2
+
+//Description texts
+
+SolarPanel_2_Desc1: En gennemsigtig ledende oxid giver bedre transmissionopfangning af sollys.
+SolarPanel_2_Desc2: Pn-overgangen (som er tyndere end i almindelige solceller) sættes på.
+SolarPanel_2_Desc3: Der skal bruges metalelektroder for at kunne lede den elektriske strøm.
+SolarPanel_2_Desc4: Solcellen indkapsles.
+
+
+//Step completion texts
+
+SolarPanel_2_Max_Step1: [Tilføj bemærkning]
+
+
+//SOLAR PANEL 3
+//SOLAR PANEL 3
+//SOLAR PANEL 3
+
+//Description texts
+
+SolarPanel_3_Desc1: En gennemsigtig ledende oxid giver bedre transmissionopfangning af sollys.
+SolarPanel_3_Desc2_1: En biokompatibel pn-overgangsblanding.
+SolarPanel_3_Desc2_2: Et mellemlag som forøger solcellens energieffektivitet.
+SolarPanel_3_Desc3: Pn-overgangen trykkes på substratet.
+SolarPanel_3_Desc4: Der skal bruges metalelektroder for at kunne lede den elektriske strøm.
+SolarPanel_3_Desc5: Solcellen indkapsles.
+
+
+//Step completion texts
+
+SolarPanel_3_Max_Step1: [Tilføj bemærkning]
+
+
+//PHOTOREDUCTION OF CO2 1
+//PHOTOREDUCTION OF CO2 1
+//PHOTOREDUCTION OF CO2 1
+
+//Description texts
+
+PhotoReductionOfCO2_1_Desc1: Beholderen med krukkelampen skal indeholde en væske og være tilsluttet en maskine som kan føre luft ind i vandet.
+PhotoReductionOfCO2_1_Desc2: Der sker en reaktion med fotokatalysatoren og dermed filtreres luften ved at nedbringe indholdet af kuldioxid.\n\nEn fotokatalysator er en katalysator som aktiveres af sollysets ultraviolette stråler.
+PhotoReductionOfCO2_1_Desc3: En fotoreduktionsproces aktiveres af de ultraviolette stråler. Det reducerer CO2 i atmosfærisk luft.
+
+
+//Step completion texts
+
+PhotoReductionOfCO2_1_Max_Step1: [Tilføj bemærkning]
+
+
+//PHOTOREDUCTION OF CO2 2
+//PHOTOREDUCTION OF CO2 2
+//PHOTOREDUCTION OF CO2 2
+
+//Description texts
+
+PhotoReductionOfCO2_2_Desc1: Fotokatalysatoren opløses i en vandig opløsning. Det er en reaktion som involverer CO2 som aktiveres af ultraviolette stråler og dermed reducerer CO2 i atmosfærisk luft.
+PhotoReductionOfCO2_2_Desc2: Det materiale som kommer i kontakt med atmosfærisk luft, skal imprægneres med fotokatalysatoren.
+PhotoReductionOfCO2_2_Desc3: Der skal bygges en glasbeholder rundt om fibrene for at holde på den atmosfærisk luft som skal renses.\n\nBeholderen er åben og har åbninger til indføring af lys og luft.
+PhotoReductionOfCO2_2_Desc4: En fotoreduktionsproces aktiveres af de ultraviolette stråler, og det reducerer indholdet af CO2 i atmosfærisk luft.
+
+
+//Step completion texts
+
+PhotoReductionOfCO2_2_Max_Step1: [Tilføj bemærkning]
+
+
+//PHOTOREDUCTION OF CO2 3
+//PHOTOREDUCTION OF CO2 3
+//PHOTOREDUCTION OF CO2 3
+
+//Description texts
+
+PhotoReductionOfCO2_3_Desc1: Fotokatalysatoren opløses i vand.
+PhotoReductionOfCO2_3_Desc2: Det materiale som kommer i kontakt med atmosfærisk luft, skal imprægneres med fotokatalysatoren.
+PhotoReductionOfCO2_3_Desc3: Sammensæt reaktoren for naturligt lys bestående af en reaktor og et lysabsorberende element.
+PhotoReductionOfCO2_3_Desc4: En fotoreduktionsproces aktiveres af de sollys, og det reducerer indholdet af CO2 i atmosfærisk luft.
+
+
+//Step completion texts
+
+PhotoReductionOfCO2_3_Max_Step1: [Tilføj bemærkning]
+
+
+//CARBON NANOTUBES 1
+//CARBON NANOTUBES 1
+//CARBON NANOTUBES 1
+
+//Description texts
+
+CarbonNanoTubes_1_Desc1: Indføring af en katalysator i et substrat.\n\nRedskabet frembringer faste stoffer ud af luftarter.
+CarbonNanoTubes_1_Desc2: Reducer risiko for uønskede kemiske reaktioner mellem ilt og fugt.
+CarbonNanoTubes_1_Desc3: Indfør en kilde til luftformigt kulstof til at dyrke kulstofnanorør. Det forårsager ekstrem varmeudvikling pga. de kemiske reaktioner.
+CarbonNanoTubes_1_Desc4: Afkøl kulstofnanorørene som er ekstremt varme pga. de kemiske reaktioner i redskabet til  deponering vha. kemiske dampe.
+CarbonNanoTubes_1_Desc5: Fjern kulstofnanorørene fra redskabet til  deponering vha. kemiske dampe.
+
+
+//Step completion texts
+
+CarbonNanoTubes_1_Max_Step1: [Tilføj bemærkning]
+
+
+//CARBON NANOTUBES 2
+//CARBON NANOTUBES 2
+//CARBON NANOTUBES 2
+
+//Description texts
+
+CarbonNanoTubes_2_Desc1: Gør kulstofnanorørene funktionsdygtige, dvs. at ændre deres overflade.\n\nProcessen sker inde i det samme redskab som frembringer kulstofnanorørene.
+CarbonNanoTubes_2_Desc2: Dyrk og modificer kulstofnanorørene ved indføring af en luftart.\n\nProcessen tager ca. en halv time i opvarmede omgivelser.
+CarbonNanoTubes_2_Desc3: Afkøl kulstofnanorørene.
+CarbonNanoTubes_2_Desc4_1: Styrk polymermaterialet og berig det med en katalysator.
+CarbonNanoTubes_2_Desc4_2: Fjern kulstofnanorørene fra redskabet til  deponering vha. kemiske dampe.
+CarbonNanoTubes_2_Desc5: Imprægner kulstofnanorørene som nu er funktionsdygtige, og pres dem ud til plader.
+CarbonNanoTubes_2_Desc6: Form og smelt pladerne til den endelige laminat form.
+
+
+//Step completion texts
+
+CarbonNanoTubes_2_Max_Step1: [Tilføj bemærkning]
+
+
+//WATER DESALINATION 1
+//WATER DESALINATION 1
+//WATER DESALINATION 1
+
+//Description texts
+
+WaterDesalination_1_Desc1: Fjern opslæmmet materiale fra det forurenede vand og tilsæt et kemikalie for at undgå biologisk vækst. 
+WaterDesalination_1_Desc2: Fjern kloren fra vandet med en kemisk proces.
+WaterDesalination_1_Desc3: Vandet indeholder stadig småpartikler som skal fjernes.
+WaterDesalination_1_Desc4: Vandet skal ledes gennem et omvendt osmose-system under meget højt tryk.
+WaterDesalination_1_Desc5: Omvendt osmose bruger halvgennemtrængelige membraner til at fjerne salt fra vandet.
+WaterDesalination_1_Desc6: Vandet skal gennemgå en efterbehandling efter den omvendte osmose-proces. Juster pH-værdien til det neutrale område, og gør smagen af vandet bedre.\n\nYderligere bruges et desinficerende middel til at dræbe og hindre alle mikroorganismer (virus, bakterier, protozoer osv.) fra det rene vand.
+
+
+//Step completion texts
+
+WaterDesalination_1_Max_Step1: [Tilføj bemærkning]
+
+
+//WATER DESALINATION 2
+//WATER DESALINATION 2
+//WATER DESALINATION 2
+
+//Description texts
+
+WaterDesalination_2_Desc1: Fjern opslæmmet materiale fra det forurenede vand og tilsæt et kemikalie for at undgå biologisk vækst. 
+WaterDesalination_2_Desc2: Fjern kloren fra vandet med en kemisk proces.
+WaterDesalination_2_Desc3: Vandet indeholder stadig småpartikler som skal fjernes.
+WaterDesalination_2_Desc4: Vandet skal ledes gennem et omvendt osmose-system under meget højt tryk.
+WaterDesalination_2_Desc5: Omvendt osmose bruger halvgennemtrængelige membraner til at fjerne salt fra vandet.\n\nDer bruges to forskellige membraner for at opnå en mere effektiv afsaltning.
+WaterDesalination_2_Desc6: Vandet skal gennemgå en efterbehandling efter den omvendte osmose-proces. Juster pH-værdien til det neutrale område, og gør smagen af vandet bedre.\n\nYderligere bruges et desinficerende middel til at dræbe og hindre alle mikroorganismer (virus, bakterier, protozoer osv.) i det rene vand.
+
+
+//Step completion texts
+
+WaterDesalination_2_Max_Step1: [Tilføj bemærkning]
+
+
+//WATER DESALINATION 3
+//WATER DESALINATION 3
+//WATER DESALINATION 3
+
+//Description texts
+
+WaterDesalination_3_Desc1: Du skal være formløs ligesom vand. Når man hælder vand i en kop, bliver det koppen. Når man hælder vand i en flaske, bliver det flasken. Når man hælder vand i en tekande, bliver det tekanden. Vand kan dryppe, og det kan styrte. Bliv ligesom vand, min ven.
+WaterDesalination_3_Desc2_1: Saltvandet pumpes gennem den fremadrettede osmose-celle når dette sættes på.
+WaterDesalination_3_Desc2_2: Redskabet til fremadrettet osmose er belagt med en membran som kun tillader vandmolekyler at passere igennem.
+WaterDesalination_3_Desc3_1: Denne fremadrettet osmose-proces bruger saltvand og en vandgennemtrængelig membran.\n\nDe to dele er forbundet gennem rør.
+WaterDesalination_3_Desc3_2: Sirup, tak! Du opfører dig helt skørt, behersk dig!
+WaterDesalination_3_Desc4: Fremadrettet osmose er en osmotisk proces hvori en meget koncentreret opløsning bruges til at inducere en indre strøm af vand gennem en membran som resulterer i en effektiv adskillelse af vandet fra dens urenheder.\n\nDerfor er det nødvendige tryk til denne proces ikke så høj som ved processen med omvendt osmose.
+
+
+//Step completion texts
+
+WaterDesalination_3_Max_Step1: [Tilføj bemærkning]
+
+
+//TARGETED DRUG DELIVERY 1
+//TARGETED DRUG DELIVERY 1
+//TARGETED DRUG DELIVERY 1
+
+//Description texts
+
+TargetedDrugDelivery_1_Desc1: Saml den kemiske reaktor til medicinleveringssystemet.
+TargetedDrugDelivery_1_Desc2: Frembring stealth-liposomer med sonikering.
+TargetedDrugDelivery_1_Desc3: Medicin indkapsles i stealth-liposomet og transporteres med blodet rundt i kroppen.
+TargetedDrugDelivery_1_Desc4: Lægemidlet er flydende, og det skal overføres ind i menneskekroppen.
+
+
+//Step completion texts
+
+TargetedDrugDelivery_1_Max_Step1: [Tilføj bemærkning]
+
+
+//TARGETED DRUG DELIVERY 2
+//TARGETED DRUG DELIVERY 2
+//TARGETED DRUG DELIVERY 2
+
+//Description texts
+
+TargetedDrugDelivery_2_Desc1: Saml den kemiske reaktor til medicinleveringssystemet.
+TargetedDrugDelivery_2_Desc2: Tilfør materialer for at skabe stealth- liposomerne.
+TargetedDrugDelivery_2_Desc3: Intelligente partikler vedhæftes stealth-liposomerne med sonikering. Disse partikler kan finde og målrettes mod specifikke celler i kroppen.
+TargetedDrugDelivery_2_Desc4: Medicin der er vedhæftet liposomerne, transporteres gennem kroppen.
+TargetedDrugDelivery_2_Desc5: Lægemidlet er flydende, og det skal overføres ind i menneskekroppen.
+
+
+//Step completion texts
+
+TargetedDrugDelivery_2_Max_Step1: [Tilføj bemærkning]
+
+
+//TARGETED DRUG DELIVERY 3
+//TARGETED DRUG DELIVERY 3
+//TARGETED DRUG DELIVERY 3
+
+//Description texts
+
+TargetedDrugDelivery_3_Desc1_1: En enhed som kan levere medicin til en patient.
+TargetedDrugDelivery_3_Desc1_2: En overvågningsenhed som kan måle substansniveauer og overføre data til en ekstern processor.
+TargetedDrugDelivery_3_Desc2: Biofeebacksystemet sættes på menneskekroppen.
+TargetedDrugDelivery_3_Desc3: Et loop er færdigt når en behandlingsenhed kan analysere de modtagne data fra senderen og efterfølgende kan levere den nødvendige dosis medicin.
+
+
+//Step completion texts
+
+TargetedDrugDelivery_3_Max_Step1: [Tilføj bemærkning]
+
+
+//NANOROBOTS 1
+//NANOROBOTS 1
+//NANOROBOTS 1
+
+//Description texts
+
+NanoRobots_1_Desc1: Der er brug for en biokompatibel beholder for at integrere de nødvendige nanorobotkomponenter som opfatter og retter sig mod de inficerede celler.
+NanoRobots_1_Desc2_1: Nanorobotten bevæger sig gennem blodbanerne og forsynes af en biokompatibel energikilde.
+NanoRobots_1_Desc2_2: En processor analyserer de indsamlede data fra sensorerne for at bestemme sygdomme og aflevere medicin.
+NanoRobots_1_Desc3: Nanorobotten leverer denne komponent til celler der er syge eller inficerede.
+NanoRobots_1_Desc4: Nanorobotten er forseglet af anordningen som skaber bevægelsen.
+
+
+//Step completion texts
+
+NanoRobots_1_Max_Step1: [Tilføj bemærkning]
+
+
+//BRAIN COMPUTER INTERFACES 1
+//BRAIN COMPUTER INTERFACES 1
+//BRAIN COMPUTER INTERFACES 1
+
+//Description texts
+
+BrainComputerInterfaces_1_Desc1: Disse flade, runde elektroder bruges til at optage aktivitet af hjernebølger.
+BrainComputerInterfaces_1_Desc2: Den hjernebølgeaktivitet der blev opfanget af elektroderne som elektrisk signal, er svagt og ubrugeligt.\n\nDe skal nå op til elleve!
+BrainComputerInterfaces_1_Desc3: Systemet til elektroencefalografien (eeg) skal indkapsles så den passer rundt om en persons hoved.
+BrainComputerInterfaces_1_Desc4: Elektroencefalografi (eeg) er en optagelse af elektrisk aktivitet hen over hovedet. Denne funktion leveres allerede af elektroderne og forstærkerne.\n\nHjernebølger/hovebundsaktiviteter skal transmitters til en overvågningsenhed.
+
+//Step completion texts
+
+BrainComputerInterfaces_1_Max_Step1: [Tilføj bemærkning]
+
+
+//BRAIN COMPUTER INTERFACES 2
+//BRAIN COMPUTER INTERFACES 2
+//BRAIN COMPUTER INTERFACES 2
+
+//Description texts
+
+BrainComputerInterfaces_2_Desc1: Disse flade, runde elektroder bruges til at optage aktivitet af hjernebølger.\n\nSølv har vist sig at have den bedste ydeevne ved signal med lav amplitude.
+BrainComputerInterfaces_2_Desc2: Den hjernebølgeaktivitet der blev opfanget af elektroderne som elektrisk signal, er svagt.\n\nDe skal nå op til elleve!
+BrainComputerInterfaces_2_Desc3: Hele hjernecomputergrænsefladen (brain computer interface – BCI) til hovedet er en hætte der sættes på hovedet af en bruger.\n\nDen optager hjernebølgeaktiviteten.
+BrainComputerInterfaces_2_Desc4: Elektroencefalografi (eeg) er en optagelse af elektrisk aktivitet hen over hovedet. Denne funktion leveres allerede af elektroderne og forstærkerne.\n\nHjernebølge/hovebundsaktiviteter skal transmitters til en kraftig databehandlingsenhed før de kan bruges.
+
+//Step completion texts
+
+BrainComputerInterfaces_2_Max_Step1: [Tilføj bemærkning]
+
+
+//BRAIN COMPUTER INTERFACES 3
+//BRAIN COMPUTER INTERFACES 3
+//BRAIN COMPUTER INTERFACES 3
+
+//Description texts
+
+BrainComputerInterfaces_3_Desc1: Der skal bruges elektroder inde i kraniet for at måle hjerneaktiviteten. De skal være fremstillet af et materiale der giver mindst mulig risiko for at skade hjernevævet.\n\nDen hjernebølgeaktivitet der opfattes af elektroderne som elektrisk signal, er svagt. Signalerne skal nå op til elleve!
+BrainComputerInterfaces_3_Desc2: Elektroderne, såvel som andre anordninger, skal implanteres for at transmittere og behandle den store mængde hjernedata som optages af elektroencefalografisystemet (eeg).
+
+//Step completion texts
+
+BrainComputerInterfaces_3_Max_Step1: [Tilføj bemærkning]
+
+
+//PRINTABLE PROSTHETICS 1
+//PRINTABLE PROSTHETICS 1
+//PRINTABLE PROSTHETICS 1
+
+//Description texts
+
+PrintableProsthetics_1_Desc1_1: Ledet og ophænget er det der fæstner protesen til personen.\n\nDen er lavet af gummi og hårdt plastic.
+PrintableProsthetics_1_Desc1_2: Knoglestrukturen i den kunstige lem skal være let og stærk for at understøtte megen vægt.\n\nDen skal også respondere på input fra hjernebølgerne, så personen der bruger den, kan bevæge sig frit.
+PrintableProsthetics_1_Desc2_1: Den kosmetiske overflade på protesen fremstilles af plastic der er let at forme.
+PrintableProsthetics_1_Desc2_2: Det bare kunstige ben har funktionalitet som et ben. 
+PrintableProsthetics_1_Desc3: Det kunstige ben styres af personens sind (eller hjernebølgeaktivitet) som sender et signal til en trådløs afkoder som så starter motoren.
+
+//Step completion texts
+
+PrintableProsthetics_1_Max_Step1: [Tilføj bemærkning]
+
+
+//FUEL CELLS 1
+//FUEL CELLS 1
+//FUEL CELLS 1
+
+//Description texts
+
+FuelCells_1_Desc0_1: En anode er den elektrode hvor elektronerne kommer ud af cellen. Den her er lavet af to materialer.
+FuelCells_1_Desc0_2: En katode er den elektrode hvor elektronerne kommer ind i cellen. Den her er lavet af to materialer. 
+FuelCells_1_Desc1_1: Anoden skal belægges med en katalysator som nedbryder brændstoffet til elektroner og ioner.
+FuelCells_1_Desc1_2: Katoden skal belægges med en katalysator som laver ioner om til spildmateriale, nemlig vand.
+FuelCells_1_Desc1_3: Elektrolytten er det materiale der gør det muligt for elektroner at bevæge sig frit mellem anode og katode.
+FuelCells_1_Desc2: Brændselscellen er ligesom et batteri, idet dens kerne består af en anode, en katode og en elektrolyt.
+FuelCells_1_Desc3: Den største forskel mellem et almindeligt batteri og en brændselsceller er at der kræves en konstant brændselskilde som pumpes ind i celle.
+FuelCells_1_Desc4: Brint reagerer med et kemisk stof og danner det harmløse biprodukt H2O, aka vand.\n\nDette kemiske stof pumpes ind i cellen under stort tryk.
+
+
+//Step completion texts
+
+FuelCells_1_Max_Step1: [Tilføj bemærkning]
+
+
+//FUEL CELLS 2
+//FUEL CELLS 2
+//FUEL CELLS 2
+
+//Description texts
+
+FuelCells_2_Desc1_1: En anode er den elektrode hvor elektronerne forlader cellen.\n\nKatalysatoren nedbryder brændstoffet til elektroner og ioner.
+FuelCells_2_Desc1_2: En katode er den elektrode hvor elektronerne kommer ind i cellen.\n\nKatodekatalysatoren laver ioner om til molekyler, fx vand eller kuldioxid.
+FuelCells_2_Desc2: Brændselscellen er ligesom et batteri, idet dens kerne består af en anode, en katode og en elektrolyt.\n\nForskellen mellem en alkalisk brændselscelle og en PEM-brændselscelle ligger i den elektrolyt det anvendes.
+FuelCells_2_Desc3: Den største forskel mellem et almindeligt batteri og en brændselsceller er at der kræves en konstant brændselskilde som pumpes ind i celle.
+FuelCells_2_Desc4: Brint reagerer med et bestemt kemisk stof og danner det harmløse biprodukt H2O, aka vand.\n\nDette kemiske stof pumpes ind i cellen under stort tryk.
+
+
+//Step completion texts
+
+FuelCells_2_Max_Step1: [Tilføj bemærkning]
+
+
+
+
+
+

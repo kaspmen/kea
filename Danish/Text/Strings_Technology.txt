@@ -1,0 +1,221 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+//NOTE: This text is the same as the ones in the Strings_Materials.txt (Consider deleting the CompleteTechnology_TECH_x)
+
+//Godt arbejde!\nDu er færdig med dette niveau.\n\nNu kan du sælge denne teknologi til borgerne i din by.
+
+///BRICK
+CompletedTechnology_Brick_1:		En mursten er en blok af æltet lerjord, kalk og sand, brændt hård (eller lufttørret), og som bruges murstensbyggeri. Den hvidlige farve viser at der ikke blev dannet jernoxid ved opvarmningen.
+
+CompletedTechnology_Brick_2:		En mursten er en blok af æltet lerjord, kalk og sand, brændt hård (eller lufttørret), og som bruges murstensbyggeri. Denne særlige mursten er meget holdbar
+
+
+///PAPER
+CompletedTechnology_Paper_1:		 Papir som ikke er stærkt, fremstilles ved mekanisk knusning. Fremstillingsprocessen har færre omkostninger og fri for kemikalier, men den bruger store mængder energi.
+
+CompletedTechnology_Paper_2:		Meget stærkt papir fremstilles ved kemisk opløsning i en energieffektiv proces som giver bedre styrke og glans.
+
+CompletedTechnology_Paper_3:		Papir lavet af gammelt papir. Da papir er et materiale der nemt kan genbruges, nedsætter det miljøpåvirkningerne af at bruge papir når man genbruger det.
+
+
+///DISPLAY
+CompletedTechnology_Display_1:		Kompakte og bærbare displays. LED-displays er sammensat af lysdioder (lysemitterende dioder – LED’er) og flydende krystaller. Lysdioder producerer lys, og de flydende krystaller styrer intensiteten af dette lys når vi ændrer deres retning.
+
+CompletedTechnology_Display_2:		Organiske LED-displays er baseret på organisk materiale til deres lysfrembringende LED’er. De er kompakte og bærbare og kan også være fleksible.
+
+CompletedTechnology_Display_3:		IGZO-displays bruger gennemsigtigt halvleder-materiale. Det gør dem ideelle til brug i gennemsigtige elektroniske anordninger.\n\nIGZO-teknologi findes i smartphones og tabletdisplays
+
+
+///SEMICONDUCTOR
+CompletedTechnology_SemiConductor_1:		En halvleder er et materiale som har en elektrisk ledeevne der let kan ændres.\n\nDen kan tunes til enten at være en leder eller en isolator.
+
+CompletedTechnology_SemiConductor_2:		Når en p-type og en n-type halvleder er i kontakt med hinanden opstår et halvledermateriale med en tosidet natur.\n\nDet er den fundamentale anordning og ide bag solid-state-elektronik.
+
+
+///GLASS
+CompletedTechnology_Glass_1:		Glas er et amorft (ikke-krystalinsk) fast stof som normalt er skørt og optisk gennemsigtigt.
+
+CompletedTechnology_Glass_2:		Normalt glas går nemt i stykker, derfor skal det modificeres til en mere holdbar form til et stort brugsområde. Holdbart glas har mange anvendelsesmuligheder, fx til møbler, husholdningsapparater og selvfølgelig smartphones.
+
+CompletedTechnology_Glass_3:		Miljøvenligt glas er delvist fremstillet af genbrugsglas, og dermed reduceres forbruget af råmaterialer.
+
+
+///WORLD BATTERY
+CompletedTechnology_WorldBattery_1:		Piezoelektriske anordninger er anordninger som høster mekanisk energi (menneskelig bevægelse, lydbølger, vind) fra omgivelserne og laver den om til elektrisk energi vha. en kategori af materialer som kaldes piezoelektriske.
+
+CompletedTechnology_WorldBattery_2:		Termoelektriske generatorer er anordninger som omdanner termisk energi til elektricitet, som regel med en effektivitet på 7-8 %.
+
+
+///STEEL
+CompletedTechnology_Steel_1:		Stål er en metallegering af jern og kulstof. Bygningsstål gør det muligt at bygge større og stærkere byggerier som kan modstå bøjende kræfter og give bedre jordskælvsbeskyttelse.
+
+CompletedTechnology_Steel_2:		Kabelstål et meget stærkt stål der bruges til bygning af broer, elevatorer og kraner.
+
+CompletedTechnology_Steel_3:		Rustfrit stål er meget modstandsdygtigt mod korrosion, hvilket gør det brugbart til redskaber der kommer i kontakt med væsker.
+
+
+///ARTIFICIAL PHOTOSYNTHESIS
+CompletedTechnology_ArtificialPhotoSynthesis_1:	Et kunstigt blad er en anordning hvor en kemisk proces efterligner den naturlige proces, fotosyntesen. Det kunstige blad høster sollys for at splitte vandmolekyler og producere brint. Brinten kan så bruges som brændstof.
+
+CompletedTechnology_ArtificialPhotoSynthesis_2:		Et kunstigt blad er en anordning hvor en kemisk proces efterligner den naturlige proces, fotosyntesen. Det meget kunstige blad høster sollys for at splitte vandmolekyler og producere brint. Brinten kan så bruges som brændstof.\n\nÆdelmetaller som er svære at finde her på Jorden, udskiftes med avancerede materialer hvilket gør processen mere bæredygtig.
+
+
+///LAB ON A CHIP
+CompletedTechnology_LabOnAChip_1:		Et laboratorium på en chip (LoC) er en anordning hvor alle funktioner i et laboratorium er formindsket til nogle få kvadratcentimeter. Det hjælper til med at diagnosticere tidligt og forbedre chancerne for helbredelse.
+
+CompletedTechnology_LabOnAChip_2:		Et laboratorium på en chip (LoC) er en anordning hvor alle funktioner i et laboratorium er formindsket til nogle få kvadratcentimeter. Det hjælper til med at diagnosticere tidligt og forbedre chancerne for helbredelse.\n\nDen her er baseret på et polymersubstrat, hvilket gør fremstillingsprocessen mere fleksibel og biokompatibel sammenlignet med substrater af glas eller silicium.
+
+CompletedTechnology_LabOnAChip_3:		Et laboratorium på en chip (LoC) er en anordning hvor alle funktioner i et laboratorium er formindsket til nogle få kvadratcentimeter. Det hjælper til med at diagnosticere tidligt og forbedre chancerne for helbredelse.\n\nDen her papir-LoC opsuger væsker passivt, er billig og biokompatibel, og den giver en hurtig og visuel detektion.  
+
+
+///BATTERY
+CompletedTechnology_Battery_1:		Engangsbatterier frembringer elektricitet fra en irreversibel kemisk reaktion, og de kan derfor ikke genoplades.\nDe bruges til at give strøm til apparater som fx MP3-spillere, ure, lommelygter eller endog pacemakere.
+
+CompletedTechnology_Battery_2:		Genopladelige batterier kan genoplades mange gange indtil de til sidst ikke virker mere. De findes som regel i bærbare og mobiltelefoner.\nBatteriet aflades og genoplades afhængigt af retningen af den elektrokemiske reaktion.
+
+CompletedTechnology_Battery_3:		En mere avanceret type genopladeligt batteri kan holde mindre energi, men det kan levere den meget hurtigt. Det er lille og har en længere levetid.\n\nDet bruges i elektriske biler og som anordninger til backupstrøm.
+
+
+///INTERNET OF THINGS
+CompletedTechnology_InternetOfThings_1:		I fremtiden vil de fleste genstande være udstyret med elektroniske anordninger der er forbundet til et fælles netværk.\n\nDet vil gøre det muligt for en person at overvåge husholdningsapparater og interagere med dem uden selv at være til stede.
+
+
+///TRANSIENT ELECTRONICS
+CompletedTechnology_TransientElectronics_1:		En ny tendens inden for miljøvenlige materialer til solceller er kommet frem i de seneste år pga. giftighed og problemer med genbrug af konventionelle materialer.\n\nSolceller af papir er billigere og genbrugelige.
+
+CompletedTechnology_TransientElectronics_2:		En opløselig anordning som kan implanteres i en menneskekrop til at forsyne strøm til elektronik.\n\nDet midlertidige batteri kan bruges til at forsyne strøm til små apparater og bagefter blive opløst i vand eller menneskelige væsker da det er biologisk nedbrydeligt.
+
+
+///SOLAR PANEL
+CompletedTechnology_SolarPanel_1:		En solcelle (eller fotovoltaisk celle) er en anordning som omdanner solenergi til elektrisk energi.\nSolenergi er en vedvarende form af energi, og dets udnyttelse giver en mere bæredygtig måde at producere elektrisk energi, sammenlignet med fossile brændstoffer.
+
+CompletedTechnology_SolarPanel_2:		En tyndfilm-solcelle bruger sollys til at producere elektrisk energi. Det er for det meste baseret på amorft (ikke-krystalinsk) siliciumlag med en tykkelse på nogle få nanometer, meget tyndere end konventionelle solceller.\n\nDens effektivitet er mindre end konventionelle solceller.
+
+CompletedTechnology_SolarPanel_3:		Organiske solceller er baseret på halvleder-polymerer, og de kan være billigere end almindelige og tyndfilm-solceller.\nPolymerer er organiske materialer som lover mere bæredygtige solceller.
+
+
+///PHOTOREDUCTION OF CO2
+CompletedTechnology_PhotoReductionOfCO2_1:		Denne reaktor gør det muligt at reducere CO2 koncentrationen i luften og samtidigt producere brugbart brændstof og ilt.\n\nDet er en kemisk reaktion der finder sted katalyseret af en fotokatalysator og tilstedeværende lys.
+
+CompletedTechnology_PhotoReductionOfCO2_2:		Den optiske fiberreaktor reducerer CO2 koncentrationen i luften samtidigt med at den producerer brugbart brændstof og ilt.\n\nDet tilstedeværende lys kommer ind i reaktoren gennem optiske fibre. Det gør processen mere effektiv end i glaskrukkereaktoren.
+
+CompletedTechnology_PhotoReductionOfCO2_3:		Denne reaktor bruger koncentreret sollys til at aktivere fotokatalysatoren.\n\nVanddampe og atmosfærisk luft flyder gennem et rør hen til fotokatalysatoren som er placeret på indersiden af røret. 
+
+///CARBON NANOTUBES
+CompletedTechnology_CarbonNanoTubes_1:		Kulstofnanorør (CNT’er) er rørformede materialer som er 50,000 gange tyndere end et menneskehår og 500 gange stærkere end stål.\n\nDe er avancerede materialer som byder på utrolige og unikke mekaniske, termiske og elektriske egenskaber.
+
+CompletedTechnology_CarbonNanoTubes_2:		Polymerer er elektriske og termiske isolatorer med lav styrke og hårdhed. Kulstof­nanorør (CNT’er) kan bruges som avanceret fyldmateriale i polymer­kompositter hvilket gør dem hårdere og stærkere.\n\nCNT’er/polymer­kompositter giver en forøget elektrisk og termisk ledeevne.
+
+
+///WATER DESALINATION
+CompletedTechnology_WaterDesalination_1:		Afsaltning med omvendt osmose er en vandrensnings­teknologi som anvender halv­gennem­trængelige membraner og tryk for at udskille salte og andre mineraler fra havvand for at fremstille ferskvand.
+
+CompletedTechnology_WaterDesalination_2:		Afsaltning med omvendt osmose er en vand­rensnings­teknologi.\nBrugen grafen i en avanceret membran til at udskille salte og andre mineraler fra havvand er mere energi­effektivt, og det giver en højere mængde af vand­strøm sammenlignet med de halvgennemtrængelige membraner.
+
+CompletedTechnology_WaterDesalination_3:		Aquaporiner er vandkanal-proteiner der findes i næsten alt levende. Det er en fremadrettet osmose-proces der ligesom omvendt osmose bruger en halvgennemtrængelig membran til at udskille salte og andre mineraler fra havvand. Her bliver en meget koncentreret opløsning, ligesom en sukkeropløsning, fortyndet af en strøm af vand gennem membranen.
+
+
+///TARGETED DRUG DELIVERY
+CompletedTechnology_TargetedDrugDelivery_1:		Avanceret medicinlevering betyder at transportere og levere et medikament ind i kroppen.\n\nMedikamentet vedhæftes en bærer­platform og overføres til kroppen. Der bruges mange forskellige mikro-/nanobærer fx nano­partikler, proteiner og liposomer. I dette tilfælde bruges et liposom (en boble med samme struktur som en celle­membran) som bærer­platform.
+
+CompletedTechnology_TargetedDrugDelivery_2:		Smart medicinlevering kan målrette medikamentet mod konkrete væv eller organer til forskel fra avanceret medicinlevering, og derfor kan man opnå en helbredelse.\nSmarte medicin­leverings­systemer benytter billed­dannelses­midler som kan opfange mængden af medikament og hvor det er placeret, hvilket gør det mere effektivt.
+
+CompletedTechnology_TargetedDrugDelivery_3:		Et medicin­leverings­­system der samtidigt kan overvåge, analysere og levere et medikament.\nDisse systemer er sammensat af en sensor, en algoritme til at beregne doseringen og et system til at levere medikamentet.
+
+
+///NANOROBOTS
+CompletedTechnology_NanoRobots_1:		En fremtidig teknologi inden for medicinlevering som består af mikroskopiske anordninger inde i kroppen.\nAnordning er i stand til samtidigt at registrere, kommunikere og behandle informationerne og så frigive den optimale dosis medicin når og hvor det behøves i kroppen.
+
+
+//BRAIN COMPUTER INTERFACES
+CompletedTechnology_BrainComputerInterfaces_1	:  En grundlæggende sammensætning af en hjerne­computer­grænseflade (Brain Computer Interface – BCI), et system som bruger hjernebølger til at syre og overvåge elektroniske anordninger. Denne anordning har en grundlæggende registrering af hjernebølgeaktivitet, og den hjælper med at overvåge mentale tilstande.\n\nDen kan give informationer og konkrete følelser og overvåge søvnstadier.
+
+CompletedTechnology_BrainComputerInterfaces_2	: Denne hjerne­computer­grænseflade (BCI) anvender et ikke-invasivt elektroencefalografi­system (eeg) med 32 kanaler. Anvendelsen af flere elektroder i bedre kvalitet giver systemet en mere præcis aflæsning af hjernebølgerne, og det gør det muligt for en person at styre en markør.
+
+CompletedTechnology_BrainComputerInterfaces_3	: Denne hjerne­computer­grænseflade (BCI) anvender elektrode inde i kraniet til at registrere ECoG (elektro-cortico-grafiske) signaler, hvilket betyder at signalerne registreres direkte fra hjernebarken (cortex) hvilket eliminerer støj­faktorer.\n\nDet kan give kontrol med bevægelsen af proteser og endog hjerne til hjerne kommunikation mellem to brugere, aka telepati.
+
+
+//PRINTABLE PROSTHETICS
+CompletedTechnology_PrintableProsthetics_1	: Proteser er enten eksterne eller implantat­anordninger der er fremstillet for at erstatte eller supplere en manglende kropsdel.
+
+
+//FUEL CELLS
+CompletedTechnology_FuelCells_1	: En brændselscelle er en anordning som frembringer elektricitet gennem en kemisk reaktion hvor brint er der grundlæggende brændstof. En af de meget tiltrækkende ting ved brændselsceller er at de danner elektricitet uden af forurene miljøet, idet deres væsentlige biprodukter er varme og vand.
+
+CompletedTechnology_FuelCells_2	: Brændselscellen med protron­udvekslings­membran er en af de mest almindeligt brugte typer af brændselsceller.\n\nDa de er baseret på en elektrolyt som er et fast stof, kan de ikke lække, og da de fungerer ved lave temperaturer, er de velegnede til biler og hjem.
+
+
+///NEEDS descriptions
+
+ArtificialPhotoSynthesis:			Kunstig fotosyntese
+Needs_Description_ArtificialPhotoSynthesis:		Jeg har alt for mange elektriske apparater og ingen måde at strømforsyne dem på.\n\nJeg vil gerne købe en af de nye strømkilder.
+
+Battery:							Batteri
+Needs_Description_Battery:						Jeg vil gerne bringe elektricitet med mig alle steder, men det virker lidt for farligt at bære rundt på en lynafleder.
+
+BrainComputerInterfaces:			Hjerne­computer­grænseflader
+Needs_Description_BrainComputerInterfaces:		Jeg har telekinetiske evner, ved du nok.\n\nHELT ALVORLIGT! Det har jeg!
+
+Brick:								Mursten
+Needs_Description_Brick:						Jeg har hørt en masse godt om disse ”mursten”.\n\nNår man stabler dem sammen, giver de tilsyneladende ly.
+
+CarbonNanoTubes:					Kulstofnanorør
+Needs_Description_CarbonNanoTubes:				JEG VIL HAVE DET DER NYE VIDUNDERMATERIALE!
+
+Display:							Display
+Needs_Description_Display:						Der er det her vindue som kaldes display som gør det muligt at se en verden der slet ikke er nær dig. Jeg er ikke sikker på hvad det er, men jeg vil have et!
+
+FuelCells:							Brændselsceller
+Needs_Description_FuelCells:					Jeg har hørt om denne fantastiske nye teknologi som kan give strøm til mine elektroniske apparater uden at lave meget forurening. 
+
+Glass:								Glas
+Needs_Description_Glass:						Vinden blæser hele tiden gennem det hul i væggen. Det får mig til at fryse …
+
+InternetOfThings:					Internet af ting
+Needs_Description_InternetOfThings:				Fik jeg nu slukket lyset inden jeg gik?\n\nSørens også, nu må jeg tage tilbage for at tjekke. Bare jeg kunne tjekke det med telefonen.
+
+LabOnAChip:							Laboratorium på en chip
+Needs_Description_LabOnAChip:					Jeg hader at gå til lægen. Jeg ville ønske der var en anden måde at diagnosticere hvad der er galt med mig.
+
+NanoRobots:							Nanorobotter
+Needs_Description_NanoRobots:					Nanorobotter kan tilsyneladende opdage selv de mindste ændringer i molekyler og helbrede dig inden du bliver syg.
+
+Paper:								Papir
+Needs_Description_Paper:						Jeg glemmer hele tiden hvad jeg skal lave. Min ven sagde at jeg skulle skrive det ned på den her nye teknologi som kaldes papir.
+
+PhotoReductionOfCO2:				Fotoreduktion af CO2
+Needs_Description_PhotoReductionOfCO2:			Al den CO2 i luften giver mig hovedpine. Vi burde prøve at rense luften for det.
+
+PrintableProsthetics:				Printbare proteser
+Needs_Description_PrintableProsthetics:			Jeg er træt af mit træben. Børn sætter nåle i det, og jeg ligner en pirat. Jeg vil have et nyt hightech ben.
+
+SemiConductor:						Halvleder
+Needs_Description_SemiConductor:				Vi har alt det her elektricitet, men vi har ingen måde at lave det om til noget brugbart. Hvis bare jeg kunne få fat i nogle halvledere.
+
+SolarPanel:							Solpanel
+Needs_Description_SolarPanel:					Der er en ny teknologi som tilsyneladende gør det muligt at høste energi fra solen!
+
+Steel:								Stål
+Needs_Description_Steel:						Jeg har hørt om det her nye vidundermateriale som er endnu stærkere en mursten!
+
+TargetedDrugDelivery:				Målrettet medicinlevering
+Needs_Description_TargetedDrugDelivery:			Nye medikamenter er tilsyneladende målrettet mod bestemte steder i kroppen der er syge.\n\nMed molekylers nøjagtighed!
+
+TransientElectronics:				Midlertidigt elektronik
+Needs_Description_TransientElectronics:			Jeg ville ønske der var en måde at strømforsyne min pacemaker på uden at skulle sluge giftige batterier.
+
+WaterDesalination:					Afsaltning af vand
+Needs_Description_WaterDesalination:			Jeg er tørstig. Men jeg kan ikke drikke det forurenede eller salte vand!
+
+WorldBattery:						Verdensbatteri
+Needs_Description_WorldBattery:					Jeg undrer mig om der findes en måde at høste den energi jeg skaber ved bare at gå rundt?
+
+

@@ -1,0 +1,71 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+
+Tutorial_1:			Velkommen til Materialejæger. Jeg hedder Lily, og min ven Max og jeg vil gøre vores bedste for at hjælpe dig med at finde rundt i Materialejæger.
+
+Tutorial_2:			Se der! Der er en borger. Prøv at vælge ham for at se hvad han vil?
+
+Tutorial_3:			Denne borger har brug for mursten til at bygge et hus med som kan beskytte ham, og han vil betale 300 for det.
+
+Tutorial_4:			For at lave mursten til denne lille fyr, skal du vælge et skaberikon.		
+
+Tutorial_5:			Hej! Jeg hedder Max. Her er teknologioversigten hvor du kan vælge teknologier at skabe med.
+
+Tutorial_6:			Lige nu er mursten den eneste teknologi du kan skabe. Så … vælg den.
+
+Tutorial_6a:		Her ser du en beskrivelse af teknologien og dens niveau af bæredygtighed. Det er bladet der på venstre side.
+
+Tutorial_6b:		Murstenen har ikke nogen god bæredygtighed, men det kan vi bekymre os om det senere. Vælg byggeknappen for at lave murstenen.
+
+Tutorial_7:			Her er skaberskærmen, hvor du kan skabe teknologier til at opfylde din borgers behov.
+
+Tutorial_8:			Øverst på skærmen er der en opskrift som fortæller dig hvordan du skal lave en mursten. Vælg det første trin for at fortsætte.
+
+Tutorial_9:			Det beskriver hvordan man laver tørt ler. Kan du se de materialer der er brug for? Husk dem for du skal købe dem senere.
+
+Tutorial_10:		Kan du huske hvad du behøver for at afslutte første trin?\n\nTag hen til materialeforretningen for at købe de nødvendige materialer.
+
+Tutorial_11:		Her er materialeforretningen hvor du kan købe ting for at bygge teknologien. Træk noget ind i lagerlisten for at købe det.
+
+Tutorial_12:		Hvis du fortryder at have købt noget eller bare vil frigøre noget plads på lagerlisten, kan du altid sælge det igen.
+
+Tutorial_13:		Så snart du har købt alt det du behøver, kan du gå ud ved at trykke på den der lille knap.
+
+Tutorial_14:		Sejt! Nu er vi tilbage til at skabe igen. Vælg det første trin igen for at se hvordan det gøres færdigt.
+
+Tutorial_15:		Har du alle de nødvendige materialer? Så træk dem over på skaberbordet. Ellers, må du gå tilbage til materialeforretningen og købe mere.
+
+Tutorial_17:		Dette trin er lidt anderledes end de andre to da du denne gang også behøver nogle redskaber for at gøre det færdigt.
+
+Tutorial_18:		Du kan komme ind i redskabsforretningen ved at trykke på denne her knap.
+
+Tutorial_19:		Det er redskabsforretningen hvor du kan købe … jah, redskaber. Træk tids-redskabet over på redskabslinjen for at købe det
+
+Tutorial_20:		Det er det hele. Når du ikke vil købe flere redskaber, kan du trykke på udgangsknappen eller skifte over til materialeforretningen for at købe flere materialer.
+
+Tutorial_21:		Nu hvor du har købt et redskab, så lad os bruge det. Er den våde mursten i dit skaberområde?  Så vælg tids-redskabet.
+
+Tutorial_22:		Tryk og hold på plusknappen for at forøge tiden.
+
+Tutorial_23:		Storartet! Det var mere eller mindre det grundlæggende i hvordan man laver materialer. Så nu lader jeg dig selv lave murstenen færdig.
+
+Tutorial_24:		Der er din mursten! Det røde tal fortæller dig hvor mange penge du har brugt på at lave den.
+
+Tutorial_24a:		Træk den ind på borgeren for at opfylde hans behov og lave nogle penge.
+
+Tutorial_24b:		Borgeren er glad. Men murstenen er ikke særlig bæredygtig, og det påvirker verdens forureningsniveau negativt.
+
+Tutorial_24c:		Lige nu er der ikke noget der kan gøres, men i fremtiden kan du lave mere bæredygtige teknologier. Bare kig efter det grønne blad.
+
+Tutorial_25:		Storartet! Du er færdig med undervisningstimen. Hvis du vil besøge den igen, skal du vælge den lyse mursten i opskriftsvalget. Vi ses!
+
+
+Tutorial_SkipLabel:		Spring undervisningstimen over.

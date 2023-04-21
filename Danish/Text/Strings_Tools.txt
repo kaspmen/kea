@@ -1,0 +1,85 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+Temperature	:		Temperatur
+InteractionToolDescriptionTemperature	:		Dette redskab gør det muligt at hæve eller sænke arbejdstemperaturerne i skaberområdet.\n\nDet bruges ofte ved processer til imprægnering af materialer, smelteprocesser eller dejlige bageprocesser.
+
+Time	:		Tid
+InteractionToolDescriptionTime	:		Med tidsredkabet kan man få tiden til at gå hurtigere og gøre det muligt at springe uger fremad på få sekunder.
+
+Pressure	:		Tryk
+InteractionToolDescriptionPressure	:		Dette redskab justerer det atmosfæriske tryk i skaberområdet.
+
+Saw	:		Sav
+InteractionToolDescriptionSaw	:		Denne anordning er meget skarp, og ved høje hastigheder kan den nemt skære og ødelægge.
+
+Deposition	:		Aflejring
+InteractionToolDescriptionDeposition	:		Aflejring er en proces hvor der lægges en tynd film på en overflade.\n\nDet bruges ofte til at aflejre elektrodemateriale på et underlag.
+
+Ion_Source	:		Ionkilde
+InteractionToolDescriptionIon_Source	:		Det er et redskab som accelerer ladede atomer (ioner) af et materiale, og som skyder dem mod en overflade. På denne måde kan overfladens fysiske, kemiske og elektriske egenskaber ændres.\n\nProcessen kan også beskrives som en doping af materialets overfladelag..
+
+PaperPress	:		Presse
+InteractionToolDescriptionPaperPress	:		Pressen kan bruges til at sammenpresse ting og gøre dem flade eller mere kompakte og solide.
+
+PaperPulping	:		Mekanisk moseredskab
+InteractionToolDescriptionPaperPulping	:		Dette specielle redskab har store cylindre til at knuse og banke med, og som gør det muligt at kværne eller mose noget.
+
+Separator	:		Separator
+InteractionToolDescriptionSeparator		:		Separatoren bruges til at adskille materialer.
+
+Rotation	:		Rotor
+InteractionToolDescriptionRotation		:		Det er en anordning som leverer en konstant rotation.
+
+Polishing	:		Polerer
+InteractionToolDescriptionPolishing		:		Bruges til at slibe og polere materialerne overflader.
+
+Cutting	:		Skærer
+InteractionToolDescriptionCutting		:		En skærer bruges til at skære materialer meget fint.
+
+Lithography	:	Optisk litograf
+InteractionToolDescriptionLithography	:		Det er en proces der bruges meget i mikro-fremstilling til at overføre mønstre på et underlag vha. lys.
+
+Etching	:		Ætsning
+InteractionToolDescriptionEtching		:		Ætsning bruges i mikro-fremstilling til kemisk at fjerne lag af materiale fra en overflade.
+
+Oxygen_Lance	:		Iltlanse
+InteractionToolDescriptionOxygen_Lance		:		En iltlanse bruges til at få ilt ind i en proces. Det hjælper med at reducere urenheder i det behandlede materiale.
+
+Printing	:	Trykning
+InteractionToolDescriptionPrinting	:	Trykning er en proces hvor der afsættes en linje af et materiale på en overflade.
+
+ChemicalVapourDeposition	:	Kemisk dampaflejring
+InteractionToolDescriptionChemicalVapourDeposition	:	Det er en kemisk proces der bruges til at fremstille faste stoffer af høj kvalitet og høj ydeevne fra en luftformig tilstand.
+
+Multi_Media_Filter	:	Multi-medie-filter
+InteractionToolDescriptionMulti_Media_Filter	: Multi-medie-filtret er et generelt filter som fjerner opslæmmede materialer, som fx sand og alger eller organiske materialer fra urent vand.
+
+Carbon_Filter	:	Kulstoffilter
+InteractionToolDescriptionCarbon_Filter	: Kulstoffiltrering er en filtreringsmetode den bruger aktivt kul til at fjerne forurening og urenheder ved kemisk at absorbere uønskede kemiske forbindelser.
+
+Cartridge_Filter	:	Patronfilter
+InteractionToolDescriptionCartridge_Filter	: Patronfiltret er et tæt filter der fjerner småpartikler af snavs, fx sand, rust og ler, fra vand.
+
+Reverse_Osmosis_System	:	Omvendt osmose-system
+InteractionToolDescriptionReverse_Osmosis_System	: Det omvendte osmose-system er et vandrensningssystem der bruger halvgennemtrængelige membraner til at destillere vandet med.
+
+Forward_Osmosis_Cell	:	Fremadrettet osmose-celle
+InteractionToolDescriptionForward_Osmosis_Cell	: Fremadrettet osmose er en proces der bruger en halvgennemtrængelig membran til at rense vand med.\n\nDet bruger osmotisk tryk snarere end det høje tryk ved omvendt osmose til at frembringe en strøm af vand gennem membranerne.
+
+Sonicator	:	Sonikator
+InteractionToolDescriptionSonicator	: En sonikator benytter lydbølger i ultralydsfrekvens (over 20kHz) til at agitere partikler i en prøve, til forskellige formål.  
+
+Surgery	:	Kirurgi
+InteractionToolDescriptionSurgery	:	Kirurgi er det at behandle sygdomme eller skader manuelt og med instrumenter.\n\nMed andre ord man skærer i mennesker for at forbedre en kropsfunktion, reparere et brud (fx brækket ben) eller at indsætte implantater der hjælper dem at leve.
+
+Printer	:	3D-Printer
+InteractionToolDescriptionPrinter	:	3D-printing er en ny fremstillingsmetode der gør det muligt at lave genstande i 3D.\n\nKomponentmaterialet, som bruges, er i flydende form og som derefter enten aflejres lag for lag med en computerstyret proces, eller det formes direkte som 3D-genstande.
+

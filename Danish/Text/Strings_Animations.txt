@@ -1,0 +1,78 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+
+//TEMPLATE
+//BODY: max  170 characters
+
+
+Intro_PrimitiveEra_Narrator_1:		Et eller andet sted langt ude i fremtiden er to teenagere ved at gøre det som teenagere til alle tider har gjort:\nAt gå ind på et museum for at finde oplysninger.
+
+Intro_PrimitiveEra_Narrator_2:		På museet ser Lily og Max på en udstillet model af livet i oldtiden.
+
+Intro_PrimitiveEra_Max_1:		HEJ MAX!\n\nHer er begyndelsen af civilisationen!
+
+
+Intro_PrimitiveEra_Lily_1:		Se engang, Max. Kan du forestille dig alt det mennesket måtte gå igennem for at nå hertil, hvor vi er nu?
+Intro_PrimitiveEra_Lily_2:		Alt vores forfædre har ofret inden os?
+Intro_PrimitiveEra_Lily_3:		Alle de vanskeligheder og kampe om ressourcer som …
+Intro_PrimitiveEra_Max_2:		Bevæger den fyr sig?
+
+Intro_MedievalEra_Lily_1:		Nu kommer vi til tiden inden industrialiseringen.\nTiderne med romantik, riddere og mod. Riddere i skinnende rustning …
+
+Intro_MedievalEra_Max_1:		Juhu …
+
+Intro_MedievalEra_Lily_2:		Du ved nok også at de lavede jern til våben og torturinstrumenter …
+
+Intro_MedievalEra_Max_2:		Lad mig se det!
+
+
+
+Intro_RusticEra_Narrator_1:		Da de gik videre til den industrielle tidsalder, blev Max og Lily mødt af mur af smog.
+
+
+Intro_RusticEra_Max_1:			Fantastisk udstilling, hva?
+Intro_RusticEra_Lily_1:			Det er fordi vi er i den industrielle tidsalder. Det er hvor samfundet begyndte industrier med masseproduktion.
+Intro_RusticEra_Max_2:			Vidste de ikke at det var dårligt for dem?
+Intro_RusticEra_Lily_2:			Det tror jeg ikke.
+
+
+Intro_ModernEra_Narrator_1:		Ved udstillingen for den moderne tidsalder begyndte Max at blive mere interesseret.
+
+Intro_ModernEra_Max_1:			Hør, det er hvor folk begyndte at producere mere avancerede materialer.
+Intro_ModernEra_Lily_1:			Fx hvad?
+Intro_ModernEra_Max_2:			...
+Intro_ModernEra_Lily_2:			Hmm … det ser ud til at de også begyndte at tage sig mere af miljøet og grøn teknologi.
+
+
+Intro_NearFutureEra_Lily_1:		MAX?! MAX!\nHvor er du?
+Intro_NearFutureEra_Max_1:		Samtidigt … i udstillingen om Hjerne-computer-grænseflader.
+Intro_NearFutureEra_Max_2:		Havde de telekinese i fortiden?!
+
+
+
+Intro_FarFutureEra_Narrator_1:	Efter hånden gennem udstillingerne møder Max og Lily en verden der er mere lig deres egen nutid.
+
+
+Intro_FarFutureEra_Lily_1:		Det er her samfundet begyndte rigtig at benytte sig af fotovoltaiske anlæg og alternative energikilder.
+Intro_FarFutureEra_Max_1:		Fotovoltaiske? Har du lige læst det et eller andet sted?\nHvad galt er der i at sige solenergi?
+
+Intro_FarFutureEra_Lily_2:		Udvid dit ordforråd, Max! Nå, men det var fordi vi var løbet tør for fossile brændstoffer og blev nødt til at bruge nye energikilder.
+
+
+End_Narrator_1:					Efter at være blevet oplyst af historien, forlod Max og Lily endelig museet.
+
+End_Lily_1:						Jeg er glad for at folk førhen tænkte på miljøet.
+End_Max_1:						Ja, og det var ikke så kedeligt som jeg troede det ville være.
+End_Max_2:						Jeg købte en souvenir til dig.
+End_Lily_2:						Sikker? Fra hvilken urimelig dyr gavebod?
+End_Max_3:						Lige meget …
+
+

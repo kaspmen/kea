@@ -1,0 +1,223 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+
+//MAIN MENU
+Start_Button:		Nyt spil
+LoadGame_Button:	Fortsæt
+EraSelect_Button:	Vælg alder
+Quit_Button:		Stop
+GUI_NewGamePrompt_Header:	Nyt spil
+GUI_NewGamePrompt_Text:		Hvis du starter et nyt spil, vil alle de fremskridt du har opnået i det nuværende spil, blive slettet.\n\nEr du sikker på at du vil starte et nyt spil
+GUI_NewGamePrompt_StartGameButton:	Start nyt spil
+GUI_NewGamePrompt_ReturnToMenuButton:	Gå tilbage til menuen
+
+GUI_LanguageSelect_Header:	Vælg sprog
+GUI_Achievement_Header:		Bedrifter
+GUI_AchievementBack_Button:	Gå tilbage
+
+//ERA SELECTION
+GUI_NewGameEraPrompt_Text:			Du har et spil der kører i en anden tidsalder, hvis du begynder at spille i denne tidsalder, går alt det du har opnået i den tidligere tidsalder tabt.\n\nEr du sikker på at du vil starte i denne tidsalder?
+GUI_NewGamePrompt_CancelButton:		Tilbage
+
+//CHAPTER INTRO
+
+GUI_Skip_Button:		Spring over
+
+//aGUI_Primitive_Header1:	Part 1
+//aGUI_Primitive_Header2:	Small Beginnings
+//aGUI_Medieval_Header1:	Part 2
+//aGUI_Medieval_Header2:	<Medieval_Header>
+//aGUI_Rustic_Header1:	Part 3
+//aGUI_Rustic_Header2:	<Rustic_Header>
+//aGUI_Modern_Header1:	Part 4
+//aGUI_Modern_Header2:	<Modern_Header>
+//aGUI_NearFuture_Header1:	Part 5
+//aGUI_NearFuture_Header2:	<NearFuture_Header>
+//aGUI_FarFuture_Header1:	Part 6
+//aGUI_FarFuture_Header2:	<FarFuture_Header>
+
+GUI_Primitive_Header1:	Del 1
+GUI_Primitive_Header2:	Store ambitioner, små begyndelser
+GUI_Medieval_Header1:	Del 2
+GUI_Medieval_Header2:	Den blodige romantik
+GUI_Rustic_Header1:	Del 3
+GUI_Rustic_Header2:	Indånd, host ud
+GUI_Modern_Header1:	Del 4
+GUI_Modern_Header2:	Ikke-informations-tidsalderen
+GUI_NearFuture_Header1:	Del 5
+GUI_NearFuture_Header2:	Tidligere teknologier, nutidige indtryk
+GUI_FarFuture_Header1:	Del 6
+GUI_FarFuture_Header2:	Store ord
+
+//aGUI_EndingAnimation_Header1:	Epilogue
+//aGUI_EndingAnimation_Header2:	Ending
+
+GUI_EndingAnimation_Header1:	Epilog
+GUI_EndingAnimation_Header2:	Udgang gennem gavebutikken
+
+
+//SCHOOL COMPETITION POPUP
+GUI_TimeLeft:	Tid inden skolekonkurrencen
+GUI_DaysLeft:	Dage inden konkurrencen
+GUI_Text:		Dit samlede resultat
+Submit_Button:	Indlever 
+
+GUI_LeaveGameWarning_Header:	Advarsel!
+GUI_LeaveGameWarning_Text:		Du bliver omdirigeret til en hjemmeside hvor du kan indlevere dit resultat.
+GUI_LeaveGameWarning_Button:	Fortsæt
+
+
+//END SCREEN AFTER THE END ANIMATION
+GUI_End_Header:	Tillykke!
+GUI_End_Text:		Du har afsluttet Materialejæger og set de teknologiske forandringer gennem tiden.\n\nHvis du gerne vil vide mere om avancerede materialer, så kan du besøge www.materialsfuture.eu for at få flere oplysninger. Tak fordi du spillede!	
+GUI_MainMenuButton:	Hovedmenu
+
+
+//RECIPE SELECTION
+GUI_RecipeScore_LocalLabel:			Personlig bedste: {0}
+GUI_RecipePopup_ConstructButton:	Byg
+GUI_RecipeButton_TutorialLabel:		Vejleder
+
+
+//CRAFTING
+GUI_Inventory_Header:			Lagerbeholdning
+GUI_Expenses_Header:			Udgifter
+GUI_ButtonLabel_Trash:			Skrald
+GUI_ButtonLabel_World:			Verden
+GUI_ButtonLabel_Shop:			Butik
+GUI_Trash_SellLabel:			Drop her for at sælge
+
+GUI_ConditionIndicator_Temperature:	{0} °Celsius
+GUI_ConditionIndicator_Time_Days: 	{0} dage
+GUI_ConditionIndicator_Time_Hours: 	{0} timer
+GUI_ConditionIndicator_Pressure:	{0} Bjælke
+GUI_ConditionIndicator_Ion:			{0} IE
+
+GUI_LeaveSceneWarning_Header:	Advarsel!
+GUI_LeaveSceneWarning_Body_World:	Hvis du går ud i Udsigt over verden, mister du alt det du har opnået i skaberområdet.\n\nEr du sikker på at du vil fortsætte ud i Udsigt over verden?
+GUI_LeaveSceneWarning_Body_Archive:	Hvis du går ud i Materialearkivet, mister du alt det du har opnået i skaberområdet.\n\nEr du sikker på at du vil fortsætte ud i Materialearkivet?
+
+Yes:				Ja
+No:					Nej
+Continue:			Fortsæt
+MainMenu:			Hovedmenu
+StatusLabel_NewItem:		NYT!
+
+
+//SHOP
+GUI_ShopHeader_Materials:		Materialer
+GUI_ShopHeader_Tools:			Redskaber
+
+
+//CITY
+EraAdvancementPopup_Header:		Du er avanceret til …
+EraAdvancementPopup_UnlockedTechHeader:	Frigjort teknologi
+EndGamePopup_Header:		Tillykke!
+EndGamePopup_Text:			Du har ført og hjulpet din by sikkert igennem tidsaldrene.  De er utrolig glade for al den nye teknologi som du har givet dem.\n\nMen det her er bare begyndelsen …
+EndGamePopup_FinalResults_Header:	Endelige resultater
+
+EraEndResults_Header:		Resultat
+EraEndResults_FundsLabel:	Endelige penge
+EraEndResults_TechSoldLabel:	Skabt teknologi
+EndEraResults_SustainabilityLabel:	Levedygtighed
+EndEraResults_TechCraftedLabel:		Skabt teknologi
+EndEraResults_Top3ScoresHeader:		Top 3
+
+
+
+//AGES
+Era_Primitive_Header:		Oldtiden
+Era_Primitive_Description:	En tid hvor mennesket endnu ikke havde tæmmet naturen, og hvor de levede i små nomadiske bosættelser.
+
+Era_Medieval_Header:		Før den industrielle tidsalder
+Era_Medieval_Description:	Middelalderen, som varede i flere hundrede år, var kendetegnet af feudalisme og tilstedeværelsen af en stærk kristen kirke i Vesteuropa.\n\nNogle gange, hvor den også kaldes for den mørke middelalder, var der megen sult og fattigdom samt den sorte død, som på det tidspunkt tog livet af omkring en tredjedel af den daværende europæiske befolkning.
+
+Era_Rustic_Header:			Den industrielle tidsalder
+Era_Rustic_Description:		Det var en periode som begyndte i midten af det 18. århundrede hvor håndredskaber blev udskiftet med kraftdrevne maskiner, fx dampmaskiner.\n\nDette muliggjorde store økonomiske og sociale organisatoriske forandringer og en begyndende globalisering.
+
+Era_Modern_Header:			Den moderne tidsalder
+Era_Modern_Description:		Den markeres af et skift fra de traditionelle fremstillingsindustrier til en økonomi baseret på informations- og kommunikationsteknologi.  Det er den tidslader vi befinder os i nu.
+Era_NearFuture_Header:		Den nærmeste fremtid
+Era_NearFuture_Description:	I denne tidsalder er mennesket begyndt at skabe teknologier som kan genoprette for den skade Jorden er blevet tilført af den industrielle og mederne tidsalder.\n\nKulturelt set, er verdens forskellige samfund og kulturer begyndt at smelte sammen pga. globaliseringen.
+
+Era_FarFuture_Header:		Den fjerne fremtid
+Era_FarFuture_Description:	Denne fremtid er kendetegnet af succesfuld oprydning af de menneskeskabte forureningskilder og af teknologiske fremskridt som gør det af med de fleste sygdomme.\nFotovoltaiske teknologier giver adgang til enorme energikilder.
+
+
+
+//HOUSES
+PrimitiveSettlement1:		Bosættelse
+PrimitiveSettlement2:		Bosættelse
+
+MedievalHouse1:			Hus fra før industrien
+MedievalHouse2:			Hus fra før industrien
+
+RusticHouse1:			Landsted
+RusticHouse2:			Landsted
+
+ModernHouse1:			Moderne hjem
+ModernHouse2:			Moderne hjem
+
+NearFutureHouse1:			Fremtidig beboelse
+NearFutureHouse2:			Fremtidig beboelse
+
+FarFutureHouse1:			Hjem langt ude i fremtiden
+FarFutureHouse2:			Hjem langt ude i fremtiden
+
+
+//HOSPITALS
+RusticHospital:			Landligt hospital
+
+ModernHospital:			Moderne hospitalscenter
+
+NearFutureHospital:			Fremtidigt hospital
+
+FarFutureHospital:			Klinik langt ude i fremtiden
+
+//INDUSTRY
+ModernIndustry:			Moderne industri
+
+NearFutureIndustry:		Fremtidig industri
+
+FarFutureIndustry:		Industri langt ude i fremtiden
+
+//POWERPLANTS
+ModernPowerPlant:		Moderne kraftværk
+
+NearFuturePowerPlant:	Fremtidigt kraftværk
+
+FarFuturePowerPlant:		Kraftværk langt ude i fremtiden
+
+
+GUI_AboutUs_Header:	Om os
+
+
+
+GUI_AboutUs_Text_Pg2: Dette projekt er finansieret af EU’s 7. Rammeprogram under bevilling nr. 608995, og det er et samarbejde mellem flere parter.\n\nDer kan læses mere om projektet på www.materialsfuture.eu.
+
+GUI_AboutUs_Text_Pg1_1: Dette game er udviklet af Serious Games Interactive som en del af et spændende projekt der stiler imod at fremvise vigtigheden af avancerede materialer i dagligdagen.
+
+GUI_AboutUs_Text_Pg1_2:	KREATIV DIRECTOR\nSimon Egenfeldt-Nielsen\n\nGAME PRODUCER\nMads Engberg Hansen\n\nGAME DESIGN\nMads Engberg Hansen\nHan Nguyen\nAnders Wiedemann\n\nTEKNISK DIRECTOR\nCris Voldum\n\nART DIRECTION\nHan Nguyen
+
+GUI_AboutUs_Text_Pg1_3:	PROGRAMMERING\nCris Voldum\nRune Kristian Jensen\n\n2D GRAFIK\nHan Nguyen\nHannah Jørgensen\nMeta Bjerregaard\n\nTESTING\nFrank Jacobs
+
+GUI_AboutUs_Text_Pg3:	Lyd og musik i dette game kommer fra forskellige kilder:\n\nBrett Cahill\nwww.BrettCahillMusic.com\n\nRoyalty Free Musik fra Bensound
+
+SchoolCompetitionTimerLabel:	{0} dage {1:D2}:{2:D2} timer		//den eneste ændring er 'dage' og 'timer'
+
+SchoolCompetitionEnterSchoolId:	Indtast skolens id
+SchoolCompetitionInvalidSchoolIdFormat:	Ugyldigt id-format
+SchoolCompetitionSubmitScorePrompt:	Indsend resultat for\n\n {0}?
+SchoolCompetitionHighscoreButton:	Highscore
+SchoolCompetitionChangeSchoolButton:	Skift skole
+SchoolCompetitionSuccessfulSubmit:		Du har nu indsendt din score
+SchoolCompetitionSchoolIdNotFound:	Kan ikke finde en skole med denne id
+LoadingScreen_LoadLabel:			Loader ...

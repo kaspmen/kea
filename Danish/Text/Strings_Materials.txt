@@ -1,0 +1,1225 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+
+//MATERIALS
+
+Garbage	:		Ubrugeligt materiale
+MaterialDescription_Garbage	:		Fuser … Der er ikke andet at gøre med det nu end at smide det væk.
+
+Alumina	:		Aluminiumoxid
+MaterialDescription_Alumina	:		Aluminiumoxid er en kemisk forbindelse af aluminium og ilt. \n\nDet har udmærkede egenskaber som elektrisk isolator og kan bruges til at styrke andre materialer der ellers er skrøbelige. Det kan også bruges som substrat.
+
+Aluminium	:		Aluminium
+MaterialDescription_Aluminium	:	Aluminium (Al) er et blødt og meget ledende metal der ofte bruges som materiale til elektroder.
+
+Annealed_Glass	:		Udglødning af glas
+MaterialDescription_Annealed_Glass	:		Udglødet glas er glas som er blevet varmebehandlet igen. \n\nDen anden varmebehandling gør glasset mere holdbart ved at fjerne interne spændinger som kan være opstået under afkølingsprocessen.
+
+Old_Paper	:		Gammelt papir
+MaterialDescription_Old_Paper	:		Genbrugspapir indeholder fremadstræbende forfatteres knuste drømme. Klar til at få et nyt formål.
+
+Boron	:		Bor
+MaterialDescription_Boron	:		Bor (B) er et sjældent forekommende grundstof som udvindes gennem minedrift. Bor bruges som dopant i halvlederindustrien, normalt på silicium (Si) eller germanium (Ge).
+
+Ceramic_Substrate	:		Keramisk substrat
+MaterialDescription_Ceramic_Substrate	:		Et substrat som kan modstå høje temperaturer, men som er skrøbeligt og går i stykker ved bøjende kræfter.
+
+Carbon_Dioxide	:		Kuldioxid
+MaterialDescription_Carbon_Dioxide	:		Kuldioxid (CO2) er en luftart der blandt andet er nødvendig for fotosyntesen.
+
+Caustic_Soda	:		Kaustisk soda
+MaterialDescription_Caustic_Soda	:		Kaustisk soda, også kaldet natriumhydroxid, er en uorganisk forbindelse.\n\nDen er meget letopløselig i vand og bruges ofte som rengøringsmiddel og til opløsning af kemiske forbindelser,
+
+Molten_Iron_W_Slag	:		Smeltet jern m. slagger
+MaterialDescription_Molten_Iron_W_Slag	:		Smeltet jern med uønsket affaldsmateriale, normalt kaldet slagger.\n\nSlagger indeholder oxider af tilbageblevne uønsket materiale.
+
+Chalk	:		Kridt
+MaterialDescription_Chalk	:	Kridt er et blødt, hvidt, porøst sedimentær bjergart, en slags kalksten bestående af mineralet kalk.
+
+Chromium	:		Krom
+MaterialDescription_Chromium	:		Krom (Cr) er et hård og sprødt metal som blandt andet findes i rubin.\n\nDet er meget modstandsdygtigt over for korrosion (rust), og det bruges derfor i mange legeringer og overfladebehandlinger.
+
+Platinum	:		Platin
+MaterialDescription_Platinum	:		Platin (Pt) er et ædelmetal som er meget korrosionsbestandigt. Denne egenskab sammen med at den er sjælden, har placeret den over gold på listen af prestigesymboler.\n\nDets modstandsdygtigt mod varme gør det egnet som elektrodemateriale til brug ved meget høje temperaturer. \n\nDet bruges også som katalysator i bil- og olieindustrien.
+
+Substrate_W_Electrodes	:		Substrat med elektroder
+MaterialDescription_Substrate_W_Electrodes	:		Et substrat belagt med et materiale som leder elektricitet og som derfor kan bruges som en elektrode.
+
+Coal	:		Kul
+MaterialDescription_Coal	:		Kul (nogle gange kaldet carbon) er et brændbart sort eller brun-sort sedimentær bjergart der normalt udvindes i miner.\n\nKul består primært af kulstof sammen med forskellige mængder af andre grundstoffer, især brint, svovl, ilt og kvælstof.
+
+Copper	:		Kobber	
+MaterialDescription_Copper	:		Kobber (Cu) er et grundstof med meget stor termisk og elektrisk ledeevne. Det har et smeltepunkt på 1084,62 °C.
+
+Cullet	:		Glasaffald
+MaterialDescription_Cullet	:		Knust, men ikke ubrugeligt. Glasaffald, der omsmeltes kan bruges til at lave nyt glas.
+
+Dry_Clay	:		Tørt ler
+MaterialDescription_Dry_Clay	:		Tørt ler er det grundlæggende element i en af de ældste byggematerialer i verden.
+
+Pzt	:		PZT
+MaterialDescription_PZT	:		Det er et keramisk materiale som består af bly, zirkonium, titanium og ilt.\n\nPZT kan opfange et bredt spektrum af vibrationer fra under hørbart til ultralydsfrekvenser, og det er det mest almindelige piezoelektriske materiale.
+
+Dust	:		Støv
+MaterialDescription_Dust	:		Meget findelt snavs der let bliver luftbåren.\n\nSætter sig i håret og åbninger. Er meget irriterende og forårsager en tør hoste.
+
+Divine_Chicken	:		Guddommelig kylling
+MaterialDescription_Divine_Chicken	:		En guddommelig kylling der blev forbandet af en vred bonde som havde fundet ud af at den i al hemmelighed havde sluppet millioner af kyllinger fri ved at få æggene til at ligne sten og så rulle dem ud af hønsegården.
+
+Pvdf	:		PVDF
+MaterialDescription_PVDF	:		Også kaldet polyvinylidenflourid. PVDF er også en elektro-aktiv polymer som frembringer en elektrisk spænding når der udøves mekanisk kraft på den, og det gør den egnet til høste energi fra menneskelig bevægelse (fx at gå).
+
+Piezoelectric_Layer	:		Piezoelektrisk lag
+MaterialDescription_Piezoelectric_Layer	:		Dette lag kan akkumulere en elektrisk ladning under mekanisk pres. 
+
+Gold	:		Guld
+MaterialDescription_Gold	:		Guld (Au) er et skinnende gult, kompakt, blødt, letbearbejdeligt og smidigt ædelmetal.\n\nDet beholder sine egenskaber når det udsættes for luft eller vand, og det er en udmærket elektrisk leder.
+
+P_Type_Doped_Layer	:		P-type dopinglag
+MaterialDescription_P_Type_Doped_Layer	:		Dette lag kan producere elektrisk energi, overført fra termisk energi, pga. bismuthtellurids termoelektriske egenskaber.
+
+N_Type_Doped_Layer	:		N-type dopinglag
+MaterialDescription_N_type_doped_layer	:		Dette lag kan producere elektrisk energi, overført fra termisk energi, pga. bismuthtellurids termoelektriske egenskaber.
+
+Hardened_Clay	:		Mursten af hårdt ler
+MaterialDescription_Hardened_Clay	:		En mursten af ler som man har ladet tørre i luften i lang tid.
+
+Iron_Oxide	:		Jernoxid
+MaterialDescription_Iron_Oxide	:		Jernoxid er en kemisk forbindelse af jern og ilt. Det kan udvindes af mineraler. 
+
+Iron	:		Jern
+MaterialDescription_Iron	:		Jern (Fe) er det mest almindelige grundstof på Jorden, og det udgør en stor del af Jordens ydre og indre kerne.
+
+
+Lead_Oxide	:		Blyoxid
+MaterialDescription_Lead_Oxide	:		Blyoxid (PbO) er en kemisk forbindelse af bly og ilt. Bly er et metal med stor densitet, og det bruges til afskærmning mod radioaktiv stråling.\n\nBly er meget giftigt, så undgå at spise det.
+
+
+Limestone	:		Kalksten
+MaterialDescription_Limestone	:		Kalksten er en sedimentær bjergart der for det meste består af mineralerne calcit og aragonit, som er to forskellige krystalstrukturer af kalciumkarbonat.\n\nDet bruges nogle gange som et ”flusmiddel” for at sænke smeltepunktet af andre materialer. Det er også i stand til at fjerne urenheder fra visse materialer.
+
+Molten_Glass	:		Flydende glas
+MaterialDescription_Molten_Glass	:		Glas har et smeltepunkt på mellem 1500 og 2500 °C, afhængigt af den konkrete sammensætning. \n\nDenne konkrete blanding af sand, kalksten og soda har et smeltepunkt på 1600 °C.
+
+Nickel	:		Nikkel
+MaterialDescription_Nickel	:		Nikkel (Ni) er et hårdt overgangsmetal der bruges i mange legeringer. Det er meget ydedygtigt under spænding.
+
+Molten_Iron	:		Flydende jern
+MaterialDescription_Molten_Iron	:		Jern i flydende form ved en temperatur over smeltepunktet på 1538 °C.
+
+Phosphorus	:		Fosfor
+MaterialDescription_Phosphorus	:		Fosfor (P) er et grundstof der normalt udvindes af mineraler. Hovedparten af fosforforbindelser bruges til gødning, men fosfor bruges også i halvlederteknologien som et doping-stof.
+
+P_Type_Semiconductor	:		Bismuthtellurid (P-type)
+MaterialDescription_P_Type_Semiconductor	:		Det er en halvlederforbindelse bestående af bismuth og tellur. \n\nBismuthtellurids termoelektriske egenskaber forekommer ved temperaturer mellem -100 og 200 °C. \n\nP-type betyder at det bruges til at lede elektricitet med positiv ladning.
+
+N_Type_Semiconductor	:		Bismuthtellurid (N-type)
+MaterialDescription_N_Type_Semiconductor	:		Det er en halvlederforbindelse bestående af bismuth og tellur. \n\nBismuthtellurids termoelektriske egenskaber forekommer ved temperaturer mellem -100 og 200 °C. \n\nN-type betyder at det bruges til at lede elektricitet med negativ ladning.
+
+Lithographed_P_Type_Layer	:		Litograferet P-type-lag
+MaterialDescription_Lithographed_P_Type_Layer	:		Dette substrat har fået et mønster gennem en fotolitograferingsproces.
+
+Polymeric_Membrane	:		Polymer membran
+MaterialDescription_Polymeric_Membrane	:		En syntetisk fremstillet membran der har til formål at adskille. \n\nDen består af meget små huller som tillader vand at trænge frit igennem, mens opløste salte og organiske molekyler ikke kan komme igennem. \n\nI kunstig fotosyntese blokerer den iltmolekylerne med lader brintionerne trænge igennem, derved forhindres potentielt eksplosive reaktioner.
+
+Recycled_Pulp	:		Kemisk opløst fibermasse
+MaterialDescription_Recycled_pulp	:		Pulp består af genbrugspapir der er blevet opløst ved organosolv-metoden der anvender organiske opløsningsmidler.
+
+Lithographed_N_Type_Layer	:		Litograferet N-type-lag
+MaterialDescription_Lithographed_N_Type_Layer	:		Dette substrat har nu fået et mønster gennem fotolitograferingsprocessen.
+
+Etched_P_Type_Layer	:		Ætset P-type-lag
+MaterialDescription_Etched_P_Type_Layer	:		Ætsning fjerner det overskydende lag af dette P-type-lag som leder elektricitet med en strøm af positive ladninger.
+
+Salt_Water	:		Saltvand
+MaterialDescription_Salt_Water	:		Vand som indeholder betydelige mængder salt, findes i verdenshavene. Hvis man får det i øjnene, bliver de røde.\n\nAnbefales ikke til at drikke.
+
+Salt	:		Salt
+MaterialDescription_Salt	:		Almindeligt salt er et hvidt krystallinsk stof ved stuetemperatur, og det er grunden til saltindholdet i verdenshavene. Det er også en vigtig del i fremstillingen af chips.
+
+Sand	:		Sand
+MaterialDescription_Sand	:	Sand, der hovedsageligt består af siliciumoxid, er et kornet materiale der består af små partikler af sten og mineral. Det har et smeltepunkt på over 1600 °C og bruges meget til fremstilling af glas og elektronik.
+
+Silicon_Nitride	:		Siliciumnitrid
+MaterialDescription_Silicon_Nitride	:		Et kunstigt uorganisk materiale bestående af silicium og nitrogen og som er meget modstandsdygtigt overfor temperatur (smeltepunktet er på 2388 °C).\n\nDet nedsætter reflektering af lys og bruges derfor som anti-reflekterende overfladebehandling. Det er også en særdeles god elektrisk isolering.
+
+Silicon	:		Silicium
+MaterialDescription_Silicon	:		Silicium (Si) i mikroelektronisk kvalitet kan udvindes fra fast silica, og det er det vigtigste halvledermateriale.  Den mikroelektroniske industri behøver silicium der er yderst rent til at fremstille integrerede kredsløb.
+
+Silver	:		Sølv
+MaterialDescription_Silver	:		Er ædelmetallernes Buzz Aldrin. Sølv (Ag) har den højeste termiske ledeevne, og det er det mest reflekterende metal på Jorden.\n\nDet er en excellent katodekatalysator.
+
+Slag	:		Slagger
+MaterialDescription_Slag	:		Stenagtigt affaldsmateriale som indeholder oxider af tilbageblevne uønsket materiale. Det adskilles fra metaller under smeltningen eller raffineringen af malmen.\n\nDet bruges ofte til vejbygning.
+
+Soda_Ash	:		Soda
+MaterialDescription_Soda_Ash	:		Natriumkarbonat (også kaldet vaskesoda, soda og sodakrystaller) er et natriumsalt af kulsyre (opløseligt i vand).\n\nDet bruges nogle gange som et ”flusmiddel” for at sænke smeltepunktet af andre materialer.
+
+Soil_Clay	:		Jordmineraler
+MaterialDescription_Soil_Clay	:		Jordmineraler er finkornet jord der kombinere et eller flere lermineraler med spor af metaloxider og uorganisk materiale.
+
+Etched_N_Type_Layer	:		Ætset N-type-lag
+MaterialDescription_Etched_N_Type_Layer	:		Ætsning fjerner det overskydende lag nær dette N-type-lag som leder elektricitet med en strøm af negative ladninger.
+
+Curse	:		Forbandelse
+MaterialDescription_Curse	:		Vær forsigtig med hvad du ønsker.
+
+Rubber_Chicken_W_A_Pulley_In_The_Middle	:		Gummikylling med en talje i midten
+MaterialDescription_rubber_chicken_w_a_pulley_in_the_middle	:		En gengivelse af et plukket fjerkræ lavet af gummi. Det er et populært komikerrekvisit, der vist nok skulle stamme fra den feudale tid hvor det blev brugt af hofnarrene.\n\nDen her har en talje i midten.
+
+Missing	:		_Missingno.
+MaterialDescription_Missing	:		MISSING_MaterialDescription_Missingno.
+
+Basic_Artificial_Leaf	:		Grundlæggende kunstigt blad
+MaterialDescription_Basic_Artificial_Leaf	:	En membran adskiller de to sider af det kunstige blad, men der er endnu ikke nogen katalysator til at igangsætte den ønskede proces med at splitte vandmolekyler.
+
+Coated_Artificial_Leaf	:		Kunstigt blad dækket m. katalysatorer
+MaterialDescription_Coated_Artificial_Leaf	:		Foto-anoden og foto-katoden i denne opsætning er begge dækket med katalysatorer som splitter vandmolekyler (dvs. H2O) for at danne ilt- og brintmolekyler.
+
+Cobalt_Oxide	:		Koboltoxid
+MaterialDescription_Cobalt_Oxide	:		Koboltoxid bruges ofte i den keramiske industri til at frembringe blå glasur.\n\nDet et rigeligt forekommende metaloxid som er stabilt og meget effektivt som katalysator i kunstig fotosyntese.
+
+Kaolin	:		Kaolinit
+MaterialDescription_Kaolin	:		Kaolinit er et lermineral der også kaldes kinaler. Det bruges meget i papirfremstilling til at give overstrøget papir en glat og glinsende overflade.
+
+Container_W_Membrane	:		Beholder med membran
+MaterialDescription_Container_W_Membrane	:		Beholder med en membran til at adskille noget.
+
+Titanium_Oxide	:		Titanoxid
+MaterialDescription_Titanium_Oxide	:		Titanoxid er en forbindelse af titan og ilt. De bruges ofte som et uv-blokerende pigment i solcreme og som anti-reflekterende belægning i solceller. Dets lysabsorberende egenskaber gør det til en fortrinlig katalysator i kemiske opsætninger hvor lys bruges som energikilde.
+
+Container_W_Water	:		Beholder med vand
+MaterialDescription_Container_w_water	:		Beholder med vand
+
+
+Washed_Fibremass	:		Vasket fibermasse
+MaterialDescription_Washed_Fibremass	:		Fibermasse der er vasket og renset for uønskede partikler.
+
+Water	:		Ferskvand
+MaterialDescription_Water	:		Vand (H2O) er en gennemsigtig væske som udgør alle verdens floder, søer, havene og regn, og det er den største bestanddel af væske i alle levende væsner.
+
+
+Weak_Glass	:		Svagt glas
+MaterialDescription_Weak_Glass	:		Skørt glas, dvs. at det går let i stykker.
+
+Wet_ClayBrick_red	:		Musten af vådt rødt ler
+MaterialDescription_Wet_ClayBrick_Red	:		Denne våde mursten er lavet af vådt formbart ler.
+
+Wood	:		Træ
+MaterialDescription_Wood	:		Træ er et hårdt, fiberstruktureret væv der findes i træers stammer og rødder.\n\nDet er blevet brugt i tusindvis af år som brændsel og byggemateriale.
+
+WoodChips	:		Træflis
+MaterialDescription_WoodChips	:		Træflis kan bruges som biomassebrændsel og som råmateriale til fremstilling af papirmasse.
+
+Gas_Container	:		Gasbeholder
+MaterialDescription_Gas_Container	:		Et trykkammer til opbevaring af gasarter.
+
+Pulp_Mechanically	:		Mekanisk mast fibermasse
+MaterialDescription_Pulp_Mechanically	:		Mekanisk mast fibermasse indeholder ikke nogen kemisk behandling, men det giver papir med mindre styrke og bruger meget energi.
+
+
+Dried_Fibremass	:			Tørret fibermasse
+MaterialDescription_Dried_Fibremass	:		Koncentreret fibermasse der er tørret.
+
+Dilluted_Fibremass	:			Fortyndet fibermasse
+MaterialDescription_Dilluted_Fibremass	:		Fibermasse der er fortyndet 100 gange i forhold til dets oprindelige vægt.
+
+Steam	:			Damp
+MaterialDescription_Steam	:		Damp er vand i luftform. Det opstår når vand når op på 100 °C.
+
+
+Wet_ClayBrick	:			Mursten af vådt ler
+MaterialDescription_Wet_ClayBrick	:		Våde lermursten er lavet af vådt formbart ler.
+
+Wet_Clay_Brick_red:				Musten af vådt rødt ler
+MaterialDescription_Wet_Clay_Brick_red:		Våde mursten af rødt ler er lavet af vådt formbart ler.
+
+
+Dry_Clay_Red:		Tørt rødt ler
+MaterialDescription_Dry_Clay_Red:		Tørt rødt ler får sin farve af jernoxid.
+
+led:	LED-array
+MaterialDescription_led:		En lysdiode er en pn-overgang af halvledere som udsender lys når der sendes en strøm igennem den.\n\nForskellige halvledere skal bruges for at frembringe de 3 grundfarver: rød, grøn og blå (RGB). Ved at blande disse farver skabes alle farverne på displayet.
+
+
+glass_substrate:	Glassubstrat
+MaterialDescription_glass_substrate:	Det glas der bruges i glassubstrater, har forskellige egenskaber afhængigt af anvendelsen. Fx et substrat til displays indeholder boroxid (B2O3) som gør glasset stabilt ved høje temperaturer, mens det til solceller indeholder små mængder jern og dermed har en lav absorption af sollys.
+
+
+indium_tin_oxide:	 Indium-tinoxid
+MaterialDescription_indium_tin_oxide:	Kaldes også ITO eller indiumoxid dopet med tin.\n\nDet er gennemsigtigt og stærkt ledende, hvilket gør det brugbart til fremstillingen af displays.
+
+
+Paper_Membrane:	Papirmembran
+MaterialDescription_Paper_Membrane:	Separatoren er en papirmembran der er nedsænket i en elektrolytopløsning. Det gør det muligt for ioner at bevæge sig frit mellem anode og katode samtidigt med at selve elektroderne holdes adskilt.
+
+
+liquid_crystals:	 Flydende krystaller
+MaterialDescription_liquid_crystals:	Organiske molekyler i et mellemstadium mellem flydende og fast form, og som ændrer orientering når man sætter en spænding på. Denne evne til orientere sig i en given retning er grunden til at de ofte bruges til at manipulere lys med.
+
+
+polyvinyl_alcohol:	Polyvinylalkohol
+MaterialDescription_polyvinyl_alcohol:	Polyvinylalkohol er et polymermateriale med meget stort trækstyrke og modstandsdygtigt over for ridser. Det bruges til biomedicinsk og farmaceutisk anvendelse samt til polariserende belægninger i lysdiodedisplays.
+
+
+Koh_Liquid:	Kaliumhydroxid
+MaterialDescription_Koh_Liquid:	Kaliumhydroxid er en uorganisk forbindelse med formlen KOH, normalt kaldet kaustisk kali. Det er i stand til at ætse silicium.\n\nDet bruges desuden i industrien som elektrolyt i vandige opløsninger. En elektrolyt er et middel der kan få elektriske ladninger til at strømme mellem to elektroder.
+
+
+indium_zinc_oxide:	Indium-gallium-zinkoxid
+MaterialDescription_indium_zinc_oxide:	Indium-gallium-zinkoxid er en gennemsigtig halvlederlegering som kan bruges i en tynd-film-transistor i stedet for silicium. Det giver fuldt gennemsigtighed og bruges ofte til displays.
+
+
+polyfluorene:	 Polyfluoren
+MaterialDescription_polyfluorene:	Polymerer der har den fordel at de er fleksible og billige at fremstille.\n\nPolyfluorener er også gennemsigtige og halvledere. Der findes forskellige polyflourener som udsender forskellige farver lys.
+
+
+thin_film_transistor:	Tynd-film-transistor
+MaterialDescription_thin_film_transistor:	En tynd-film-transistor (TFT) er en slags felt-effekt-transistor som er fremstillet ved at deponere tynde lag på et aktivt lag af en halvleder (som regel silicium) oven på et understøttende substrat.\n\nTFT’er fungerer som elektriske kontakter som styrer hver pixel i displayet.
+
+
+ito_deposited_glass:	ITO-deponeret glas
+MaterialDescription_ito_deposited_glass:	Glassubstrat hvorpå der er lagt et tyndt lag ITO.
+
+
+tft_layer:		TFT-lag
+MaterialDescription_tft_layer:	Glassubstrat hvorpå der er lagt et tyndt lag TFT (som regel silicium).
+
+
+polarised_panel:		Polariseret panel
+MaterialDescription_polarised_panel:	Den polariserende belægning på dette panel indretter lysbølgerne i en bestemt polariseret retning.
+
+
+tft_electrode_panel:		TFT-elektrodepanel
+MaterialDescription_tft_electrode_panel:	Substrat med en belægning af indium-tinoxid som fungerer som elektrode.
+
+
+Tmah_Liquid:		TMAH
+MaterialDescription_Tmah_Liquid:	Tetramethyl­ammonium­hydroxid er en ammonium­salt.\n\nDet er et kemisk stof som kan ætse silicium.
+organic_tft_panel:	Organisk TFT-lag
+MaterialDescription_organic_tft_panel:	Samlet TFT-lag og organiske emitterlag.	
+charged_tft_panel:	Panel m. elektroder
+MaterialDescription_charged_tft_panel:	TFT-panel med elektroder af ledende metal som laver et elektronisk kredsløb.
+
+
+tft_igzo_panel:		TFT IGZO panel
+MaterialDescription_tft_igzo_panel:	Glassubstrat hvorpå der er lagt et tyndt lag IGZO.
+
+
+tft_color_panel:		TFT panel
+MaterialDescription_tft_color_panel:	Et panel med tynd-film-transistorer med flydende krystal ovenpå.
+
+
+Pulp_Chemically	:		Kemisk opløst fibermasse
+MaterialDescription_Pulp_Chemically	:		Kemisk opløst fibermasse er mere energibesparende end mekanisk mast fibermasse, og det giver papir med bedre styrke og glans.
+
+
+Ethanol	:		Ethanol
+MaterialDescription_Ethanol	:		Ethanol kan bruges som et organisk opløsningsmiddel, og det findes normalt i alkoholiske drikke. Ethanol forekommer naturligt som et biprodukt af gærs stofskifteproces.
+
+
+White_Liquor	:		Hvid lud
+MaterialDescription_White_Liquor	:		Hvid lud er en stærkt alkalisk opløsning der hovedsagelig består af natriumhydroxid oh natriumsulfid.\n\nDet bruges i det første trin af Kraft-processen hvori lignin og hemicellulose skilles fra cellulosefibrene ved fremstillingen af papirmasse.
+
+
+shaft	:		Skaft
+MaterialDescription_shaft:	Også kaldet en trækstang og som regel lavet af kvarts.
+
+
+container	: Beholder
+MaterialDescription_container	:	En beholder som kan modstå utroligt høje temperaturer, og som også kan opbevare flydende stoffer.
+
+
+melted_silicon	: Smeltet silicium
+MaterialDescription_melted_silicon	:		Silicium i flydende tilstand. Siliciums smeltepunkt er 1414 °C.
+
+
+shaft_w_silicon_seed_crystal	: Skaft m. silicium-podekrystal
+MaterialDescription_shaft_w_silicon_seed_crystal	:		Et skaft sammen med et posekrystal til brug ved dyrkning af silicium som et monokrystal med Czochralski-processen.
+
+
+silicon_seed_crystal	:	Silicium podekrystal
+MaterialDescription_silicon_seed_crystal	:		Et podekrystal er et lille, yderst perfekt krystal af silicium.
+
+
+melted_silicon_w_seed_crystal	:	Flydende silicium m. podekrystal
+MaterialDescription_melted_silicon_w_seed_crystal	:		Begyndelsen af krystalvækst som til sidst resulterer i en silicium-ingot.
+
+
+silicon_ingot	: Silicium-ingot
+MaterialDescription_silicon_ingot	:		Kaldes også en ”boule” af silicium, hvilket er begyndelsesmaterialet til de fleste integrerede kredsløb der bruges i dag.
+
+
+silicon_wafers	:	Siliciumwafers
+MaterialDescription_silicon_wafers	:		Siliciumwafers grundlaget for de fleste elektroniske anordninger i dag. De fremstilles ved at skære skiver af en silicium-ingot.
+
+
+silicon_wafers_in_vacuum	: Siliciumwafers i vakuum
+MaterialDescription_silicon_wafers_in_vacuum	:		Siliciumwafers skal være i et vakuum for at kunne gennemgå ion-implanteringsprocessen.
+
+
+p_doped_silicon_wafers	: P-dopede siliciumwafers
+MaterialDescription_p_doped_silicon_wafers	:		Siliciumwafers der er blevet ionimplanteret eller dopet med bor.
+
+
+p_doped_silicon_wafer 	:	P-dopet siliciumwafer
+MaterialDescription_p_doped_silicon_wafer	:		Enkelt siliciumwafer som er blevet dopet med bor.
+
+
+p_n_doped_silicon_wafer	:	PN-dopet siliciumwafer
+MaterialDescription_p_n_doped_silicon_wafer	:		Enkelt siliciumwafer som er blevet dopet med både bor og fosfor.
+
+Nimoz	:	NiMoZn legering
+MaterialDescription_Nimoz	:		NiMoZn, også kaldet nikkel-molybdæn-zink, er en metallegering.\n\nDen har vist sig at være en meget effektiv katalysator for udviklingen af brint.
+
+Sunlight	:	Sollys
+MaterialDescription_sunlight	:		Lys der kommer fra en stor gasagtig kugle i rummet. Det er nødvendigt for alt liv på Jorden.\n\nBruges ofte metaforisk i popsange i den alternative version, solskin.
+
+Iridium		:	Iridium
+MaterialDescription_Iridium		: Iridium (Ir) er en af de sjældneste grundstoffer i jordskorpen. Det er et hårdt metal i familie med platin.\n\nDet er det mest korrosionsbestandige metal der findes, og det bruges nogle gange som katalysator i kemiske reaktioner.
+
+Photoanode	:	Fotoanode
+MaterialDescription_Photoanode		: Elektrode lavet af et halvledermateriale. Når den belyses fremkalder det at vand splittes.
+
+Photocathode	:	Fotokatode
+MaterialDescription_Photocathode		: En elektrode dækket med et ædelmetal eller specielle legeringer som katalyserer produktionen af brint.
+
+Photoanode_w_catalysts : Fotoanode m. katalysatorer
+MaterialDescription_Photoanode_w_catalysts	:	Disse fotoanoder absorberer sollys, og de har en katalysator som splitter vand i ilt- og brintmolekyler.
+
+Silicon_Substrate : Siliciumsubstrat
+MaterialDescription_Silicon_Substrate	: Et substrat er enhver form for overflade hvorpå man kan bygge andre ting.\n\nDenne er lavet af silicium, som er et materiale der bruges til elektroniske chips, samt et lysabsorberende materiale til solceller.\n\nDet er også et substrat som er let bøjeligt når det er meget tyndt.
+
+Hydrofluoric_Acid : Flussyre
+MaterialDescription_Hydrofluoric_Acid	: Flussyre er en opløsning af hydrogenflourid (HF) i vand. Den er stærkt ætsende og i stand til at opløse mange materialer, glas inkluderet.
+
+Tft_W_Liquid_Crystals : TFT m. flydende krystaller
+MaterialDescription_Tft_W_Liquid_Crystals	: Et lag af flydende krystal på TFT-panelet som bruges til at manipulere lys når der sættes en spænding på.
+
+Lithographed_Silicon_Substrate : Litograferet silicium-substrat 
+MaterialDescription_lithographed_silicon_substrate	: Et silicium-substrat som har gennemgået en proces med fotolitografering for at få et mønster med mikrofluidik kanaler.
+
+Tmah :TMAH
+MaterialDescription_Tmah	: Tetramethyl­ammonium­hydroxid er en ammonium­salt.\n\nDet er et kemisk stof som kan ætse silicium.
+
+Koh : Kaliumhydroxid
+MaterialDescription_koh	:Kaliumhydroxid er en uorganisk forbindelse med formlen KOH, normalt kaldet kaustisk kali. Det er i stand til at ætse silicium.\n\nDet bruges desuden i industrien som elektrolyt i vandige opløsninger. En elektrolyt er et middel der kan få elektriske ladninger til at strømme mellem to elektroder.
+
+Anode_Fabrication : Anode-fremstilling
+MaterialDescription_Anode_Fabrication	: Anoden er den elektrode hvor elektronerne kommer ud af cellen.
+
+Etched_Silicon_Substrate : Ætset silicium-substrat
+MaterialDescription_Etched_Silicon_Substrate	: Ætsning har fjernet de overskydende lag på dette siliciumsubstrat for at frembringe mønstret der blev lavet med litografi.
+
+Cathode_Fabrication : Katode-fremstilling
+MaterialDescription_Cathode_Fabrication	: Katoden er den elektrode hvor elektronerne kommer ind i cellen.
+
+Silicon_Substrate_W_Electrodes : Silicium-substrat m. elektroder
+MaterialDescription_Silicon_Substrate_W_Electrodes	: Der er lavet metalkontakter på steder hvor elektriske signaler skal transmitteres eller modtages.
+
+Micropump : Mikropumpe
+MaterialDescription_Micropump	: En mikroskopisk pumpe i måleområdet mikrometer. Den bruges til at bevæge væsker i mikrofluidik kanalerne.
+
+Sensor : Sensor
+MaterialDescription_Sensor	: Sensorer er elektroniske anordninger som opfanger ændringer af bestemte fysiske, kemiske eller biologiske kvantiteter.\n\nSensorer kan endog bruges til at opdage sygdomme med.
+
+Unsealed_Lab_On_A_Chip_Silicon : Placering af vigtige LoC-komponenter
+MaterialDescription_Unsealed_Lab_On_A_Chip_Silicon	: Pumpen overfører væsker inde i LoC’s kanaler, mens sensoren opdager en konkret sygdom.
+
+Silicon_Mold : Siliciumform
+MaterialDescription_Silicon_Mold	: En form der bruges til at overføre mønstre på et letbearbejdeligt substrat ved at presse det og opvarme det.
+
+Polymer_Substrate : Polymer-substrat
+MaterialDescription_Polymer_substrate	: Et substrat lavet af poly(metylmetacrylat), eller PMMA i kort form. Polymerer er materialer der er sammensat af lange kæder som er fremkommet ved en ”polymerisering”. De kan enten være ordnede amorft eller i delvist krystallinsk form.
+
+Embossed_Polymer : Præget polymer
+MaterialDescription_Embossed_Polymer	: Et polymersubstrat der er blevet graveret med mikrofluidik kanaler efter en proces med varm prægning.
+
+Polymer_Substrate_W_Electrodes : Polymersubstrat m. elektroder
+MaterialDescription_Polymer_substrate_w_electrodes	: Der er lavet metalkontakter på steder hvor elektriske signaler skal transmitteres eller modtages.
+
+Unsealed_Polymer_Lab_On_A_Chip : Placering af vigtige LoC-komponenter
+MaterialDescription_Unsealed_polymer_lab_on_a_chip	: Pumpen overfører væsker inde i LoC’s kanaler, mens sensoren opdager en konkret sygdom.
+
+
+Paper_Substrate : Papirsubstrat
+MaterialDescription_Paper_substrate	: Papir er et fast materiale lavet af cellulosefibre der bla. findes i træ.\n\nDet kan enten bruges som et substrat, hvorpå noget kan bygges, eller som en separatormembran.
+
+Photoresist_Liquid : Fotoskyende væske
+MaterialDescription_Photoresist_liquid	: En polymervæske som er lysfølsom, og som bruges til at danne mønstrede belægninger på en overflade.
+
+Photoresist_Soaked_Paper : Imprægnerede papirsubstrater
+MaterialDescription_Photoresist_Soaked_Paper	: Et papirsubstrat der er blevet gennemblødt i og imprægneret med et fotoresistent materiale.
+
+Lithographed_Paper : Mønstret papir
+MaterialDescription_Lithographed_paper	: Et papirsubstrat som har gennemgået en litografisk proces og dermed har fået et mønster.
+
+Tbpb :TBPB
+MaterialDescription_tbpb	: TBPB, også kaldet tetrabromfenol blåt, bruges som pH-indikator og farvemarkør. Det kan opdage proteiner og afsløre dem ved sine farver.
+
+Iodide : Jodid
+MaterialDescription_iodide	: Jodid (I-) er en ion der kan bruges til at opdage glukose.
+
+Cursed_Monkey_Paw:	Abehånd
+MaterialDescription_Cursed_Monkey_Paw: Den blev først fundet i en antikvitetsforretning i et lille stræde i London. Denne hånd kom fra en makakabe ved navn Steve.\n\nHåndens ejer får tre ønsker opfyldt.
+
+Iron_Mix: Jernblanding
+MaterialDescription_Iron_Mix : En blanding af jernoxid og kul.
+
+Impure_Molten_Iron:	Urent flydende jern
+MaterialDescription_Impure_Molten_Iron:	Flydende jern med mange urenheder i det, hvilket gør det ubrugeligt.
+
+Battery_Anode	:	Batteri-anode
+MaterialDescription_Battery_Anode	: Sammenpresset grafit som fungerer som batteriets anode­elektrode. En elektrode er en elektrisk leder der bruges som kontakt med den ikke-metalliske del af kredsløbet.\n\nEn anode er den elektrode hvor elektronerne kommer ud af cellen.
+
+Battery_Cathode	:	Batteri-katode
+MaterialDescription_Battery_Cathode	: Sammenpresset grafit som fungerer som batteriets katode­­elektrode. En elektrode er en elektrisk leder der bruges som kontakt med den ikke-metalliske del af kredsløbet.\n\nEn katode er den elektrode hvor elektronerne kommer ind i cellen.
+
+Coated_Anode	:	Belagt anode
+MaterialDescription_Coated_Anode	: Anoden har fået en belægning for at opnå en bedre elektrisk lede­evne.
+
+Coated_Cathode	:	Belagt katode
+MaterialDescription_Coated_Cathode	: Katoden har fået en belægning for at give materialet en bedre elektrisk lede­evne.
+
+Lithium_Cobalt_Oxide	:	Litium-koboltoxid
+MaterialDescription_Lithium_Cobalt_Oxide	:	Litium-koboltoxid er en kemisk forbindelse der ofte bruges som katodemateriale til batterier.\n\nPga. kobolts giftighed har det den store ulempe at det er svært at bortskaffe.
+
+Graphite	:	Grafit
+MaterialDescription_Graphite	:	Grafit er den mest stabile form for kulstof under normale forhold, og det har en god energitæthed.\n\nDet er almindeligt brugt som elektrodemateriale til fremstilling af batterier.
+
+Dry_Anode	:	Tør anode
+MaterialDescription_Dry_Anode	:	Varmetørret anode.
+
+Dry_Cathode	:	Tør katode
+MaterialDescription_Dry_Cathode	:	Varmetørret katode.
+
+Stacked_Anode_Cathode	:	Stablet anode/katode
+MaterialDescription_Stacked_Anode_Cathode	:	Stablede anoder og katoder med en separator mellem dem.
+
+Electrolyte_Filling	:	Elektrolyt fyld
+MaterialDescription_Electrolyte_Filling	:	 En elektrolyt er det middel der kan få elektriske ladninger til at strømme mellem to elektroder.
+
+Lithium_Salts	:	Litium-salte
+MaterialDescription_Lithium_Salts	:	Litium-salte er kemiske salte af litium der ofte bruges som et humørstabiliserende medikament.\n\nAndre steder bruges det som elektrolytmateriale for at omdanne kemisk energi til elektrisk energi.\n\nLitium reagerer meget eksplosivt med vand. 
+
+Manganese_Dioxide	: Mangandioxid
+MaterialDescription_Manganese_Dioxide	:	Mangandioxid er en kemisk forbindelse der har en tendens til at optage elektroner inde i batterier.\n\nDet bruges også som pigment til keramik og glasfremstilling.
+
+Organic_Solvent	:	Organisk opløsningsmiddel
+MaterialDescription_Organic_Solvent	:	Et organisk opløsningsmiddel (hvori andre materialer kan opløses) kan bruges som en komponent i elektrolytter.\n\nDet her er en blanding af ethylkarbonat og dimethylkarbonat.
+
+Polymer_Ceramic_Composite	: Polymer keramisk komposit
+MaterialDescription_Polymer_Ceramic_Composite	:	En separator der består af en polymer og et keramisk pulver. Det keramiske pulvers egenskaber gør at det kan modstå temperaturer helt op til 2000 °C.\n\nDet bruges ofte til at adskille elektroder i store batterier.
+
+Synthetic_Polymer_Film	:	Syntetisk polymerfilm
+MaterialDescription_Synthetic_Polymer_Film	:	En separator der forhindrer elektroder i at røre hinanden, mens det samtidigt lader elektriske ladninger flyde frit imellem dem.
+
+Lithium_Iron_Phosphate	:	Litium-jernfosfat
+MaterialDescription_Lithium_Iron_Phosphate	: Litium-jernfosfat bruges ofte som katodemateriale fordi det kan modstå høje temperaturer, samtidigt med at det har en høj strømdensitet og holder i lang tid.\n\nMen det har en lav elektrisk ledeevne.
+
+Carbon	: Carbon
+MaterialDescription_Carbon	:	Kulstof er et grundstof med symbolet C. Det er stabilt i forskellige atomare strukturer kaldet allotrope former.\n\nBlandt disse allotrope former er kostbare diamanter og det mindre kostbare grafit.\n\nKulstof kan bruges sammen med andre materialer til at forøge den elektriske ledeevne. 
+
+Lithographed_Substrate	:	 Aluminiumoxid-substrat m. metalkontakter
+MaterialDescription_Lithographed_Substrate	: Substrat med platinelektroder. De øverste elektroder bruges til elektriske målinger, mens de nederste er til opvarmning af anordningen.
+
+Substrate_W_Electrode_Layers	:	Litograferet metallag
+MaterialDescription_Substrate_W_Electrode_Layers	:	Aluminiumoxid-substrat med et mønster litograferet på det.
+
+Etched_Substrate	:	Graveret substrat
+MaterialDescription_Etched_Substrate	:	Det viste mønster af metalkontakter bruges til elektriske målinger.
+
+Tin_Oxide	:	Tinoxid
+MaterialDescription_Tin_Oxide	:	Tinoxids smeltepunkt er 1080 °C, og det er en halvlederoxid som forekommer naturligt i mineraler.\n\nDet bruges ofte som elektrode i ovne til smeltning af glas og i gasdetektorer for at registrere kulilte.
+
+Metal_Oxide_Gas_Sensor	:	Metaloxid-gassensor
+MaterialDescription_Metal_Oxide_Gas_Sensor	:	Det her er en sensor som registrerer gaskoncentrationer, fx af kulilte.\n\nDen kan bruges i industriøjemed til at advare arbejdere om farlige niveauer af gasarter.
+
+Polyimide	:	Polyimid
+MaterialDescription_Polyimide	: Polyimid er en polymer med et relativt højt smeltepunkt på 400 °C. Det bruges ofte som termisk isolering og dielektrisk materiale.
+
+Lithographed_Polyimide	:	Polyimid m. metalkontakter
+MaterialDescription_Lithographed_Polyimide	:	Substrat med de nødvendige metalkontakter til antennefunktion.
+
+Substrate_W_Metal_Contacts	:	Litograferet metallag 
+MaterialDescription_Substrate_W_Metal_Contacts	: Metallag med et mønster litograferet på det.
+
+Wifi_Antenna	:	WiFi-antenne
+MaterialDescription_Wifi_Antenna	: En WiFi-antenne er en anordning som kan transmittere eller modtage elektromagnetiske signaler trådløst.\n\nTo apparater udstyret med antenner kan kommunikere med hinanden.
+
+Glue	:	Lim
+MaterialDescription_Glue	:	En forbindelse der bruges til at lime to materialer sammen.\n\nDet beskrives ofte som klistret.
+
+Sticky_Paper_Substrate	:	Klisterpapir-substrat
+MaterialDescription_Sticky_Paper_Substrate	:	Det er et klistret stykke papir.
+	
+Zinc	:	Zink
+MaterialDescription_Zinc	:	Zink (Zn) er et grundstof der er biologisk vigtigt. Zinkmangel er forbundet med mange sygdomme.\n\nI industriøjemed er det zinkens evne til at oxidere der gør den effektiv som en offer-elektrode i fremstillingen af batterier.
+
+Pcbm	:	PCBM
+MaterialDescription_Pcbm	:	Det kaldes også fulleren, og det bruges som en n-type halvleder i solceller.\n\nDet er et materiale som optager elektroner i en reduktionsproces.
+
+P3ht	:	P3HT
+MaterialDescription_P3ht	:	En elektrondonor som bliver ledende når elektroner fjernes. Den bruges ofte som p-type halvleder i solceller.
+
+Pcbm_P3ht	:	PCBM:P3HT
+MaterialDescription_Pcbm_P3ht	:	En blanding der fungerer som organisk pn-overgang.
+
+Zinc_Printed_Substrate	:	Zink-trykt substrat
+MaterialDescription_Zinc_Printed_Substrate	:	Papir-substrat med påtrykt zink øverst.
+
+Oxidated_Zinc_Substrate	:	Oxideret zink-substrat
+MaterialDescription_Oxidated_Zinc_Substrate	:	Papir-substrat med påtrykt zinklag øverst. Pga. oxideringen er der yderligere et lag zinkoxid (ZnO) ovenpå.
+
+Pcbm_P3ht_Printed_Substrate	:	PCBM:P3HT påtrykt substrat
+MaterialDescription_Pcbm_P3ht_Printed_Substrate	:	Et substrat med PCBM:P3HT pn-overgang trykt ovenpå, som muliggør strømmen af elektroner.
+
+Pedot_Pss	:	PEDOT:PSS
+MaterialDescription_Pedot_Pss	:	En ikke-giftig polymer-blanding som er kompatibel med menneskeligt væv. Det forbedrer solcellers energieffektivitet.\n\nDet har ledende egenskaber og kan bruges som elektrodemateriale.
+
+Gnome	:	Nisse
+MaterialDescription_Gnome	:	Det som forstadshavefolk drømmer om og af og til har mareridt om. Havenissen i sin nuværende skikkelse, kom først frem i det 18. århundred i Centraleuropa.\n\nNogle mennesker siger at de gerne kryber hen til smukke kvinder sent om natten og at de kan lide at rulle støv sammen til små kugler og efterlade dem i hjørnerne.
+
+Magnesium	:	Magnesium
+MaterialDescription_Magnesium	: Magnesium (Mg) er et alkalisk jordmetal som er opløseligt i vand, er biokompatibelt og er naturligt forekommende i menneskekroppen.\n\nDet har bedre ledeevne end ledende polymerer, og det bruges ofte til midlertidigt elektronik som elektrodemateriale.
+
+Molybdenum	:	Molybdæn
+MaterialDescription_Molybdenum	:	Molybdæn (Mo) er et sølvskinnende metal som forekommer i mange mineraler. Det har et meget højt smeltepunkt på 2622 °C.\n\nDets varmemodstand gør det bl.a. til en god elektrode i smelteovne og flyudstyr.
+
+Metal_Foils	:	Metalfolier
+MaterialDescription_Metal_Foils	:	Parvise elektroder med et enkelt stykke folie af magnesium og molybdæn i hver ende.
+
+Molybdenum_Paste	:	Molybdænmasse
+MaterialDescription_Molybdenum_Paste	:	En dejagtig masse hovedsageligt bestående af molybdændisulfid, en forbindelse af molybdæn og svovl. Det er et middel som kan tåle højt tryk, høje temperaturer, der modvirker slid, og som bruges som smøremiddel ved kontakt mellem dele.\n\nMolybdændisulfidens lagdelte struktur og halvlederegenskaber gør det også meget brugbart inden for elektronikindustrien.
+
+Connected_Metal_Foils	:	Forbundne metalfolier
+MaterialDescription_Connected_Metal_Foils	:	Metalfolier forbundet med molybdænmasse.
+
+Semi_Packaged_Foils	:	Halvpakkede folier
+MaterialDescription_Semi_Packaged_Foils	:	Folier pakket i en film af polyanhydrid.
+
+Polyanhydrides	:	Film af polyanhydrid
+MaterialDescription_Polyanhydrides	:	Film af polyanhydrid er en biologisk nedbrydelig polymer.\n\nProdukter fra den biologiske nedbrydning er ikke-giftige hvilket betyder at det er risikofrit at indføre det en menneskekrop, og dermed fører det til mange anvendelser inden for den farmaceutiske industri.
+
+Phosphate_Buffer_Saline	:	Fosfat-buffer-saltopløsning
+MaterialDescription_Phosphate_Buffer_Saline	:	En vandbaseret saltopløsning der indeholder natriumfosfat og natriumchlorid. Det er en såkaldt buffer-opløsning der bruges til at forhindre ændringer i pH-værdien i en opløsning, samtidigt med at det også fungerer som elektrolyt.
+
+Filled_Transient_Battery	:	Fyldt midlertidigt batteri
+MaterialDescription_Filled_Transient_Battery	:	Et midlertidigt batteri fyldt med fosfatbuffer-saltopløsning der fungerer som elektrolyt.
+
+Pn_Junction_W_Antireflective_Coating	:	PN-overgang m. anti-reflekterende belægning
+MaterialDescription_Pn_Junction_W_Antireflective_Coating	:	En pn-overgang med en belægning der reducerer skæret fra sollys for at kunne absorbere det og omdanne det til elektrisk energi.
+
+Pn_Junction_W_Electrodes	:	PN-overgang m. elektroder
+MaterialDescription_Pn_Junction_W_Electrodes	:	pn-overgang med elektroder der indsamler den elektriske ladning produceret af sollyset.\n\nElektroderne er ordnet i et gitter som lader lyset passere igennem det, så lyset kan høstes.
+
+Zinc_Oxide	:	Zinkoxid
+MaterialDescription_Zinc_Oxide	:	Zinkoxid (ZnO) er en n-type halvleder med gode optiske og elektriske egenskaber.
+
+Conductive_Glass_Substrate	:	Ledende glassubstrat
+MaterialDescription_Conductive_Glass_Substrate	:	Et glassubstrat med en belægning af ledende oxid.
+
+Glass_Substrate_W_Pn_Junction	:	Glassubstrat m. pn-overgang
+MaterialDescription_Glass_Substrate_W_Pn_Junction	:	Et glassubstrat med en fuldstændig pn-overgang afsat på det.\n\nDen pn-overgang der bruges in tynd-films-solceller er meget tyndere end i almindelige solceller, bare et par nanometer tyk.
+
+Solar_Cell_W_Top_Electrode	:	Solcelle m. top-elektroder
+MaterialDescription_Solar_Cell_W_Top_Electrode	:	Solcelle med elektroder til at lede den elektriske strøm.
+
+Energy_Efficient_Solar_Cell	:	Energi-effektiv solcelle
+MaterialDescription_Energy_Efficient_Solar_Cell	:	Organiske solceller er lette at bygge, men de er mindre effektive end almindelige solceller på trods af den forbedring i effektivitet den følger med PEDOT:PSS-lag. 
+
+Glass_W_Organic_Pn_Junction	:	Glas m. organisk pn-overgang
+MaterialDescription_Glass_W_Organic_Pn_Junction	:	Glas med organisk pn-overgang i stedet for en lavet af uorganiske materialer (fx silicium).
+
+Organic_Solar_Cell_W_Electrodes	:	Organisk solcelle m. elektroder
+MaterialDescription_Organic_Solar_Cell_W_Electrodes	:	Solcelle med elektroder til at lede den elektriske strøm.
+
+Acetylene	:	Acetylen
+MaterialDescription_Acetylene	: Acetylen er en kulbrinte, dvs. en kemisk forbindelse bestående af kulstof og brint.\n\nDen bruges i vid udstrækning som brændstof og kemiske byggesten.
+
+Assembled_Reactor	:	Samlet reaktor
+MaterialDescription_Assembled_Reactor	:	En naturligt lys-reaktor som kan absorbere sollys for at starte fotoreduktionen.
+
+Atmospheric_Air	:	Atmosfærisk luft
+MaterialDescription_Atmospheric_Air	:	Den luft som vi indånder. Den består ca. af 78 % nitrogen, 20,95 % ilt, 0,93 % argon og 0,039 % kuldioxid.
+
+Bubble_Generator	: Boble-generator
+MaterialDescription_Bubble_Generator	:	En boble-generator der indfører luftarter, i form af bobler, ind i en væske. Luftboblerne hjælper reaktionen med at ske ved højere hastighed.\n\nHvis du har et akvarium, vil fiskene sikkert gerne have dette apparat.
+
+Cooled_Cvd	:	CVD m. Kulstof­nanorør
+MaterialDescription_Cooled_Cvd	: Afkølede nanorør inde i et redskab til kemisk dampaflejring.
+
+Cooled_Cvd_2	:	Afkøling
+MaterialDescription_Cooled_Cvd_2	:	Nanorør der er afkølede og gjort funktionsdygtige inde i et redskab til kemisk dampaflejring.
+
+Cvd_W_Catalyst	:	CVD m. katalysator
+MaterialDescription_Cvd_W_Catalyst	: Et redskab til kemisk dampaflejring (CVD) hvori der er placeret jernpulver (en katalysator) på aluminium-substratet. 
+
+Cvd_W_Transport_Gas	:	CVD m. transportluftart
+MaterialDescription_Cvd_W_Transport_Gas	: En transportluftart forhindrer uønskede kemiske reaktioner mellem ilt og fugt, der ellers kunne være eksplosive.
+
+Functionalised_Cnt	:	Kulstof­nanorør der er gjort funktionsdygtige
+MaterialDescription_Functionalised_Cnt	: Kulstof­nanorør der er gjort funktionsdygtige, dvs. at deres overflade er blevet permanent modificeret.\n\nDet kan forbedre de kemiske reaktioner og bindinger.
+
+Glass_Jar	:	Glaskrukke
+MaterialDescription_Glass_Jar	: En krukke lavet af glas. De kan indeholde marmelade og/eller syltede frugter af forskellig slags eller endog en slags nøddechokoladesmør.\n\nDen her er tom.
+
+Glass_Tube_Reactor	:	Glasrørsreaktor
+MaterialDescription_Glass_Tube_Reactor	: Glasrør som er imprægneret med en fotokatalysator hvilket gør det muligt for dem at reagere med CO2 når de udsættes for lys.
+
+Glass_Tubes	:	Glasrør
+MaterialDescription_Glass_Tubes	: Rør lavet af glas som kan bruges på mange forskellige måder.
+
+Optical_Fibres	:	Optiske fibre
+MaterialDescription_Optical_Fibres	: Optisk fiber er et fleksibelt, gennemsigtigt fiber bestående af silicium eller plastic.  Det transmitterer lys og bruges ofte til transmission af informationer inden for telekommunikation.
+
+Impregnated_Cnt	:	Komposit syntese
+MaterialDescription_Impregnated_Cnt	: Kulstof­nanorør imprægneret med et polymermiddel og presset sammen til plader, hvilket gør dem meget stærkere end almindelige kulstof­nanorør.
+
+Jar_Lamp_Container	:	Krukkelampebeholder
+MaterialDescription_Jar_Lamp_Container	: En krukke der er blevet fyldt med vand og tilsluttet en boblegenerator.
+
+Jar_Lamp_W_Catalyst	:	Krukkelampe m. katalysator
+MaterialDescription_Jar_Lamp_W_Catalyst	: En krukkelampe med en fotokatalysator som reagerer med CO2 og dermed delvist fjerner det fra luften.
+
+Nitrogen 	:	Nitrogen
+MaterialDescription_Nitrogen	: Kvælstof el. nitrogen (N) er en lugtfri, farveløs, inaktiv luftart der ofte bruges til at undgå kemiske reaktioner med ilt og fugt.\n\nDet er det mest forekommende og rene grundstof. Jordens atmosfære består af 78 % kvælstof.
+
+Optical_Fibre_Complex	:	Kompleks af optiske fibre
+MaterialDescription_Optical_Fibre_Complex	: Optiske fibre der er sænket ned i en fotokatalysator. Det gør fibrene i stand til at reagere med CO2 når de udsættes for ultraviolet lys.
+	
+Oxygen	:	Ilt
+MaterialDescription_Oxygen	: Ilt eller oxygen (O) er et kraftigt reagerende grundstof som danner kemiske forbindelser med de fleste andre grundstoffer.\n\nDet er en farveløs og lugtfri luftart som udgør en vigtig del af atmosfæren. Vi indånder det så vi kan eksistere her på Jorden.
+
+Oxygen_Synthesis_Of_Cnts	:	Aktivering af CNT'er
+MaterialDescription_Oxygen_Synthesis_Of_Cnts	: Kulstof­nanorør der er syntetiseret vha. ilt.\n\nSyntetisering betyder at fremstille noget kunstigt.
+	
+Epoxy_Resin	:	Epoxyresin
+MaterialDescription_Epoxy_Resin	: Polymerer eller plastic er elektriske og termiske isolatorer med lav styrke og hårdhed.\n\nDe bruges til alt muligt, lige fra kabler til tøj.
+
+Photoconcentrator_Panel	:	Foto-koncentratorpanel
+MaterialDescription_Photoconcentrator_Panel	: Et panel der bruger linser og buede spejle til at koncentrere sollyset på en lille, men effektiv multi-overgangssolcelle.
+
+Polymer_Solution	:	Polymeropløsning
+MaterialDescription_Polymer_Solution	: En polymeropløsning der er hærdet. Den indeholder også en katalysator til at accelerere produktionen af CNT/polymerkompositter.
+
+Stabilised_Photocatalyst	:	Stabiliseret fotokatalysator
+MaterialDescription_Stabilised_Photocatalyst	: En fotokatalysator i en gel-agtig opløsning i en beholder.
+
+Synthesis_Of_Cnts	:	Syntetisering af CNT'er
+MaterialDescription_Synthesis_Of_Cnts	: Syntetisering er den proces hvor noget fremstilles kunstigt.
+
+Tubed_Fibre_Complex	:	Kompleks af rør-fibre
+MaterialDescription_Tubed_Fibre_Complex	: Optiske fibre i en glaskrukke som har en indgang til atmosfærisk luft (højt indhold af CO2) og en udgang til luft med lav koncentration af CO2.
+
+Uv_Lamp	:	Uv-lampe
+MaterialDescription_Uv_Lamp	: Ultraviolet lys findes i sollys, og dets bølgelængde er meget kortere end synligt lys.\n\nDet er de ultraviolette stråler som forårsager solskoldning, accelererer aldring og som kan forårsage hudkræft. Fra et positivt synspunkt hjælper det med produktionen af D-vitamin i huden.
+
+Iron_Powder	:	Jernpulver
+MaterialDescription_Iron_Powder	: Pulverformen af overgangsmetallet jern (Fe) som kan fungere som katalysator.\n\nEn katalysator er et materiale som kan accelerere en kemisk proces uden selv at blive påvirket af processen.
+
+Hardener	:	MTHPA
+MaterialDescription_Hardener	:	Methyl-tetrahydroftalisk anhydrid er en kemisk forbindelse som reagerer med polymerer og forbedrer deres styrke og hårdhed.
+
+Catalyst	:	1- Methylimidazol
+MaterialDescription_Catalyst	: En kemisk forbindelse der bruges som katalysator, fx til at accelerere kemiske reaktioner.
+
+Y_Zeolite	:	Y-Zeolit
+MaterialDescription_Y_Zeolite	: Zeolitter er mineraler der normalt bruges som kommercielle adsorbenter og katalysatorer. Strukturen i deres porer og justerbare surhedsgrad gør dem meget reaktive i mange forskellige situationer.
+
+Ruthenium	: Ruthenium
+MaterialDescription_Ruthenium	: Ruthenium (Ru) er et skinnende, sølvagtigt metal som bruges i elektronikindustrien til chipmodstande.\n\nPga. dets evne til at absorbere lys i det synlige spektrum, bruges det meget i den kemiske industri som katalysator samt til solceller.
+
+Nickelplated_Steelcan	:	Nikkelpletteret ståldåse
+MaterialDescription_Nickelplated_Steelcan	: En stålbeholder pletteret med nikkel (Ni) på indersiden.
+
+Zinc_Powder	:	Zinkpulver
+MaterialDescription_Zinc_Powder	:	Zinks (Zn)evne til at tiltrække ilt (dvs. at oxidere) gør det effektiv i fremstillingen af batterier.
+
+Cathode_Electrolyte_Mix	: Katode-elektrolyt-blanding
+MaterialDescription_Cathode_Electrolyte_Mix	:	En katode i en elektrolyt-blanding. 
+Anode_Electrolyte_Mix	:	Anode-elektrolyt-blanding
+MaterialDescription_Anode_Electrolyte_Mix	:	En anode i en elektrolyt-blanding.
+Cathode_In_A_Container	:	Katode i en beholder
+MaterialDescription_Cathode_In_A_Container	:	Katode i en nikkelpletteret stålbeholder.
+
+Steel_Can_W_Membrane	:	Ståldåse m. membran
+MaterialDescription_Steel_Can_W_Membrane	: Membranen adskiller anoden og katoden, men den skal gennemvædes i en elektrolytblanding for at kunne have en fri strøm af ioner.
+
+Chlorine	:	Klor
+MaterialDescription_Chlorine	: Klor (Cl) er et grundstof som ofte bruges til desinfektion af vand, til at dræbe bakterier, vira og andre mikrober. Vandet i svømmebassiner indeholder ofte klor med dette formål.\n\nDesuden bruges det til afblegning af materialer. 
+
+Pretreated_Water	:	Første forbehandling
+MaterialDescription_Pretreated_Water	: Vand som indeholder klor for at undgå biologisk forurening; kornet forurening, fx småsten og sand, skal fjernes.
+
+Dechlorinated_Water	:	Vand med klor fjernet
+MaterialDescription_Dechlorinated_Water	: Vand uden klor.
+
+Finely_Filtrated_Water	:	Finfiltreret vand
+MaterialDescription_Finely_Filtrated_Water	:	Vand som har gennemgået flere filtreringstrin som har fjernet selv de mindste sandkorn.
+
+High_Pressure_Water	:	Højtryksvand
+MaterialDescription_High_Pressure_Water	:	Dette vand er under højtryk, og det vil skyde ud med enorm hastighed hvis det frigives.
+
+Reverse_Osmosis	:	Omvendt osmose
+MaterialDescription_Reverse_Osmosis	:	 Omvendt osmose bruger halvgennemtrængelige membraner (enten polymere membraner eller en grafenmembran) til at destillere vandet med.
+
+Graphene	:	Grafen
+MaterialDescription_Graphene	:	Grafen er et materiale der består af kulstofatomer ordnet i et meget tyndt, næsten gennemsigtigt lag, et atom tykt. Det kan bruges sammen med en halvgennemtrængelige membran til behandling af vand.\n\nDet kan bøjes, besidder mange interessante elektroniske egenskaber, og det anvendes i fly-, automobil- og elektronikindustrien.
+
+Calcium_Carbonate	:	Calciumcarbonat
+MaterialDescription_Calcium_Carbonate	:	Calciumcarbonat findes normalt i bjergarter og bruges ofte til at justere pH-værdien til et neutralt niveau, fx til at neutralisere sure eller basiske blandinger.\n\nDet bruges i stor udstrækning lige fra den petrokemiske industri til medicin.
+
+Salt_Water_In_Container	:	Saltvand i en beholder
+MaterialDescription_Salt_Water_In_Container	:	Hvis du drikker dette saltvand, bliver du bare mere tørstig.
+
+Feed_Flow_Pump	:	Indstrømningspumpe
+MaterialDescription_Feed_Flow_Pump	:	En pumpe der bruges til at pumpe vand med. Den kan anvendes til mange ting, fx at pumpe vand ind i en dam eller at pumpe vand ind i et akvarium eller at pumpe vand ind i en beholder.\n\nDen kan også pumpe vand.
+
+Aqua_Porin	:	Membran dækket med aquaporin
+MaterialDescription_Aqua_Porin	: Aquaporiner er vandkanal-proteiner der findes i næsten alt levende, lige fra bakterier til planter og mennesker, og de muliggør hurtig transport af vand gennem cellemembranerne.\n\Afhængigt af porestørrelsen kan disse membraner tillade at kun vandmolekyler trænger igennem.
+
+Water_Flow	:	Vandstrøm
+MaterialDescription_Water_Flow	:	Saltvand med tilhørende pumpe.
+
+Fo_Cell_W_Aquaporin	:	FO celle m. aquaporiner
+MaterialDescription_Fo_Cell_W_Aquaporin	:	Celle til fremadrettet osmose (FO) dækket med aquaporiner. Aquaporinerne renser vandet ved kun at tillade vandmolekyler at trænge igennem FO-cellen.
+
+Forward_Osmosis	:	Fremadrettet osmose
+MaterialDescription_Forward_Osmosis	: Halvdelen af en fremadrettet osmose-proces.\n\nResten af osmose-processen kræver en koncentreret opløsning til at inducere en vandstrøm gennem aquaporin-membranen.
+
+Nylon_Pipes	:	Nylonrør
+MaterialDescription_Nylon_Pipes	:	Rør fremstillet af nylon, en syntetisk polymer i mange former og størrelser.\n\nDe bruges til at overføre væsker fra et sted til et andet.
+
+Syrup	:	Sirup
+MaterialDescription_Syrup	: Sirup er sukker opløst i vand. Det kan bruges på mange måder i den kulinariske verden, og hvis det varmes op bliver det til karamel. NAM!
+
+Syrup_In_Container	:	Sirup i en beholder
+MaterialDescription_Syrup_In_Container	:	Sukkervand efterlader et klistret rod hvis det ikke styres.
+
+Stealth_Liposomes	:	Stealth-liposomer
+MaterialDescription_Stealth_Liposomes	: Liposomer som kan passere uopdaget af patientens immunsystem for at nå frem til det område hvor medikamentet skal leveres.
+
+Phospholipids	:	Fosforlipider
+MaterialDescription_Phospholipids	: Et fosforlipid er en af de vigtigste dele af en cellemembran i alt levende.\n\nFosforlipiderne er molekyler sammensat af to dele: et hydrofilt hoved (kan lide vand) og en hydrofobisk hale (kan ikke lide vand). Når fosforlipider sættes i vand, har hovedet en tendens til at være eksponeret for vandet, mens halen gemmer sig fra det. På denne måde forbinder de sig med hinanden og danner liposomer.
+
+Peg_Phospholipids	:	PEG-fosforlipider
+MaterialDescription_Peg_Phospholipids	: PEG er et materiale (polymer) som, når det vedhæftes til liposomer, gør dem ”usynlige” for det menneskelige immunsystem, dermed kan de undgå at blive afvist af kroppen.
+
+Drug_Delivery_Solution	:	Medikament/liposom-opløsning
+MaterialDescription_Drug_Delivery_Solution	:	En flydende opløsning med et medikament som kan injiceres i en patient.
+
+Medicine	:	Medicin
+MaterialDescription_Medicine	:	Medikamenter som kan helbrede sygdomme eller som i det mindste kan hjælpe i den retning.
+
+Syringe	:	Sprøjte
+MaterialDescription_Syringe	:	En sprøjte er en simpel pumpe som består af et stempel inde i et rør med en tilsluttet kanyle.\n\nDen bruges til at injicere væsker ind i hulrum eller til andre flydende komponenter.
+
+Smart_Delivery_Solution	:	Smart leveringsopløsning
+MaterialDescription_Smart_Delivery_Solution	:	Intelligente liposomer der bevæger sig gennem kroppen uden at blive opdaget af immunsystemet. De markerer og retter sig mod konkrete steder i kroppen der har brug for behandling med et medikament.
+
+Marker_Phospholipids	:	Markør-fotolipider
+MaterialDescription_Marker_Phospholipids	:	Molekyler som opdager placeringen af et medikament inde i kroppen.\n\nDet kan fx være en radioaktiv gruppe eller en fluorescerende gruppe som er hæftet til fotolipidet.
+
+Target_Phospholipids	:	Mål-fotolipider
+MaterialDescription_Target_Phospholipids	: En målretningsgruppe som kan sigte mod et konkret væv i menneskekroppen.\n\nAfhængigt af vævet kan målretningsgruppen være alt lige fra antistoffer til kulhydrater. Dette gør mål-fotolipiderne rigtige gode til at finde det væv som har brug for medicinsk behandling.
+
+Targeted_Drug_Delivery_Solution	:	Målrettet medikament-leveringsopløsning
+MaterialDescription_Targeted_Drug_Delivery_Solution	:	Et flydende medikament som kan injiceres i en patient.
+
+Nanorobot_Sensors	:	Nanorobotbeholder
+MaterialDescription_Nanorobot_Sensors	:	De sensorer som opdager sygdomme og navigerer nanorobotten (som er lukket inde i en PEG-beholder) gennem menneskekroppen.
+
+Navigation_Molecules	:	Navigeringssensorer
+MaterialDescription_Navigation_Molecules	: Navigeringssensorer er sensorer der bruges til at hjælpe med bevægelsen inde i kroppen.
+
+Detection_Molecules	:	Detektionsensorer
+MaterialDescription_Detection_Molecules	:	Detektionsensorer er kemiske sensorer som ”opfatter” en sygdom inde i kroppen.
+
+Pill_Container	:	PEG-beholder
+MaterialDescription_Pill_Container	:	En mikroskopisk beholder lavet af PEG-polymer. Den får de genstande den indeholder til at virke ”usynlige” for kroppen så de ikke bliver afvist af den.
+
+Propeller	:	Propeller
+MaterialDescription_Propeller	: Meget små propeller som driver små maskiner fremad.
+
+Movement_Robotics	:	Bevægelsesrobotik
+MaterialDescription_Movement_Robotics	: Maskinen i en nanorobot som opbevarer elektrisk energi og som også er i stand til at bevæge den igennem kroppens blodbaner.
+
+Nanorobot_Computer	:	Nanorobot-computer
+MaterialDescription_Nanorobot_Computer	: Den intelligente del af nanorobotten som analyserer og benytter data fra nanorobottens sensorer og som hjælper den med at navigere til de områder der skal have medicin.
+
+Microprocessor	:	Mikroprocessor
+MaterialDescription_Microprocessor	:	En meget lille computer som indsamler og behandler data, sender dem trådløst til en overvågningsenhed, som så beregner den dosis medicin der skal frigives.
+
+Drug_Loaded_Nanorobot	: Nanorobot læsset med medicin
+MaterialDescription_Drug_Loaded_Nanorobot	: Nanorobotten er blevet læsset med et medikament til sygdomsbekæmpelse.
+
+Pipe	:	Rør
+MaterialDescription_Pipe	:	Det her er ikke et rør.
+
+Metal_Electrodes	:	Metalelektroder
+MaterialDescription_Metal_Electrodes	:	Ledende metalelektroder som kan indfange den elektriske aktivitet i hjernen (normalt kaldet hjernebølger).
+
+Preamplified_Signal	:	EEG System
+MaterialDescription_Preamplified_Signal	: Metalelektroder tilsluttet en forstærker, som forstærker det ellers svage signal fra elektroderne.
+
+Amplifier	:	Forstærker
+MaterialDescription_Amplifier	: Disse går til elleve.
+
+Smartphone	:	Smartphone
+MaterialDescription_Smartphone	: En lille processorenhed som man kan holde i hånden og som er bærbar.\n\nDen modtager informationer gennem Wi-Fi eller Bluetooth-teknologi
+
+Eeg_System	:	Indkapslet EEG-system
+MaterialDescription_Eeg_System	: EEG (elektroencefalografi) er en optagelse af elektrisk aktivitet hen over hovedet.
+
+Plastic_Casing	:	Plastic indkapsling
+MaterialDescription_Plastic_Casing	: Plastic der bruges til at indkapsle forskellige genstande.
+
+Silver_Electrodes	:	Sølvelektroder
+MaterialDescription_Silver_Electrodes	: Ledende elektroder af sølv (Ag) som opfanger hjernens elektriske aktivitet (normalt kaldet hjernebølger)Sølv har den bedste ydelse for de konkrete signaler med lav amplitude som opdages af Full Scalp BCI’en.
+
+Laptop	:	Laptop
+MaterialDescription_Laptop	: En kraftig processorenhed som er bærbar. Den er normalt udstyret med Wi-Fi og Bluetooth-receptorer og software der går lige fra games til BCI optræningssystemer.\n\nDen kaldes også en ”computer”.
+
+Wires	:	Ledninger
+MaterialDescription_Wires	: Tråde eller stænger af metal som bruges til at overføre elektricitet og telekommunikations­signaler.
+
+Eeg_Cap	:	EEG-hætte
+MaterialDescription_Eeg_Cap	: En hætte lavet af strækbart og komfortabelt materiale (fx neopren), og som kan tilpasses hovedet.
+
+Silver_Chloride	:	Sølvklorid
+MaterialDescription_Silver_Chloride	: Sølvklorid er en kemisk forbindelse. Det laves om til sølv ved opvarmning.\n\nDet har forskellige formål, fx som en almindelig elektrode i elektrokemi, som antimikrobemiddel og som tilsætningsstof til farvning af glas.
+
+Invasive_Eeg_System	:	Invasivt EEG-system
+MaterialDescription_Invasive_Eeg_System	: Et elektrodegitter som kan transplanteres over på hjernebarken.
+
+Flexible_Polymer_Electrodes	:	Fleksible polymer-elektroder
+MaterialDescription_Flexible_Polymer_Electrodes	: En række fleksible polymer-elektroder som invasivt kan transplanteres under kraniet for at kunne optage selv de svageste signaler fra hjernevævet.\n\nDe er et mere biokompatibelt alternativ til metalelektroder fordi de ikke korroderer. 
+
+Embedded_Dedicated_System	:	Indlejret specielt indrettet system
+MaterialDescription_Embedded_Dedicated_System	: Et indlejret, specielt indrettet system til realtidsbehandling af et stort antal data, og eksporteringen af resultaterne til en ekstern anordning.
+
+Wireless_Decoder	:	Trådløs dekoder
+MaterialDescription_Wireless_Decoder	: En trådløs dekoder som modtager informationer fra fx en BCI-anordning.
+
+Silicone	:	Silikone
+MaterialDescription_Silicone	: Polymerer som varmebestandige og som har en gummiagtig tekstur. Det kan nemt formes til alle mulige former, og det findes ofte i Los Angeles.\n\nDet bruges også som fyldstof inden for proteseteknologien for at beskytte huden mod gnidning.
+
+Polypropylene	:	Polypropylen
+MaterialDescription_Polypropylene	: Polypropylen er en meget stiv og stærk plastic som kan formes til mange forskellige former.
+
+Socket_Suspension	:	Led og ophæng
+MaterialDescription_Socket_Suspension	: Det led og ophæng som forbinder protesen til personen som bruger det.
+
+Pylon	:	Pylon
+MaterialDescription_Pylon	: Pylonen er den interne ramme eller skelettet af protesen.
+
+Motor	:	Motor
+MaterialDescription_Motor	: En elektrisk maskine som omdanner elektrisk energi til mekanisk energi hvilket giver bevægelse.
+
+Titanium	:	Titanium
+MaterialDescription_Titanium	: Titan eller titanium (Ti) er et biokompatibelt letvægtsmetal som blev opdaget i 1791.\n\nDet har udmærkede anti-korrosionsegenskaber, og det er det metalliske grundstof som har det største forhold mellem styrke og densitet.
+
+Carbon_Fiber	:	Kulstoffibre
+MaterialDescription_Carbon_Fiber	: Kulstoffibre er et stærkt letvægtsmateriale lavet af fiberforstærkede polymerer.\n\nDet bruges inden for ingeniørvidenskab når der er brug for lette, men stærke materialer. Fx inden for luftfartsvidenskab, vingestrukturer kan laves primært af kulstoffibre.
+
+Bare_Prosthetic_Leg	:	Bart kunstigt ben
+MaterialDescription_Bare_Prosthetic_Leg	: En funktionsdygtig benprotese uden den endelige kosmetiske behandling.
+
+Leg_Casing	:	Benhylster
+MaterialDescription_Leg_Casing	: Det kosmetiske benhylster der skal sættes rundt om pylonen. 
+
+Polyutherane_Foam	:	Polyuretanskum
+MaterialDescription_Polyutherane_Foam	: Polyuretanskum er en plastic der er nem at forme.
+
+Eeg_System_2	:	Indkapslet Full Scalp EEG-system
+MaterialDescription_Eeg_System_2	: EEG (elektroencefalografi) er en optagelse af elektrisk aktivitet hen over hovedet.\n\nDisse elektroder er sat ind i en hætte lavet af syntetisk gummi.
+
+Angry_Gnome	:	Vred nisse
+MaterialDescription_Angry_Gnome	:	En vred nisse er ikke noget smukt syn, og den vil forbande dig.\n\nSå lad være med at drille nissen
+
+Poop	:	Bæ
+MaterialDescription_Poop	:	Også kaldet ”afføring”, dette materiale er organisk affald der kan bruges på mange måder, fx til plantegødning, en passiv-aggressiv måde at tage dig af en irriterende nabo eller simpelthen en effektiv måde at holde andre mennesker væk pga. den kraftige stank.
+
+Carbon_Paper	:	Kulstofpapiruel_cells_2
+MaterialDescription_Carbon_Paper	: Kulstofpapir består af kulstof­mikrofiber fremstillet i flade ark, og det bruges ofte i elektronik­industrien som elektrodemateriale pga. dets gode elektriske ledeevne.
+
+Catalyst_Covered_Anode_1	:	Katalysatordækket anode
+MaterialDescription_Catalyst_Covered_Anode_1	: Anoden er den negative elektrode som taber elektroner ved oxideringen.\n\nDen består af en blanding af materialer: Grafitpulver og Teflon samt nikkel og sølv der fungerer som katalysatorer.
+
+Catalyst_Covered_Anode_2	:	Katalysatordækket anode
+MaterialDescription_Catalyst_Covered_Anode_2	: Anoden er den negative elektrode som taber elektroner ved oxideringen.\n\nDen består af kulstofpapir dækket med platin som katalysator.
+
+Catalyst_Covered_Cathode_1	:	Katalysatordækket katode
+MaterialDescription_Catalyst_Covered_Cathode_1	: Katoden er den positive elektrode som får elektroner ved reduktion.\n\nDen består af en blanding af materialer: Grafitpulver og Teflon samt sølv der fungerer som katalysator.
+
+Catalyst_Covered_Cathode_2	:	Katalysatordækket katode
+MaterialDescription_Catalyst_Covered_Cathode_2	:	Katoden er den positive elektrode som får elektroner ved reduktion.\n\nDen består af kulstofpapir dækket med platin som katalysator.
+
+Fuel_Cell	:	Brændselscelle
+MaterialDescription_Fuel_Cell	: Brændselscellen (ligesom et batteri i almindelighed) består af en anode og en katode adskilt i en elektrolyt.
+
+Pem_Fuel_Cell	:	PEM-brændselscelle
+MaterialDescription_Pem_Fuel_Cell	: Brændselscellen (ligesom batterier i almindelighed) består af en anode og en katode adskilt af en elektrolyt.\n\nElektrolytten i en PEM-brændselscelle er en fast polymer elektrolytmembran.
+
+Hydrogen	:	Brint
+MaterialDescription_Hydrogen	: Brint eller hydrogen (H) er det mest forekommende grundstof i universet, og det har et kraftigt potentiale som brændstof.\n\nNår det reagerer med ilt dannes der energi, der giver et harmløst biprodukt: vand.
+
+Oxygen_Fueled_Cell	:	Iltbrændselscelle
+MaterialDescription_Oxygen_Fueled_Cell	: Ilt bruges også som brændstof i brændselsceller, og når det kombinerer med brint dannes et harmløst biprodukt: vand.
+
+Hydrogen_Fueled_Cell	:	Brintbrændselscelle
+MaterialDescription_Hydrogen_Fueled_Cell	: Brint er det grundlæggende brændsel i brændselsceller.\n\nAnodekatalysatoren nedbryder brinten, hvorefter elektroner tiltrækkes af katoden.
+
+Pem_Hydrogen_Fueled_Cell	:	PEM-brintbrændselscelle
+MaterialDescription_Pem_Hydrogen_Fueled_Cell	: Brint er det grundlæggende brændsel i brændselsceller.\n\nAnodekatalysatoren nedbryder brinten, hvorefter elektroner tiltrækkes af katoden.
+
+Pem_Oxygen_Fueled_Cell	:	PEM-iltbrændselscelle
+MaterialDescription_Pem_Oxygen_Fueled_Cell	: Ilt bruges også som brændstof i brændselsceller, og når det kombinerer med brint dannes et harmløst biprodukt: vand.
+
+Polymer_Electrolyte_Membrane	:	Polymer elektrolytmembran
+MaterialDescription_Polymer_Electrolyte_Membrane	: En fast elektrolyt lavet af et porøst materiale som kun tillader positive ioner, som tiltrækkes af katoden, at slippe igennem.
+
+Electrolyte	:	Elektrolyt
+MaterialDescription_Electrolyte	: Elektrolytten er det middel der lader den elektriske ladning strømme mellem de to elektroder. Det må kun lade de passende ioner passere mellem to de elektroder.
+
+Drug_Delivering_Unit	:	Medicinleveringsenhed
+MaterialDescription_Drug_Delivering_Unit	: En enhed som leverer medicin til en patient ved at pumpe medicinen gennem en kanyle. 
+
+Monitoring_Unit	:	Overvågningsenhed
+MaterialDescription_Monitoring_Unit	:	Overvågningsenheden måler substanser i kroppen og transmitterer dataene.
+
+Insulin_Delivering_Loop	:	Medicinleveringsloop
+MaterialDescription_Insulin_Delivering_Loop	: Et loop placeret i patientens krop og som kan indsamle data fra kroppen og levere medicin.
+
+Needle	:	Kanyle
+MaterialDescription_Needle	: En kanyle bruges til at trænge igennem huden og injicere et medikament i patientens krop.
+
+Insulin_Pump	:	Insulinpumpe
+MaterialDescription_Insulin_Pump	: En lille maskine på størrelse med en mobiltelefon der bruges til at pumpe en medicin fx insulin.
+
+Diabetes_Transmitter	:	Transmitter
+MaterialDescription_Diabetes_Transmitter	: En anordning som trådløst transmitterer informationer til en processor.
+
+Glucose_Sensor	:	Sensor
+MaterialDescription_Glucose_Sensor	: En meget lille anordning der er placeret under huden på en patient, og den bliver fastholdt der med et plaster.\n\nDen måler mængden af en substans i kropsvæskerne, fx i tilfælde af diabetes, mængden af glukose.
+
+Aluminium_Oxide_Substrate : Aluminiumoxid-substrat
+MaterialDescription_Aluminium_Oxide_Substrate	:	Syntetisk fremstillet aluminiumoxid, et hvidt eller næsten farveløst krystallinsk materiale der bruges som substrat.
+
+Teflon	:	Teflon
+MaterialDescription_Teflon	: Teflon er en syntetisk polymer som blev opdaget ved et tilfælde i 1938.\n\nDet bruges ofte som ikke-klistrende overfladebelægning på køkkengrej. Det har også rigtig gode dielektriske egenskaber hvilket gør det brugbart elektrode i batterier.
+	
+
+
+//TECHNOLOGIES
+
+//BRICK
+Brick_1	:		Lys lermursten
+MaterialDescription_Brick_1	:		En mursten er en blok af æltet lerjord og sand, brændt hård (eller lufttørret), og som bruges til murstensbyggeri.\n\nDen hvidlige farve viser at der ikke blev dannet jernoxid ved opvarmningen.
+
+Brick_2	:		Mørk lermursten
+MaterialDescription_Brick_2	:		En mursten er en blok af æltet lerjord og sand, brændt hård (eller lufttørret), og som bruges til murstensbyggeri.\n\nDenne særlige mursten er meget holdbar.
+
+
+//PAPER
+Paper_1:		Papir som ikke er stærkt
+MaterialDescription_Paper_1	:		Papir som ikke er stærkt, fremstilles ved mekanisk knusning. Fremstillingsprocessen har færre omkostninger og fri for kemikalier, men den bruger store mængder energi.
+
+Paper_2:		Papir som er stærkt
+MaterialDescription_Paper_2	:		Meget stærkt papir fremstilles ved kemisk opløsning i en energieffektiv proces som giver bedre styrke og glans.
+
+Paper_3:		Genbrugspapir
+MaterialDescription_Paper_3	:		Papir lavet af gammelt papir. Da papir er et materiale der nemt kan genbruges, nedsætter det miljøpåvirkningerne af at bruge papir når man genbruger det. 
+
+//GLASS
+Glass_1:		Normalt glas
+MaterialDescription_Glass_1	:		Glas er et amorft (ikke-krystalinsk) fast stof som normalt er skørt og optisk gennemsigtigt.
+
+Glass_2:		Holdbart glas
+MaterialDescription_Glass_2	:		Normalt glas går nemt i stykker, derfor skal det laves om til en mere holdbar form til et stort brugsområde. Holdbart glas har mange anvendelsesmuligheder, fx til møbler, husholdningsapparater og selvfølgelig smartphones.
+
+Glass_3:		Miljøvenligt glas
+MaterialDescription_Glass_3	:		Miljøvenligt glas er delvist fremstillet af genbrugsglas, og dermed reduceres forbruget af råmaterialer.
+
+//DISPLAY
+Display_1:		LED-display
+MaterialDescription_display_1	:		Kompakte og bærbare displays. LED-displays er sammensat af lysdioder (lysemitterende dioder – LED’er) og flydende krystaller. Lysdioder producerer lys, og de flydende krystaller styrer intensiteten af dette lys når vi ændrer deres retning.
+
+Display_2:		OLED-display
+MaterialDescription_display_2	:		Organiske LED-displays er baseret på organiske materialer for at deres LED’er kan lyse.\n\nDe er kompakte og bærbare og kan også bøjes.
+
+Display_3:		IGZO-display
+MaterialDescription_display_3	:		IGZO-displays bruger gennemsigtigt halvleder-materiale. Det gør dem ideelle til brug i gennemsigtige elektroniske anordninger.\n\nIGZO-teknologi findes i smartphones og tabletdisplays.
+
+
+
+//SEMICONDUCTOR
+SemiConductor_1:		Halvleder
+MaterialDescription_SemiConductor_1	:		En halvleder er et materiale som har en elektrisk ledeevne der let kan ændres.\n\nDen kan tunes til enten at fungere som en leder eller en isolator.
+
+SemiConductor_2:		pn-overgangshalvleder
+MaterialDescription_SemiConductor_2	:		Når en p-type og en n-type halvleder bringes i kontakt med hinanden opstår et halvledermateriale med en tosidet natur.\n\nDet er den fundamentale anordning bag den digitale tidsalders elektronik.
+
+
+//WORLD BATTERY
+WorldBattery_1:		Piezoelectrisk anordning
+MaterialDescription_WorldBattery_1	:		Piezoelektriske anordninger er anordninger som høster mekanisk energi (menneskelig bevægelse, lydbølger, vind) og laver den om til elektrisk energi vha. en kategori af materialer som kaldes piezoelektriske.
+
+WorldBattery_2:		Termoelektrisk generator
+MaterialDescription_WorldBattery_2	:		Termoelektriske generatorer er anordninger som omdanner termisk energi til elektricitet, som regel med en effektivitet på 7-8 %.
+
+
+//STEEL
+Steel_1:		Bygningsstål
+MaterialDescription_Steel_1	:		Stål er en metallegering af jern og kulstof. Bygningsstål gør det muligt at bygge større og stærkere byggerier som kan modstå bøjende kræfter og give bedre jordskælvsbeskyttelse.
+
+Steel_2:		Kabelstål 
+MaterialDescription_Steel_2	:		Kabelstål et meget stærkt stål der bruges til bygning af broer, elevatorer og kraner.
+
+Steel_3:		Rustfrit stål
+MaterialDescription_Steel_3	:		Rustfrit stål er meget modstandsdygtigt mod korrosion, hvilket gør det brugbart til redskaber der kommer i kontakt med væsker.
+
+
+//ARTIFICIAL PHOTOSYNTHESIS
+ArtificialPhotoSynthesis_1:		Kunstigt blad
+MaterialDescription_ArtificialPhotosynthesis_1	:	 Et kunstigt blad er en anordning hvor en kemisk proces efterligner den naturlige proces, fotosyntesen. Det kunstige blad høster sollys for at splitte vandmolekyler og producere brint. Brinten kan så bruges som brændstof.
+
+ArtificialPhotoSynthesis_2:		Super-kunstigt blad
+MaterialDescription_ArtificialPhotosynthesis_2	:		 Et kunstigt blad er en anordning hvor en kemisk proces efterligner den naturlige proces, fotosyntesen. Det meget kunstige blad høster sollys for at splitte vandmolekyler og producere brint. Brinten kan så bruges som brændstof.\n\nÆdelmetaller som er svære at finde her på Jorden, udskiftes med avancerede materialer hvilket gør processen mere bæredygtig.
+
+
+//STEEL
+LabOnAChip_1:		Et laboratorium på en chip
+MaterialDescription_LabOnAChip_1 :		Et laboratorium på en chip (LoC) er en anordning hvor alle funktioner i et laboratorium er formindsket til nogle få kvadratcentimeter. Det hjælper til med at diagnosticere tidligt og forbedre chancerne for helbredelse.
+
+LabOnAChip_2:		Polymer-laboratorium på en chip 
+MaterialDescription_LabOnAChip_2 :		Et laboratorium på en chip (LoC) er en anordning hvor alle funktioner i et laboratorium er formindsket til nogle få kvadratcentimeter. Det hjælper til med at diagnosticere tidligt og forbedre chancerne for helbredelse.\nDen her er baseret på et polymersubstrat, hvilket gør fremstillingsprocessen mere fleksibel og biokompatibel sammenlignet med substrater af glas eller silicium.
+
+LabOnAChip_3:		Papir-laboratorium på en chip 
+MaterialDescription_LabOnAChip_3 :		Et laboratorium på en chip (LoC) er en anordning hvor alle funktioner i et laboratorium er formindsket til nogle få kvadratcentimeter. Det hjælper til med at diagnosticere tidligt og forbedre chancerne for helbredelse.\nDet her papir-LoC opsuger væsker passivt, er billig og biokompatibel, og det giver en hurtig og visuel detektion.
+
+
+//BATTERY
+Battery_1:			Alkalinsk batteri
+MaterialDescription_Battery_1	:		Engangsbatterier frembringer elektricitet fra en irreversibel kemisk reaktion, og de kan derfor ikke genoplades.\nDe bruges til at give strøm til apparater som fx MP3-spillere, ure, lommelygter eller endog pacemakere.
+
+Battery_2:			Litiumion-batteri
+MaterialDescription_Battery_2	:		Genopladelige batterier kan genoplades mange gange indtil de til sidst ikke virker mere. De findes som regel i bærbare og mobiltelefoner.\nBatteriet aflades og genoplades ved at ændre retningen af den elektrokemiske reaktion.
+
+Battery_3:			Litium-jernfosfat-batteri
+MaterialDescription_Battery_3	:		En mere avanceret type genopladeligt batteri kan holde mindre energi, men det kan levere den meget hurtigt. Det er lille og har en længere levetid.\n\nDet bruges i elektriske biler og som anordninger til backupstrøm.
+
+
+//INTERNET OF THINGS
+InternetOfThings_1:	Internet af ting
+MaterialDescription_InternetOfThings_1	:	I fremtiden vil de fleste genstande være udstyret med elektroniske anordninger der er forbundet til et fælles netværk.\n\nDet vil gøre det muligt for en person at overvåge husholdningsapparater og interagere med dem uden selv at være til stede.
+
+
+//TRANSIENT ELECTRONICS
+TransientElectronics_1:	Papir-solcelle
+MaterialDescription_TransientElectronics_1	:	En ny tendens inden for miljøvenlige materialer til solceller er kommet frem i de seneste år pga. giftighed og problemer med genbrug af konventionelle materialer.\n\nSolceller af papir er billigere og genbrugelige.
+
+TransientElectronics_2:	Midlertidigt batteri
+MaterialDescription_TransientElectronics_2	: En opløselig anordning som kan implanteres i en menneskekrop til at forsyne strøm til elektronik.\n\nDet midlertidige batteri kan bruges til at forsyne strøm til små apparater og bagefter blive opløst i vand eller menneskelige væsker da det er biologisk nedbrydeligt.
+
+
+//SOLAR PANEL
+SolarPanel_1:			Solcelle
+MaterialDescription_SolarPanel_1	:		En solcelle (eller fotovoltaisk celle) er en anordning som omdanner solenergi til elektrisk energi.\nSolenergi er en vedvarende form af energi, og dets udnyttelse giver en mere bæredygtig måde at producere elektrisk energi, sammenlignet med fossile brændstoffer.
+
+SolarPanel_2:			Tynd-film-solcelle
+MaterialDescription_SolarPanel_2	:		En tyndfilm-solcelle bruger sollys til at producere elektrisk energi. Det er for det meste baseret på amorft (ikke-krystalinsk) siliciumlag med en tykkelse på nogle få nanometer, meget tyndere end konventionelle solceller.\n\nDens effektivitet er mindre end konventionelle solceller.
+
+SolarPanel_3:			Organisk solcelle
+MaterialDescription_SolarPanel_3	:		Organiske solceller er baseret på halvleder-polymerer, og de kan være billigere end almindelige og tyndfilm-solceller.\n\nPolymerer er organiske materialer som lover mere bæredygtige solceller.
+
+
+//Photoreduction of co2
+PhotoReductionOfCO2_1:			Krukkelampe-reaktor
+MaterialDescription_PhotoReductionOfCO2_1	:		Denne reaktor gør det muligt at reducere CO2 koncentrationen i luften og samtidigt producere brugbart brændstof og ilt.\n\nDet er en kemisk reaktion der finder sted katalyseret af en fotokatalysator og tilstedeværelsen af lys.
+
+PhotoReductionOfCO2_2:			Optisk fiberreaktor
+MaterialDescription_PhotoReductionOfCO2_2	:		Den optiske fiberreaktor reducerer CO2 koncentrationen i luften samtidigt med at den producerer brugbart brændstof og ilt.\n\nDet tilstedeværende lys kommer ind i reaktoren gennem optiske fibre. Det gør processen mere effektiv end i glaskrukkereaktoren.
+
+PhotoReductionOfCO2_3:			Naturligt lys-reaktor
+MaterialDescription_PhotoReductionOfCO2_3	:		Denne reaktor bruger koncentreret sollys til at aktivere fotokatalysatoren.\n\nVanddampe og atmosfærisk luft flyder gennem et rør hen til fotokatalysatoren som er placeret på indersiden af røret. 
+
+
+//Carbon nanotubes
+CarbonNanoTubes_1:			Kulstof­nanorør (CNT’er)
+MaterialDescription_CarbonNanoTubes_1	:	Kulstofnanorør (CNT’er) er rørformede materialer som er 50,000 gange tyndere end et menneskehår og 500 gange stærkere end stål.\n\nDe byder på utrolige og unikke mekaniske, termiske og elektriske egenskaber.
+
+CarbonNanoTubes_2:			CNT/polymer kompositter
+MaterialDescription_CarbonNanoTubes_2	:	Polymerer er elektriske og termiske isolatorer med lav styrke og hårdhed. CNT’er kan bruges som avanceret fyldmateriale i polymer­kompositter hvilket gør dem hårdere og stærkere.\n\nCNT’er/polymer­kompositter giver en forøget elektrisk og termisk ledeevne sammenlignet med den oprindelige polymer.
+
+
+//WATER DESALINATION
+WaterDesalination_1:	Afsaltning med omvendt osmose
+MaterialDescription_WaterDesalination_1	: Afsaltning med omvendt osmose er en vandrensnings­teknologi som anvender halv­gennem­trængelige membraner og tryk for at udskille salte og andre mineraler fra havvand for at fremstille ferskvand.
+
+WaterDesalination_2:	Afsaltning med omvendt osmose (grafen)
+MaterialDescription_WaterDesalination_2	: Afsaltning med omvendt osmose er en vand­rensnings­teknologi.\nBrugen af grafen i en avanceret membran til at udskille salte og andre mineraler fra havvand er mere energi­effektivt, og det giver en højere mængde af vand­strøm sammenlignet med de halvgennemtrængelige membraner.
+
+WaterDesalination_3:	Aquaporiner
+MaterialDescription_WaterDesalination_3	: Aquaporiner er vandkanal-proteiner der findes i næsten alt levende. Brugen af aquaporiner på en halvgennemtrængelig membran er supper effektivt idet de kun tillader vandmolekyler at trænger igennem.
+
+//TARGETED DRUG DELIVERY
+TargetedDrugDelivery_1:	Avanceret medicinlevering
+MaterialDescription_TargetedDrugDelivery_1	: Avanceret medicinlevering betyder at transportere og levere et medikament i kroppen. Medikamentet vedhæftes en bærer­platform og overføres til kroppen. Der bruges mange forskellige mikro-/nanobærer, fx nano­partikler, proteiner og liposomer. I dette tilfælde bruges et liposom (en boble med samme struktur som en celle­membran) som bærer­platform.
+
+TargetedDrugDelivery_2:	Smart medicinlevering
+MaterialDescription_TargetedDrugDelivery_2	: Smart medicinlevering kan målrette medikamentet mod konkrete væv eller organer til forskel fra avanceret medicinlevering, og derfor kan man opnå en helbredelse.\nSmarte medicin­leverings­systemer benytter billed­dannelses­midler som kan opfange mængden af medikament og hvor det er placeret, hvilket gør det mere effektivt.
+
+TargetedDrugDelivery_3: Biofeedback medicinlevering
+MaterialDescription_TargetedDrugDelivery_3	: Et medicin­leverings­­system der samtidigt kan overvåge, analysere og levere et medikament.\nDisse systemer er sammensat af en sensor, en algoritme til at beregne doseringen og et system til at levere medikamentet.
+
+
+//NANOROBOTS
+NanoRobots_1:	Nanorobotter
+MaterialDescription_NanoRobots_1	: En fremtidig teknologi inden for medicinlevering som består af mikroskopiske anordninger inde i kroppen.\nAnordningen er i stand til samtidigt at registrere, kommunikere og behandle informationerne og så frigive den optimale dosis medicin når og hvor det behøves i kroppen.
+
+
+//BRAIN COMPUTER INTERFACES
+BrainComputerInterfaces_1:	Hjerne­computer­grænseflade i hovedbånd
+MaterialDescription_BrainComputerInterfaces_1	:  En grundlæggende sammensætning af en hjerne­computer­grænseflade (Brain Computer Interface – BCI), et system som bruger hjernebølger til at styre og overvåge elektroniske anordninger. Denne anordning har en grundlæggende registrering af hjernebølgeaktivitet, og den hjælper med at overvåge mentale tilstande.\n\nDen kan give informationer og konkrete følelser og overvåge søvnstadier.
+
+BrainComputerInterfaces_2:	Hjernecomputergrænseflade over hele kraniet
+MaterialDescription_BrainComputerInterfaces_2	: Denne hjerne­computer­grænseflade (BCI) anvender et ikke-invasivt elektroencefalografi­system (eeg) med 32 kanaler. Anvendelsen af flere elektroder i bedre kvalitet giver systemet en mere præcis aflæsning af hjernebølgerne, og det gør det muligt for en person at styre en markør.
+
+BrainComputerInterfaces_3:	Invasiv hjerne­computer­grænseflade 
+MaterialDescription_BrainComputerInterfaces_3	: Denne hjerne­computer­grænseflade (BCI) anvender elektrode inde i kraniet til at registrere ECoG (elektro-cortico-grafiske) signaler, hvilket betyder at signalerne registreres direkte fra hjernebarken (cortex) hvilket eliminerer støj­faktorer.\n\nDet kan give kontrol med bevægelsen af proteser og endog hjerne til hjerne kommunikation mellem to brugere, aka telepati.
+
+
+
+//PRINTABLE PROSTHETICS
+PrintableProsthetics_1:	Protese
+MaterialDescription_PrintableProsthetics_1	: Proteser er enten eksterne eller implantat­anordninger der er fremstillet for at erstatte eller supplere en manglende kropsdel.
+
+
+//FUEL CELLS
+FuelCells_1:	Alkaliske brændselsceller
+MaterialDescription_FuelCells_1	: En brændselscelle er en anordning som frembringer elektricitet gennem en kemisk reaktion hvor brint er der grundlæggende brændstof. En af de meget tiltrækkende ting ved brændselsceller er at de danner elektricitet uden at forurene miljøet, idet deres væsentlige biprodukter er varme og vand.
+
+FuelCells_2:	PEM-brændselsceller
+MaterialDescription_FuelCells_2	: Brændselscellen med protron­udvekslings­membran er en af de mest almindeligt brugte typer af brændselsceller.\n\nDa de er baseret på en elektrolyt som er et fast stof, kan de ikke lække, og da de fungerer ved lave temperaturer, er de velegnede til biler og hjem.
+
+
+
+
+Oil:	Olie
+MaterialDescription_Oil	: Det kaldes også sort guld, den her sorte klæbrige substans som kan gøre en utrolig rig i denne moderne tidsalder, og som har forskellige anvendelsesmuligheder lige fra brændstof til medicinalvarer.\n\nPå trods af dets brugbarhed i det moderne samfund, har det haft negative indvirkninger på Jordens biosfære, har skadet økosystemer med olieudslip og har sendt en masse forurening ud i luften.
+
+
+Boom:	Bum
+MaterialDescription_Boom	: Hvem satte bum i bum shh-bum shh-bum?\nHvem satte tingen og tingen sammen nu?\nHvor er ham fyren som lavede alt det her rod?\nHvem vidste ikke at når disse ting blev sat sammen så ville det sige POW!
+
+

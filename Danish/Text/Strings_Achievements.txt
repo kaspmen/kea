@@ -1,0 +1,54 @@
+//GUIDE FOR TRANSLATORS
+// Updated:11th of May, 2015
+
+// 1) text with yellow background is comments and IS NOT to be translated
+// 2) text with red background is ID's and IS NOT to be translated
+// 3) codes inside the text MUST BE LEFT AS IS. 
+// E.g. “... a second time. \n\nThe second heat-treatment...”: The '\n\n' and space around must be left as is
+// 4) If there is a max character limit it will be stated in comments sections
+
+
+
+AchievementCompleted:				Godt gået!\n\nDu har låst op for en bedrift.
+AchievementInstruction:			Lås op for bedrifter for at tjene yderligere point.
+
+AchievementLocked:				Låst
+AchievementUnlocked:			Låst op
+
+Achievement01_Name:				Murerlogen
+Achievement01_Description:		Nej, du er ikke blevet inviteret til at blive medlem af Murerlogen. Og nej, du kan ikke ansøge om at blive medlem af Murerlogen. Men kunne du bygge dit eget hovedkvarter?\n\nBehold 5 mørke mursten i din bys lagerbeholdning.
+
+Achievement02_Name:				Cyber-punker
+Achievement02_Description:		Halv mand, halv maskine, højrøstet og imod det etablerede samfund.\n\nBehold biofeedback medicinlevering, invasive BCI og nanorobotter din bys lagerbeholdning.
+
+Achievement03_Name:				Tidsrejesende 
+Achievement03_Description:		Fra langt ude i fremtiden til langt tilbage i tiden, så har du været der. Lad os nu bare ignorere de tidsparadokser som du har knaldet ind i tidens væv.\n\nGør alle tidsaldrene i spillet færdige. 
+
+Achievement04_Name:				Skal lave det hele!
+Achievement04_Description:		Tak for at spille det her game, du har gjort skaberne af gamet helt målløse. Godt gået!
+
+Achievement05_Name:				Naturens barn
+Achievement05_Description:		Du er fremtiden der længes efter det forgangne. Men ikke i alle aspekter af livet, for du kunne helt sikkert ikke leve uden dine elektro-dingenoter 3000. Du nyder bare lugten af nyslået græs og blade der rasler i vinden.\n\nBehold økologiske solcelle, papir-solcelle og super-kunstigt blad i din lagerbeholdning.
+
+Achievement06_Name:				Medicinmand
+Achievement06_Description:		Du er af direkte afstamning fra Hippokrates med nok medicin til at helbrede hele verden.\n\nBehold alle målrettede medicinleveringsteknologier din bys lagerbeholdning.
+
+Achievement07_Name:				Sort guld
+Achievement07_Description:		JUUBII! Du har fundet guld, min dreng! Snart bliver du rigere end en snemand på Nordpolen.
+
+Achievement08_Name:				Ske-bøjer
+Achievement08_Description:		Har du telekinetiske kræfter? En spændende fremtid med let underholdning venter dig. Du kommer til at underholde masser af mennesker med at bøje skeer og meget meget mere.!\n\nSørg for at have invasive BCI og rustfrit stål i din lagerbeholdning.
+
+Achievement09_Name:				Billigbogsforfatter
+Achievement09_Description:		Kære hr. eller frue. Vil De læse min bog?\nDet har taget mig flere år at skrive den. Vil De ikke gerne kigge?\nMange træer er døde i den lange proces\nmed at nedskrive alle de ideer jeg har.\nJeg har brug for et job, og jeg vil være billigbogsforfatter.
+
+Achievement10_Name:				Du er nummer 1!
+Achievement10_Description:		… i racet om at nå sidstepladsen. Anstreng dig lidt mere, vil du ikke? At lave ubrugelige materialer igen og igen er ikke bare dårligt for miljøet, det stinker også af fiasko.
+
+Achievement11_Name:				Power trip
+Achievement11_Description:		Du har mere elektronik spændt fast til dig end Robocop, og du udsender nok elektrisk energi til at forsyne et lille øsamfund.\n\nSkab alle energiproducerende teknologier.
+
+Achievement12_Name:				Skyskrabernes konge
+Achievement12_Description:		Du har rejst en meget høj bygning af stål og glas, og nu tænker du på om folk vil synes at du prøver p at kompensere for et eller andet.
+
+
